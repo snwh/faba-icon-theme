@@ -13,6 +13,7 @@ If you're feeling awesome, you may add icons I've missed or that you would like 
 
 ###Supplementary Themes 
 
+ * [Faba Colors](https://github.com/snwh/faba-colors)
  * [Faba Mono Icons](https://github.com/snwh/faba-mono-icons)
  * [Faba Symbolic Icon Theme](https://github.com/snwh/faba-icon-theme-symbolic)
 
