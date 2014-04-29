@@ -10,7 +10,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Faba'
-SOURCES = ('src/actions', 'src/folders', 'src/mimetypes')
+SOURCES = ('src/monochrome', 'src/fullcolor')
 
 inkscape_process = None
 

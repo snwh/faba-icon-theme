@@ -13,6 +13,7 @@ debian/faba-icon-theme.substvars
 debian/faba-icon-theme
 
 src/WIP
+src/WIP/*
 
 generate-symlinks.sh
 quick.sh
