@@ -1,8 +1,16 @@
+faba-icon-theme (2.1.1) UNRELEASED; urgency=low
+
+  * 2.1.1 Fixed packaging error
+
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Tue, 29 Apr 2014 00:00:23 -0400
+
 faba-icon-theme (2.1) UNRELEASED; urgency=low
 
   * 2.1 Merged symbolic icons into it.
 
  -- Sam Hewitt <hewittsamuel@gmail.com>  Tue, 29 Apr 2014 00:00:23 -0400
+
+faba-icon-theme (2.0) UNRELEASED; urgency=low
 
   * 2.0 point release.
 
