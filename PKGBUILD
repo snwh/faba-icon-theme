@@ -4,14 +4,14 @@ pkgver=2.1
 pkgrel=1
 pkgdesc="This is the base icon set for Faba. It is designed with simplicity and compliance to Tango desktop standards in mind. "
 arch=('any')
-url="https://github.com/snwh/faba-icon-theme"
+url="https://github.com/moka-project/faba-icon-theme"
 license=('GPL3')
 depends=()
 makedepends=('git')
 optdepends=()
 provides=('faba-icons-git')
 conflicts=('faba-icons-git')
-source=('git+https://github.com/snwh/faba-icon-theme.git')
+source=('git+https://github.com/moka-project/faba-icon-theme.git')
 md5sums=('SKIP')
 
 pkgver() {

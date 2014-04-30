@@ -7,7 +7,7 @@ Faba Icon Theme is distributed under the terms of the GNU GPL v.3
 
 ###Preamble
 
-If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/snwh/faba-icon-theme/issues).
+If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
 
 If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://mokaproject.com/requests) or contribute a [donation](http://www.mokaproject.com/#donate/ "Donate"). :)
 
@@ -17,17 +17,17 @@ Faba and all it's supplementary themes can be downloaded [here](http://mokaproje
 
 ###Supplementary Themes 
 
- * [Faba Colors](https://github.com/snwh/faba-colors)
- * [Faba Mono Icons](https://github.com/snwh/faba-mono-icons)
- * [Faba Symbolic Icon Theme](https://github.com/snwh/faba-icon-theme-symbolic)
+ * [Faba Colors](https://github.com/moka-project/faba-colors)
+ * [Faba Mono Icons](https://github.com/moka-project/faba-mono-icons)
+ * [Faba Symbolic Icon Theme](https://github.com/moka-project/faba-icon-theme-symbolic)
 
 ###Getting the Source
 
-The source for Faba Icon Theme can be found [here](https://github.com/snwh/faba-icon-theme).
+The source for Faba Icon Theme can be found [here](https://github.com/moka-project/faba-icon-theme).
 
 Alternatively, you can clone the latest version its git repository:
 
-    git clone https://github.com/snwh/faba-icon-theme.git
+    git clone https://github.com/moka-project/faba-icon-theme.git
 
 ###Using the Source
 
