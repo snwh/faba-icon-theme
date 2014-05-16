@@ -16,5 +16,7 @@ src/WIP
 src/WIP/*
 
 generate-symlinks.sh
+generate-symlinks-panel.sh
+trim-panel-icons.sh
 quick.sh
 create-zip.sh

@@ -14,8 +14,8 @@
 
 
 Name:		faba-icon-theme
-Version:	2.1
-Release:	0
+Version:	2.2
+Release:	2
 
 Summary:	Faba Icon theme
 Group:		System/GUI/Other

@@ -1,3 +1,10 @@
+faba-icon-theme (2.2) UNRELEASED; urgency=low
+
+  * 2.2 Merged light panel icons into it.
+
+ -- Sam Hewitt <hewittsamuel@gmail.com>  Fri, 16 May 2014 11:00:00 -0400
+
+
 faba-icon-theme (2.1.1) UNRELEASED; urgency=low
 
   * 2.1.1 Fixed packaging error

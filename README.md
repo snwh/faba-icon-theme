@@ -19,7 +19,6 @@ Faba and all it's supplementary themes can be downloaded [here](http://mokaproje
 
  * [Faba Colors](https://github.com/moka-project/faba-colors)
  * [Faba Mono Icons](https://github.com/moka-project/faba-mono-icons)
- * [Faba Symbolic Icon Theme](https://github.com/moka-project/faba-icon-theme-symbolic)
 
 ###Getting the Source
 
@@ -40,6 +39,7 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 To render new icons from their source SVG files, run the following:
 
     ./render-pngs.py
+    ./render-symbolic.rb
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
 

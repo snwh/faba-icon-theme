@@ -1,7 +1,7 @@
 pkgname=faba-icons-git
 _pkgname=faba-icon-theme
-pkgver=2.1
-pkgrel=1
+pkgver=2.2
+pkgrel=2
 pkgdesc="This is the base icon set for Faba. It is designed with simplicity and compliance to Tango desktop standards in mind. "
 arch=('any')
 url="https://github.com/moka-project/faba-icon-theme"
