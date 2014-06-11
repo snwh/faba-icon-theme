@@ -35,12 +35,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="226.01487"
-     inkscape:cy="468.00083"
+     inkscape:cx="174.5074"
+     inkscape:cy="333.161"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer10"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -5847,12 +5847,6 @@
          transform="translate(20.000108,0)"
          id="g6062"
          inkscape:label="mail-read">
-        <path
-           id="path6076"
-           transform="translate(221.00009,-467)"
-           d="m 43.40625,208.21875 c -0.145529,0.26442 -0.267971,0.54969 -0.375,0.84375 -0.257243,0.70678 -0.601215,1.62747 -0.96875,2.40625 l 0.90625,0.46875 c 0.4088,-0.84617 0.771338,-1.81714 1.03125,-2.53125 0.09665,-0.26555 0.213006,-0.51394 0.34375,-0.75 0.0043,-0.008 -0.0043,-0.0237 0,-0.0312 l -0.9375,-0.40625 z m 9.96875,4.625 c -0.03945,0.1084 -0.08227,0.25684 -0.125,0.375 0.316974,0.10429 0.629825,0.2304 0.90625,0.40625 0.03941,-0.11119 0.08736,-0.23981 0.125,-0.34375 l -0.90625,-0.4375 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.35;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           inkscape:connector-curvature="0" />
         <rect
            y="-262"
            x="261.00009"
@@ -6240,7 +6234,7 @@
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <path
          style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 101,340 c -0.554,0 -1,0.446 -1,1 l 0,10 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-10 c 0,-0.554 -0.446,-1 -1,-1 z m 1.0002,2 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -8,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -10,3 2,0 0,2 -2,0 z m 3,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z"
+         d="m 101,340 c -0.554,0 -1,0.446 -1,1 l 0,10 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-10 c 0,-0.554 -0.446,-1 -1,-1 z m 1.0002,2 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -8,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -10,3 2,0 0,2 -2,0 z m 3,0 5,0 0,2 -5,0 z m 6,0 2,0 0,2 -2,0 z"
          transform="translate(19.9998,272)"
          id="rect4890"
          inkscape:connector-curvature="0"
@@ -6523,10 +6517,9 @@
        transform="translate(58.000013,131.99998)">
       <path
          style="fill:#bebebe;fill-opacity:1;stroke:none"
-         d="m 347.00019,-240.99998 c -1,0 -1,1 -1,1 l 0,2 0,3 0,6 c 0,0.554 0.446,1 1,1 l 9,0 c 0.554,0 1.07834,-0.45157 1,-1 l 0,-9 -2.9375,-3 z m 1,2 5,0 2,2 0,7 -2,0 -5,0 z m 1,6 0,2 5,0 0,-2 z"
-         id="rect2989"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scccssscccscccccccccccc" />
+         d="M 164 358 C 163 358 163 359 163 359 L 163 361 L 163 364 L 163 370 C 163 370.554 163.446 371 164 371 L 173 371 C 173.554 371 174.07834 370.54843 174 370 L 174 364 L 174 361 L 174 360.59375 L 173.71875 360.28125 L 171.71875 358.28125 L 171.40625 358 L 171.0625 358 L 168 358 L 164 358 z M 165 360 L 168 360 L 170.5625 360 L 172 361.4375 L 172 364 L 172 369 L 170 369 L 165 369 L 165 360 z M 166 366 L 166 368 L 171 368 L 171 366 L 166 366 z "
+         transform="translate(183.00019,-598.99998)"
+         id="rect2989" />
       <rect
          ry="0"
          rx="0"
