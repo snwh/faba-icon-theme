@@ -34,13 +34,13 @@
      inkscape:window-height="701"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="99.149675"
-     inkscape:cy="484.99377"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="65.6225"
+     inkscape:cy="359.37109"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer10"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -5863,7 +5863,7 @@
       </g>
       <path
          transform="translate(240.0002,-468)"
-         d="m 56,218 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+         d="m 56,218 c 0,1.65685 -1.343146,3 -3,3 -1.656854,0 -3,-1.34315 -3,-3 0,-1.65685 1.343146,-3 3,-3 1.656854,0 3,1.34315 3,3 z"
          sodipodi:ry="3"
          sodipodi:rx="3"
          sodipodi:cy="218"
@@ -6974,7 +6974,7 @@
     </g>
     <g
        id="g5905"
-       inkscape:label="audio-headphones">
+       inkscape:label="audio-headphones-alt">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect5822-2"
