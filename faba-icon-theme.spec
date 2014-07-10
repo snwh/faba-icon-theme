@@ -14,17 +14,15 @@
 
 
 Name:		faba-icon-theme
-Version:	2.2
-Release:	2
+Version:	3.0
+Release:	1
 
 Summary:	Faba Icon theme
 Group:		System/GUI/Other
 License:    LGPL-3.0+ or CC-BY-SA-3.0
-
 Group:      System/GUI/GNOME
 Url:        http://www.mokaproject.com/faba-icon-theme
 Source0:	%{name}-%{version}.tar.gz
-
 Requires:	hicolor-icon-theme, gnome-icon-theme
 BuildArch:	noarch
 
@@ -45,5 +43,5 @@ install -dpm 0755 $RPM_BUILD_ROOT%{_datadir}/icons/
 cp -a Faba/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %files
-%doc {AUTHORS,LICENSE}
+%doc AUTHORS LICENSE
 %{_datadir}/icons/Faba/

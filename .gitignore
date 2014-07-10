@@ -3,6 +3,7 @@
 *.orig
 *.zip
 *.tar.gz
+*.sh
 
 debian/files
 debian/faba-icon-theme.debhelper.log
@@ -14,9 +15,3 @@ debian/faba-icon-theme
 
 src/WIP
 src/WIP/*
-
-generate-symlinks.sh
-generate-symlinks-panel.sh
-trim-panel-icons.sh
-quick.sh
-create-zip.sh
