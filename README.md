@@ -9,7 +9,7 @@ Faba Icon Theme is distributed under the terms of the GNU GPL v.3
 
 If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
 
-If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://mokaproject.com/requests) or contribute a [donation](http://www.mokaproject.com/#donate/ "Donate"). :)
+If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://mokaproject.com/requests) or contribute a [donation](http://www.mokaproject.com/donate/ "Donate") to the project. :)
 
 ###Getting Faba
 
@@ -17,7 +17,6 @@ Faba and all it's supplementary themes can be downloaded [here](http://mokaproje
 
 ###Supplementary Themes 
 
- * [Faba Colors](https://github.com/moka-project/faba-colors)
  * [Faba Mono Icons](https://github.com/moka-project/faba-mono-icons)
 
 ###Getting the Source
