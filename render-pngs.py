@@ -10,7 +10,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Faba'
-SOURCES = ('src/monochrome', 'src/fullcolor')
+SRC = ('src/fullcolor')
 
 inkscape_process = None
 
@@ -173,7 +173,3 @@ def main(SRC):
         else:
             print ("Error: No such file", file)
             sys.exit(1)
-
-for source in SOURCES:
-    SRC = os.path.join('.', source)
-    main(SRC)

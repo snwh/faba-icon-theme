@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3495"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="system-run.svg">
+  <defs
+     id="defs3497">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3669">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,96 96,96 96,0 0,0 0,96 z"
+         id="path3671" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="19.412395"
+     inkscape:cy="4.065864"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1364"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3512"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-26)">
+    <path
+       id="path11643-3-1"
+       d="m 5,29 0,3 1.5,0 6,0 c 0.64224,0 1.5,0.92121 1.5,1.5 l 0,1.5 -4.5,0 -3,0 C 5.121095,35 3.8966,35.57594 3.125,36.453125 2.3534,37.33031 1.990415,38.41907 2,39.5 2.009,40.58093 2.403395,41.679065 3.171875,42.546875 3.940355,43.414685 5.13758,44 6.5,44 l 10.5,0 1.5,0 0.234375,0 L 20,44 20,42.5 20,41 20,33.5 C 20,31.04849 18.0203,29 15.5,29 l -3,0 -6,0 -1.5,0 z m 4.5,9 4.5,0 0,3 -4.5,0 C 8.903195,41 8.649635,40.835315 8.421875,40.578125 8.194115,40.320935 8.00372,39.91907 8,39.5 7.997,39.08093 8.157005,38.66969 8.375,38.421875 8.592995,38.17406 8.86646,38 9.5,38 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 5,28 0,3 1.5,0 6,0 c 0.64224,0 1.5,0.92121 1.5,1.5 l 0,1.5 -4.5,0 -3,0 C 5.121095,34 3.8966,34.57594 3.125,35.453125 2.3534,36.33031 1.990415,37.41907 2,38.5 2.009,39.58093 2.403395,40.679065 3.171875,41.546875 3.940355,42.414685 5.13758,43 6.5,43 l 10.5,0 1.5,0 0.234375,0 L 20,43 20,41.5 20,40 20,32.5 C 20,30.04849 18.0203,28 15.5,28 l -3,0 -6,0 -1.5,0 z m 4.5,9 4.5,0 0,3 -4.5,0 C 8.903195,40 8.649635,39.835315 8.421875,39.578125 8.194115,39.320935 8.00372,38.91907 8,38.5 7.997,38.08093 8.157005,37.66969 8.375,37.421875 8.592995,37.17406 8.86646,37 9.5,37 z"
+       id="path3806" />
+  </g>
+</svg>
