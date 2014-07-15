@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Faba
 Comment=Default Moka project icon theme.
-Inherits=gnome,hicolor
+Inherits=elementary,gnome,hicolor
 
 # KDE Specifics
 
