@@ -89,9 +89,9 @@
          height="2"
          width="6"
          id="rect3856"
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3858"
          width="6"
          height="2"
@@ -101,7 +101,7 @@
     </g>
     <g
        id="g3879"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
        transform="translate(1,-1)">
       <g
          id="g3881"
@@ -125,11 +125,11 @@
     </g>
     <g
        id="g3018"
-       style="fill:#333333;fill-opacity:1">
+       style="fill:#555555;fill-opacity:1">
       <path
          id="path5144"
          d="m 1.81247,27.00671 a 1.0001,1.0001 0 0 0 -0.8125,1 l 0,1 0,4 0,6 c 0,0.83333 0.57399,1.50574 1.0625,1.75 0.48851,0.24426 0.9375,0.25 0.9375,0.25 l 10,0 c 0,0 0.44899,-0.006 0.9375,-0.25 0.48851,-0.24426 1.0625,-0.91667 1.0625,-1.75 l 0,-8 0,-1 a 1.0001,1.0001 0 0 0 -1,-1 l -1,0 -3,0 c -0.66667,0 -0.78125,-0.21875 -1.28125,-0.71875 -0.5,-0.5 -1.38542,-1.28125 -2.71875,-1.28125 l -4,0 a 1.0001,1.0001 0 0 0 -0.0937,0 1.0001,1.0001 0 0 0 -0.0937,0 z m 1.1875,2 3,0 c 0.66667,0 0.78125,0.21875 1.28125,0.71875 0.088,0.088 0.20026,0.1816 0.3125,0.28125 -0.11922,0.10673 -0.22003,0.22003 -0.3125,0.3125 -0.5,0.5 -0.61458,0.6875 -1.28125,0.6875 l -3,0 0,-2 z m 7,2 3,0 0,8 -10,0 0,-6 3,0 c 1.33333,0 2.21875,-0.78125 2.71875,-1.28125 0.5,-0.5 0.61458,-0.71875 1.28125,-0.71875 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          inkscape:connector-curvature="0" />
       <rect
          y="27.00671"
@@ -137,9 +137,9 @@
          height="1"
          width="1"
          id="rect5925"
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
       <rect
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect5927"
          width="1"
          height="1"
@@ -147,7 +147,7 @@
          y="29.00671" />
     </g>
     <g
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
        id="g3791"
        transform="translate(0,-0.99971)">
       <path

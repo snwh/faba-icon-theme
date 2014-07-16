@@ -78,14 +78,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <path
-       style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 5 2 L 5 10 L 4 10 C 2.892 10 2 10.892 2 12 L 2 13 L 2 16 L 2 18 L 4 18 L 5 18 L 5 20 L 15 20 C 12.250421 20 10 17.749579 10 15 C 10 12.250421 12.250421 10 15 10 L 7 10 L 7 4 L 15 4 L 15 10 C 17.749579 10 20 12.250421 20 15 L 20 13 L 20 12 C 20 10.892 19.108 10 18 10 L 17 10 L 17 2 L 5 2 z M 20 15 C 20 15.618557 19.736325 16.123921 19.53125 16.65625 L 20 17.125 L 20 16 L 20 15 z M 15 20 L 17 20 L 17 19.875 L 16.65625 19.53125 C 16.123921 19.736325 15.618557 20 15 20 z M 15 11 C 12.790861 11 11 12.790861 11 15 C 11 17.209139 12.790861 19 15 19 C 15.72993 19 16.410912 18.779016 17 18.4375 L 20.28125 21.71875 L 21.71875 20.28125 L 18.4375 17 C 18.779016 16.410912 19 15.72993 19 15 C 19 12.790861 17.209139 11 15 11 z M 15 13 C 16.104569 13 17 13.895431 17 15 C 17 16.104569 16.104569 17 15 17 C 13.895431 17 13 16.104569 13 15 C 13 13.895431 13.895431 13 15 13 z "
        transform="translate(0,26)"
        id="rect2997" />
     <path
        id="path3813"
        d="m 5,27.00025 0,8 -1,0 c -1.108,0 -2,0.892 -2,2 l 0,1 0,3 0,2 2,0 1,0 0,2 10,0 c -2.749579,0 -5,-2.250421 -5,-5 0,-2.749579 2.250421,-5 5,-5 l -8,0 0,-6 8,0 0,6 c 2.749579,0 5,2.250421 5,5 l 0,-2 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -1,0 0,-8 -12,0 z m 15,13 c 0,0.618557 -0.263675,1.123921 -0.46875,1.65625 L 20,42.12525 l 0,-1.125 0,-1 z m -5,5 2,0 0,-0.125 -0.34375,-0.34375 C 16.123921,44.736575 15.618557,45.00025 15,45.00025 z m 0,-9 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 0.72993,0 1.410912,-0.220984 2,-0.5625 l 3.28125,3.28125 1.4375,-1.4375 -3.28125,-3.28125 c 0.341516,-0.589088 0.5625,-1.27007 0.5625,-2 0,-2.209139 -1.790861,-4 -4,-4 z m 0,2 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
-       style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

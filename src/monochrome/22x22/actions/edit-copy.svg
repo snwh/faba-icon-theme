@@ -84,7 +84,7 @@
          transform="matrix(-1,0,0,1,23,-1)"
          id="g3768">
         <path
-           style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 21,48 0,-15 -4,0 0,2 2,0 0,11 -10,0 0,-1 -2,0 0,3 z"
            id="rect2997"
            inkscape:connector-curvature="0"
@@ -94,12 +94,12 @@
            id="path3810"
            transform="matrix(-1,0,0,1,23,26)"
            d="M 7,3 7,15 7,18 8.65625,18 21,18 21,3 18,3 17,3 15,3 13,3 12,3 9,3 7,3 z m 2,2 1,0 2,0 0.125,0 L 17,5 18,5 19,5 19,16 9,16 9,15 9,5 z"
-           style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
     </g>
     <g
        id="g3827"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
        transform="matrix(-1,0,0,1,23,-1)">
       <g
          id="g3829"

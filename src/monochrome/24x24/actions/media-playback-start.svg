@@ -79,13 +79,13 @@
      transform="translate(1,-25)">
     <path
        d="M 3,28 3,46 19,37 3,28 z"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4287"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path3821"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 3,27 3,45 19,36 3,27 z" />
   </g>
 </svg>

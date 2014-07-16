@@ -67,7 +67,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <path
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 11,27.999999 -8,8 0,7 0,2 2,0 5.03125,0 2,0 4.96875,0 2,0 0,-2 0,-7 z m -0.96875,3.75 L 11,30.755523 12.03125,31.749999 17,36.781249 l 0,6.21875 -3,0 -1.96875,0 -2,0 -2.03125,0 -3,0 0,-6.21875 z"
        id="path4769"
        inkscape:connector-curvature="0"
@@ -75,7 +75,7 @@
     <g
        transform="matrix(0,0.5,-0.5,0,22.979,23.967792)"
        id="g4634"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1">
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1">
       <g
          id="g4636"
          transform="matrix(1.5113588,0,0,-1.5113588,23.008549,40)"
@@ -86,6 +86,6 @@
        inkscape:connector-curvature="0"
        id="path3006"
        d="m 11,27 -8,8 0,7 0,2 2,0 5.03125,0 2,0 4.96875,0 2,0 0,-2 0,-7 z M 10.03125,30.75 11,29.755524 12.03125,30.75 17,35.78125 17,42 l -3,0 -1.96875,0 -2,0 L 8,42 5,42 5,35.78125 z"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>

@@ -78,7 +78,7 @@
      inkscape:groupmode="layer"
      transform="translate(1,-25)">
     <path
-       style="fill:#333333;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#555555;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        d="m 22,29.888672 -22,4.597656 4.125,3.222656 0,6.402344 4.8125,-2.75 0,0 -1.375,-1.503906 5.542969,3.996094 z M 20.023437,31.220703 7.863281,38.955078 6.660156,40.759766 5.5,41.490234 l 0,-3.222656 z"
        id="path6400"
        inkscape:connector-curvature="0"
@@ -88,6 +88,6 @@
        inkscape:connector-curvature="0"
        id="path3943"
        d="M 22,28.888344 0,33.486 l 4.125,3.222656 0,6.402344 4.8125,-2.75 0,0 -1.375,-1.503906 5.542969,3.996094 z M 20.023437,30.220375 7.863281,37.95475 6.660156,39.759438 5.5,40.489906 5.5,37.26725 z"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
   </g>
 </svg>

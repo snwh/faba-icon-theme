@@ -89,9 +89,9 @@
          height="2"
          width="6"
          id="rect3856"
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3858"
          width="6"
          height="2"
@@ -101,7 +101,7 @@
     </g>
     <g
        id="g3879"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
        transform="translate(1,-1)">
       <g
          id="g3881"
@@ -131,18 +131,18 @@
          transform="translate(0,26)"
          id="path3810"
          d="m 11,2 c -4.9705627,0 -9,4.0294373 -9,9 0,4.970563 4.0294373,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.9705627 -4.029437,-9 -9,-9 z m 0,2 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z"
-         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          sodipodi:nodetypes="cccccccc"
          d="m 11.283578,31.115226 -0.95542,0 L 10,37.264778 l 0.0846,0.643498 3.599201,3.091321 0.726392,-0.745193 -2.804442,-3.075084 z"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path4023"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g3027"
        transform="matrix(0.77777778,0,0,0.77777778,0.44444444,5.2222221)"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1">
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1">
       <path
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 11,2 c -4.9705627,0 -9,4.0294373 -9,9 0,4.970563 4.0294373,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.9705627 -4.029437,-9 -9,-9 z m 0,2 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z"

@@ -76,14 +76,14 @@
      inkscape:groupmode="layer"
      transform="translate(1,-25)">
     <path
-       style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 14 1 C 10.134007 1 7 4.1340068 7 8 C 7 9.5784731 7.5248273 11.016576 8.40625 12.1875 L 8.28125 12.28125 L 2.28125 18.28125 L 1.59375 19 L 3 20.40625 L 3.71875 19.71875 L 9.71875 13.71875 L 9.8125 13.59375 C 10.983424 14.475173 12.421527 15 14 15 C 17.865993 15 21 11.865993 21 8 C 21 4.1340068 17.865993 1 14 1 z M 14 3 C 16.761424 3 19 5.2385763 19 8 C 19 10.761424 16.761424 13 14 13 C 11.238576 13 9 10.761424 9 8 C 9 5.2385763 11.238576 3 14 3 z "
        transform="translate(0,26)"
        id="path2993" />
     <path
        id="path3778"
        d="m 14,25.99975 c -3.865993,0 -7,3.134007 -7,7 0,1.578473 0.5248273,3.016576 1.40625,4.1875 l -0.125,0.09375 -6,6 -0.6875,0.71875 L 3,45.406 l 0.71875,-0.6875 6,-6 0.09375,-0.125 c 1.170924,0.881423 2.609027,1.40625 4.1875,1.40625 3.865993,0 7,-3.134007 7,-7 0,-3.865993 -3.134007,-7 -7,-7 z m 0,2 c 2.761424,0 5,2.238576 5,5 0,2.761424 -2.238576,5 -5,5 -2.761424,0 -5,-2.238576 -5,-5 0,-2.761424 2.238576,-5 5,-5 z"
-       style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

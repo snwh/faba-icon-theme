@@ -82,7 +82,7 @@
        transform="matrix(0.78328052,0,0,-0.78328052,15.776836,40.570976)">
       <path
          d="M 0,0 -3.525,3.525 -7.05,0 -8.275,1.226 -4.75,4.752 -8.274,8.277 -7.05,9.503 -3.525,5.978 0,9.503 1.225,8.277 -2.3,4.751 1.225,1.226 z m -20.142,4.504 7.660091,-7.6050908 19.1502275,0 0,15.3201818 -19.1502275,0 z"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path4623"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccc" />
@@ -90,7 +90,7 @@
     <g
        transform="matrix(0.78328052,0,0,-0.78328052,15.776836,39.570976)"
        id="g3800"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1">
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1">
       <path
          sodipodi:nodetypes="ccccccccccccccccccc"
          inkscape:connector-curvature="0"

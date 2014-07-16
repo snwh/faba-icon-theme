@@ -78,7 +78,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <path
-       style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
        d="m 11,29.5 -7,7 0,1.5 14,0 0,-1.5 z M 4,41 l 0,3 14,0 0,-3 z"
        id="path696"
        inkscape:connector-curvature="0"
@@ -88,6 +88,6 @@
        inkscape:connector-curvature="0"
        id="path3972"
        d="m 11,28.5 -7,7 0,1.5 14,0 0,-1.5 z M 4,40 l 0,3 14,0 0,-3 z"
-       style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate" />
+       style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
