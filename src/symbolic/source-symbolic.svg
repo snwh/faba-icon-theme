@@ -35,8 +35,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="384.4782"
-     inkscape:cy="437.41692"
+     inkscape:cx="305.79905"
+     inkscape:cy="248.05331"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -8703,7 +8703,7 @@
          sodipodi:nodetypes="cccccccccccccccc"
          inkscape:connector-curvature="0"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-         d="m 114.0002,974 -1.28125,-1.2813 1,-1 -1.4375,-1.4375 -1,1 -1.28125,-1.2812 0,4 z m -6,6 0,-4 -4,0 1.28125,1.2812 -1,1 1.4375,1.4375 1,-1 z"
+         d="m 113.0002,975 -1.28125,-1.2813 2,-2 -1.4375,-1.4375 -2,2 -1.28125,-1.2812 0,4 z m -4,4 0,-4 -4,0 1.28125,1.2812 -2,2 1.4375,1.4375 2,-2 z"
          id="path4564" />
     </g>
     <g
@@ -8719,10 +8719,10 @@
          height="16"
          width="16" />
       <path
-         inkscape:connector-curvature="0"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+         d="M 308 440 L 309.28125 441.28125 L 307.28125 443.28125 L 305.28125 445.28125 L 304 444 L 304 448 L 308 448 L 306.71875 446.71875 L 308.71875 444.71875 L 310.71875 442.71875 L 312 444 L 312 440 L 308 440 z "
          id="path4335"
-         d="m 89.0002,971 1.28125,1.2812 -1,1 1.4375,1.4375 1,-1 1.28125,1.2813 0,-4 -4,0 z m -4,4 0,4 4,0 -1.28125,-1.2813 1,-1 -1.4375,-1.4375 -1,1 L 85.0002,975 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+         transform="translate(-218.9998,531)" />
     </g>
     <g
        transform="translate(-20.000014,-1.9073486e-6)"
