@@ -13,6 +13,10 @@ debian/faba-icon-theme.prerm.debhelper
 debian/faba-icon-theme.substvars
 debian/faba-icon-theme
 
+data
+data/
+data/*
+
 src/OLD
 src/OLD/*
 src/WIP
