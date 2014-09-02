@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient5621">
       <stop
-         style="stop-color:#f1fcff;stop-opacity:1"
+         style="stop-color:#fadcff;stop-opacity:1;"
          offset="0"
          id="stop5623" />
       <stop
-         style="stop-color:#e7eeff;stop-opacity:1"
+         style="stop-color:#fdf3ff;stop-opacity:1;"
          offset="1"
          id="stop5625" />
     </linearGradient>
@@ -612,15 +612,11 @@
     <linearGradient
        id="linearGradient3813">
       <stop
-         style="stop-color:#1bb3e5;stop-opacity:1;"
+         style="stop-color:#d27bdf;stop-opacity:1;"
          offset="0"
          id="stop3815" />
       <stop
-         id="stop5659"
-         offset="0.5"
-         style="stop-color:#1c89de;stop-opacity:1;" />
-      <stop
-         style="stop-color:#1e60d8;stop-opacity:1;"
+         style="stop-color:#a348b1;stop-opacity:1;"
          offset="1"
          id="stop3817" />
     </linearGradient>
@@ -820,10 +816,10 @@
        xlink:href="#linearGradient5621"
        id="linearGradient5668"
        gradientUnits="userSpaceOnUse"
-       x1="1404"
-       y1="836.36218"
-       x2="1404"
-       y2="860.36218"
+       x1="1406"
+       y1="864.86218"
+       x2="1406"
+       y2="834.86218"
        gradientTransform="matrix(2,0,0,2,-1520,-1441.7244)" />
     <linearGradient
        inkscape:collect="always"
@@ -1025,10 +1021,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1378.577"
-     inkscape:cy="242.37058"
+     inkscape:cx="1287.4597"
+     inkscape:cy="40.380856"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g4612"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
