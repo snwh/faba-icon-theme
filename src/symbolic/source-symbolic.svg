@@ -35,12 +35,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="124.8515"
-     inkscape:cy="121.93404"
+     inkscape:cx="133.54454"
+     inkscape:cy="322.79249"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer10"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -6514,34 +6514,6 @@
          sodipodi:nodetypes="sssssscccccccccss" />
     </g>
     <g
-       id="g7431"
-       inkscape:label="drive-harddisk-system">
-      <rect
-         transform="scale(1,-1)"
-         y="75.031197"
-         x="261.00021"
-         height="16"
-         width="16"
-         id="rect5891"
-         style="opacity:0.35146443100000002;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect7371"
-         d="m 264.0002,-90 c -1.108,0 -1,1 -1,1 l 0,12 c 0,0 -0.10799,1.003841 1,1 l 9,-0.0312 c 1.10799,-0.0038 1,-0.968803 1,-0.968803 l 0,-12 c 0,-1.107996 -1,-1 -1,-1 z m 0,0.968803 9,0 0,12.031197 -9,0 z"
-         style="color:#bebebe;fill:#bebebf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="sccsscscsccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5895"
-         d="m 269.87486,-82.342445 -4.375,1.75 c -0.59017,0.54508 -0.67692,1.41073 -0.15625,2.03125 0.53283,0.635 1.42359,0.70177 2.0625,0.1875 0.008,-0.0068 0.0232,0.007 0.0312,0 l 2.4375,-3.96875 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new;" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7397"
-         d="m 268.5002,-88.031197 c -1.933,0 -3.5,1.567 -3.5,3.5 0,1.24324 0.64811,2.31659 1.625,2.9375 l 4.3125,-1.6875 -1.1875,2 c 1.31851,-0.5018 2.25,-1.75538 2.25,-3.25 0,-1.933 -1.567,-3.5 -3.5,-3.5 z m 0,2 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z m 0,1 c -0.27614,0 -0.5,0.22386 -0.5,0.5 0,0.27614 0.22386,0.5 0.5,0.5 0.27614,0 0.5,-0.22386 0.5,-0.5 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 z m 0.15625,3.71875 -0.625,0.25 c 0.15181,0.02011 0.31145,0.03125 0.46875,0.03125 l 0.15625,-0.28125 z"
-         style="color:#bebebe;fill:#bebebf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;" />
-    </g>
-    <g
        inkscape:label="printer-network"
        id="g7470"
        style="stroke:none;display:inline;enable-background:new"
@@ -6797,6 +6769,48 @@
          height="16"
          x="361.00021"
          y="-131" />
+    </g>
+    <g
+       id="g5755"
+       inkscape:label="drive-harddisk-system">
+      <rect
+         transform="scale(1,-1)"
+         y="75.031197"
+         x="261.00021"
+         height="16"
+         width="16"
+         id="rect5891"
+         style="opacity:0.35146442;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4970"
+         d="m 264.34395,-90 c -0.17828,0.05661 -0.31743,0.22106 -0.34375,0.40625 l -2,10.59375 5e-5,0 c -5e-5,1 -5e-5,2 0,3 l 14,0 c -5e-5,-1 -5e-5,-2 0,-3 l -5e-5,0 -1.9999,-10.59375 c -0.0437,-0.229201 -0.2667,-0.410362 -0.5,-0.40625 l -9,0 c -0.0311,-0.0029 -0.0626,-0.0029 -0.0937,0 -0.0208,-0.0013 -0.0417,-0.0013 -0.0625,0 z m 0.5625,1 8.1875,0 1.78125,10 -11.75,0 z m -1.90625,11 12,0 0,1 -12,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    </g>
+    <g
+       id="g5776"
+       inkscape:label="drive-harddisk-usb">
+      <rect
+         style="opacity:0.35146442;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5761"
+         width="16"
+         height="16"
+         x="379.00015"
+         y="77.031197"
+         transform="scale(1,-1)" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 382.3439,-92 c -0.17828,0.05661 -0.31743,0.22106 -0.34375,0.40625 l -2,10.59375 5e-5,0 c -5e-5,1 -5e-5,2 0,3 l 14,0 c -5e-5,-1 -5e-5,-2 0,-3 l -5e-5,0 -1.9999,-10.59375 c -0.0437,-0.229201 -0.2667,-0.410362 -0.5,-0.40625 l -9,0 c -0.0311,-0.0029 -0.0626,-0.0029 -0.0937,0 -0.0208,-0.0013 -0.0417,-0.0013 -0.0625,0 z m 0.5625,1 8.1875,0 1.78125,10 -11.75,0 z m -1.90625,11 12,0 0,1 -12,0 z"
+         id="path5763"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 387.00016,-82.36644 c -0.65091,0 -1.17856,-0.413279 -1.17856,-0.923088 0,-0.403599 0.32495,-0.739954 0.78571,-0.865396 l 0,-0.365389 0,-0.19231 0,-0.288465 -1.81696,-1.13463 -0.14732,-0.07692 0,-0.153848 0,-0.307696 -0.39285,0 0,-1.230785 1.57143,0 0,1.230785 -0.39286,0 0,0.173079 1.17857,0.730778 0,-2.750034 -0.78571,0 1.17857,-1.846177 1.17856,1.846177 -0.78571,0 0,0 0,3.365427 1.17857,-0.730779 0,-0.269234 c -0.22943,-0.107454 -0.39286,-0.294637 -0.39286,-0.519237 0,-0.339869 0.35178,-0.615392 0.78573,-0.615392 0.43392,0 0.78571,0.275523 0.78571,0.615392 0,0.2246 -0.16344,0.411783 -0.39286,0.519237 l 0,0.403851 0,0.153848 -0.14732,0.07692 -1.81696,1.13463 0,0.0192 0,0.153848 0,0.05766 c 0.46075,0.125441 0.78571,0.461796 0.78571,0.865395 0,0.509809 -0.52766,0.923088 -1.17857,0.923088 z"
+         id="path4018"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccccccccccccccccccccccccsssccccccccss" />
     </g>
   </g>
   <g
