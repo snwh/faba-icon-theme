@@ -29,13 +29,13 @@
      inkscape:window-height="700"
      id="namedview36"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="35.453965"
-     inkscape:cy="28.014192"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="8.054971"
+     inkscape:cy="16.960878"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,15 +193,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4275"
-       id="linearGradient4125"
-       x1="-44"
-       y1="-24"
-       x2="-4"
-       y2="-24"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#outerBackgroundGradient-5-8"
        id="linearGradient3998-1"
        gradientUnits="userSpaceOnUse"
@@ -309,7 +300,7 @@
        height="39"
        width="39"
        id="rect4149"
-       style="opacity:0.41000001000000003;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155)" />
+       style="opacity:0.61000001000000003;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155)" />
     <path
        style="fill:url(#linearGradient4343);fill-opacity:1;stroke:none;display:inline"
        d="M 6.4375 4.5 C 5.3572 4.5 4.5 5.3572014 4.5 6.4375 L 4.5 24 L 4.5 41.5625 C 4.5 42.642799 5.3572 43.5 6.4375 43.5 L 24 43.5 L 24 24 L 43.5 24 L 43.5 6.4375 C 43.5 5.3572014 42.6428 4.5 41.5625 4.5 L 24 4.5 L 6.4375 4.5 z "
@@ -337,7 +328,7 @@
        style="opacity:0.10000000000000001;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:0.70999995;fill:none;stroke:url(#linearGradient4125);stroke-opacity:1;display:inline"
+       style="opacity:0.61;fill:none;stroke:#000000;stroke-opacity:1;display:inline"
        id="rect4085"
        width="39"
        height="39"

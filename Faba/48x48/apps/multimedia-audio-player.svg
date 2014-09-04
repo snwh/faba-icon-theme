@@ -15,7 +15,7 @@
    height="48"
    id="svg3759"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="multimedia-player-audio.svg">
+   sodipodi:docname="multimedia-audio-player.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,12 +30,12 @@
      id="namedview36"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="26.414015"
-     inkscape:cy="17.078135"
+     inkscape:cx="28.05116"
+     inkscape:cy="10.515975"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -192,15 +192,6 @@
        y2="-808" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4127"
-       id="linearGradient4125"
-       x1="-44"
-       y1="-24"
-       x2="-4"
-       y2="-24"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4157"
        id="linearGradient4155"
        x1="24"
@@ -233,7 +224,7 @@
        height="39"
        width="39"
        id="rect4149"
-       style="opacity:0.41000001000000003;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155)" />
+       style="opacity:0.61000001000000003;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155)" />
     <rect
        rx="1.9499974"
        ry="1.95"
@@ -245,7 +236,7 @@
        id="rect4073"
        style="fill:url(#linearGradient4117);fill-opacity:1;stroke:none;display:inline" />
     <rect
-       style="opacity:0.70999995;fill:none;stroke:url(#linearGradient4125);stroke-opacity:1;display:inline"
+       style="opacity:0.61;fill:none;stroke:#000000;stroke-opacity:1;display:inline"
        id="rect4085"
        width="39"
        height="39"
