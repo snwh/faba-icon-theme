@@ -1,7 +1,7 @@
 pkgname=faba-icons-git
 _pkgname=faba-icon-theme
-pkgver=3.1
-pkgrel=0
+pkgver=4.0
+pkgrel=1
 pkgdesc="This is the base icon set for Moka. It is designed with simplicity and compliance to Tango desktop standards in mind."
 arch=('any')
 url="https://github.com/moka-project/faba-icon-theme"
