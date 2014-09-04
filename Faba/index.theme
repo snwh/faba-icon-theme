@@ -378,6 +378,14 @@ MinSize=16
 MaxSize=256
 Type=scalable
 
+# Notifications
+
+[48x48/notifications]
+Context=Status
+Size=48
+Type=Fixed
+
+
 # Panel
 
 [16x16/panel]
