@@ -33,8 +33,8 @@
      id="namedview36"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="26.610173"
-     inkscape:cy="10.865144"
+     inkscape:cx="-9.8733227"
+     inkscape:cy="11.207664"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -308,15 +308,19 @@
        y="3.5"
        ry="0" />
     <path
-       style="opacity:0.60999999999999999;color:#bebebe;fill:#a55608;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 9,3 C 8.446,3 8,3.446 8,4 l 0,39 c 0,0.554 0.446,1 1,1 l 31,0 c 0.554,0 1,-0.446 1,-1 L 41,4 C 41,3.446 40.554,3 40,3 L 9,3 z M 9,4 40,4 40,43 9,43 9,4 z"
-       id="rect3886"
-       inkscape:connector-curvature="0" />
-    <path
        style="opacity:0.40000000000000002;fill:url(#linearGradient4681);fill-opacity:1;stroke:none"
        d="m 9,4 0,39 30,0 1,0 L 40,4 39,4 9,4 z m 1,1 29,0 0,37 -29,0 0,-37 z"
        id="path3893"
        inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       y="3.5"
+       x="-40.5"
+       height="40"
+       width="32"
+       id="rect3026"
+       style="color:#bebebe;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5b2f00;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.60999999999999999"
+       transform="scale(-1,1)" />
   </g>
   <g
      inkscape:groupmode="layer"
