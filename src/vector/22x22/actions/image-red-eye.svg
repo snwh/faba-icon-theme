@@ -37,7 +37,11 @@
          offset="0"
          id="stop3781" />
       <stop
-         style="stop-color:#d9262a;stop-opacity:1;"
+         id="stop3801"
+         offset="0.42054796"
+         style="stop-color:#e38f90;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ec3b3f;stop-opacity:1;"
          offset="0.84109592"
          id="stop3878" />
       <stop
@@ -260,9 +264,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="23.557753"
-     inkscape:cy="-4.2591331"
-     inkscape:current-layer="layer1"
+     inkscape:cx="12.724744"
+     inkscape:cy="11.978621"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -349,7 +353,7 @@
      style="display:inline">
     <path
        sodipodi:type="arc"
-       style="opacity:0.8;fill:url(#radialGradient3787);fill-opacity:1;stroke:none"
+       style="opacity:1;fill:url(#radialGradient3787);fill-opacity:1;stroke:none"
        id="path3777"
        sodipodi:cx="12"
        sodipodi:cy="12"
