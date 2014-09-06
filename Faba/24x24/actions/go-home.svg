@@ -333,7 +333,7 @@
        xlink:href="#linearGradient5604-7"
        id="linearGradient3912"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6666724,0,0,1.6000028,-2.33337,-2.7000402)"
+       gradientTransform="matrix(1.6666724,0,0,1.6000028,-1.33337,-1.7000402)"
        x1="8"
        y1="15"
        x2="8"
@@ -343,7 +343,7 @@
        xlink:href="#linearGradient5612-8"
        id="linearGradient3914"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6666724,0,0,1.6000028,-2.33337,-2.7000402)"
+       gradientTransform="matrix(1.6666724,0,0,1.6000028,-1.33337,-1.7000402)"
        x1="9"
        y1="10"
        x2="9"
@@ -353,7 +353,7 @@
        xlink:href="#linearGradient3977-3"
        id="linearGradient3918"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3879448,0,0,1.3871043,-867.75826,-299.61463)"
+       gradientTransform="matrix(1.3879448,0,0,1.3871043,-866.75826,-298.61463)"
        x1="633.30469"
        y1="218.84358"
        x2="633.30469"
@@ -363,7 +363,7 @@
        xlink:href="#linearGradient5518-7"
        id="linearGradient3921"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3879448,0,0,1.3871043,-0.29276,-1.202e-4)"
+       gradientTransform="matrix(1.3879448,0,0,1.3871043,0.70724,0.9998798)"
        x1="8.6742573"
        y1="15.027722"
        x2="8.6742573"
@@ -377,7 +377,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
