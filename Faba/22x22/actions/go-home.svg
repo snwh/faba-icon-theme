@@ -15,7 +15,7 @@
    height="22"
    id="svg12707"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="user-home.svg">
+   sodipodi:docname="go-home.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,8 +34,8 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:zoom="1"
-     inkscape:cx="7.7286456"
-     inkscape:cy="20.382568"
+     inkscape:cx="18.747642"
+     inkscape:cy="2.9594834"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -364,6 +364,87 @@
        y1="15.027722"
        x2="8.6742573"
        y2="3.1024117" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3952"
+       id="radialGradient3960"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.75,-21,12.375)"
+       cx="40"
+       cy="43.5"
+       fx="40"
+       fy="43.5"
+       r="2" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3952">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3954" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3956" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3944"
+       id="radialGradient3957"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.75,-4,12.375)"
+       cx="9"
+       cy="43.5"
+       fx="9"
+       fy="43.5"
+       r="2" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3944">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3946" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3948" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3960"
+       id="linearGradient3954"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8,1.5)"
+       x1="25"
+       y1="45"
+       x2="25"
+       y2="42" />
+    <linearGradient
+       id="linearGradient3960">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop3962" />
+      <stop
+         id="stop3970"
+         offset="0.5"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3964" />
+    </linearGradient>
+    <linearGradient
+       y2="42"
+       x2="25"
+       y1="45"
+       x1="25"
+       gradientTransform="translate(-8,1.5)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3116"
+       xlink:href="#linearGradient3960"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata12712">
@@ -377,6 +458,26 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     transform="translate(-1,-24.5)"
+     id="g3962">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3940"
+       d="m 19,43.5 0,3 0.5,0 c 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 l -0.5,0 z"
+       style="opacity:0.2;fill:url(#radialGradient3960);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3942"
+       d="M 4.40625,43.5 C 3.6271875,43.5 3,44.127187 3,44.90625 l 0,0.1875 C 3,45.872813 3.6271875,46.5 4.40625,46.5 L 5,46.5 l 0,-3 -0.59375,0 z"
+       style="opacity:0.2;fill:url(#radialGradient3957);fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect3938"
+       d="m 5,43.5 14,0 0,3 -14,0 z"
+       style="opacity:0.2;fill:url(#linearGradient3116);fill-opacity:1;stroke:none" />
+  </g>
   <path
      sodipodi:nodetypes="cccccccc"
      style="color:#000000;fill:url(#linearGradient3921);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
