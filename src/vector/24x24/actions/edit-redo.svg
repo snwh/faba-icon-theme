@@ -47,6 +47,16 @@
          id="stop3825" />
     </linearGradient>
     <linearGradient
+       gradientTransform="translate(14.052433,27.326995)"
+       y2="0"
+       x2="8"
+       y1="16"
+       x1="8"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3056"
+       xlink:href="#linearGradient3821"
+       inkscape:collect="always" />
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3821"
        id="linearGradient3793"
@@ -55,7 +65,7 @@
        x2="12"
        y2="-2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,24)" />
+       gradientTransform="translate(1,25)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -65,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="20.731899"
-     inkscape:cy="2.7597441"
+     inkscape:cx="21.566139"
+     inkscape:cy="13.863464"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -97,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +122,7 @@
        id="path2987"
        inkscape:connector-curvature="0" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 15,27.40625 21.03125,31 20.1875,31.5 15,28.40625 l 0,-1 z M 15,30 15,30.5 15,31 14.5,31 10,31 C 6.310913,31 3.288485,33.874734 3.03125,37.5 3.019547,37.335073 3,37.16783 3,37 3,33.143083 6.143083,30 10,30 l 4.5,0 0.5,0 z M 5.03125,37.5 C 5.28521,40.035334 7.392716,42 10,42 l 7,0 0,1 -7,0 C 7.218897,43 5,40.781103 5,38 5,37.826181 5.014319,37.669022 5.03125,37.5 z"
        id="path4400"
        inkscape:connector-curvature="0" />
