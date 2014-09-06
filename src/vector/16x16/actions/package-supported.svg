@@ -15,7 +15,7 @@
    id="svg3495"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dialog-apply.svg">
+   sodipodi:docname="edit-flag.svg">
   <defs
      id="defs3497">
     <clipPath
@@ -90,11 +90,11 @@
       <stop
          id="stop3906"
          offset="0"
-         style="stop-color:#1c521e;stop-opacity:1;" />
+         style="stop-color:#104b88;stop-opacity:1;" />
       <stop
          id="stop3908"
          offset="1"
-         style="stop-color:#2f821a;stop-opacity:1;" />
+         style="stop-color:#0e7398;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -106,13 +106,14 @@
        x2="16"
        y2="0" />
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient3886">
       <stop
-         style="stop-color:#2ca42a;stop-opacity:1;"
+         style="stop-color:#5097e1;stop-opacity:1;"
          offset="0"
          id="stop3888" />
       <stop
-         style="stop-color:#57d932;stop-opacity:1;"
+         style="stop-color:#53d0ff;stop-opacity:1"
          offset="1"
          id="stop3890" />
     </linearGradient>
@@ -154,10 +155,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="4.9595942"
-     inkscape:cy="7.615463"
-     inkscape:current-layer="layer2"
-     showgrid="true"
+     inkscape:cx="12.268441"
+     inkscape:cy="4.5658763"
+     inkscape:current-layer="layer1"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1364"
@@ -194,7 +195,7 @@
   </metadata>
   <g
      id="layer1"
-     inkscape:label="Background"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,-32)">
     <path
@@ -203,6 +204,22 @@
        inkscape:connector-curvature="0"
        d="m 8,33.5 c -3.5898479,0 -6.5,2.910152 -6.5,6.5 0,3.589848 2.9101521,6.5 6.5,6.5 3.589857,0 6.5,-2.910152 6.5,-6.5 0,-3.589848 -2.910143,-6.5 -6.5,-6.5 z"
        sodipodi:nodetypes="sssss" />
+    <g
+       transform="translate(-18.5,-192.59375)"
+       style="display:inline;enable-background:new"
+       id="g4151-4"
+       clip-path="url(#clipPath4201)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153-1"
+         d="m 31.4375,228.4065 -4.9375,4.9375 -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 31.4375,227.40625 -4.9375,4.9375 -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
+         id="path4155-1"
+         inkscape:connector-curvature="0" />
+    </g>
     <path
        transform="matrix(0,-1,-1,0,280,208)"
        d="m 168,265 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z"
@@ -211,19 +228,5 @@
        style="opacity:0.81;color:#000000;fill:none;stroke:url(#linearGradient3860);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        clip-path="url(#clipPath4307)"
        sodipodi:nodetypes="sssss" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Symbol">
-    <path
-       id="path3944"
-       d="M 7,3 7,6 4,6 4,8 7,8 7,11 9,11 9,8 12,8 12,6 9,6 9,3 7,3 z"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="M 7 4 L 7 7 L 4 7 L 4 9 L 7 9 L 7 12 L 9 12 L 9 9 L 12 9 L 12 7 L 9 7 L 9 4 L 7 4 z "
-       id="rect3939" />
   </g>
 </svg>

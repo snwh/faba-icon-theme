@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="24"
+   height="24"
    id="svg3495"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -57,7 +57,8 @@
        y1="22"
        x2="16"
        y2="0"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1,25)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,7 +67,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
+     inkscape:zoom="1"
      inkscape:cx="5.6537803"
      inkscape:cy="1.2551113"
      inkscape:current-layer="layer1"
@@ -105,21 +106,21 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-26)">
+     transform="translate(0,-24)">
     <path
        style="color:#000000;fill:url(#linearGradient3831);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 9.5 2.5 L 9.5 3 L 9.5 9.5 L 3 9.5 L 2.5 9.5 L 2.5 10 L 2.5 12 L 2.5 12.5 L 3 12.5 L 9.5 12.5 L 9.5 19 L 9.5 19.5 L 10 19.5 L 12 19.5 L 12.5 19.5 L 12.5 19 L 12.5 12.5 L 19 12.5 L 19.5 12.5 L 19.5 12 L 19.5 10 L 19.5 9.5 L 19 9.5 L 12.5 9.5 L 12.5 3 L 12.5 2.5 L 12 2.5 L 10 2.5 L 9.5 2.5 z "
-       transform="translate(0,26)"
-       id="rect4503" />
+       d="m 10.5,27.5 0,0.5 0,6.5 -6.5,0 -0.5,0 0,0.5 0,2 0,0.5 0.5,0 6.5,0 0,6.5 0,0.5 0.5,0 2,0 0.5,0 0,-0.5 0,-6.5 6.5,0 0.5,0 0,-0.5 0,-2 0,-0.5 -0.5,0 -6.5,0 0,-6.5 0,-0.5 -0.5,0 -2,0 -0.5,0 z"
+       id="rect4503"
+       inkscape:connector-curvature="0" />
     <path
        id="path3789"
-       transform="translate(0,26)"
-       d="M 9.5 2.5 L 9.5 3 L 9.5 9.5 L 3 9.5 L 2.5 9.5 L 2.5 10 L 2.5 12 L 2.5 12.5 L 3 12.5 L 9.5 12.5 L 9.5 19 L 9.5 19.5 L 10 19.5 L 12 19.5 L 12.5 19.5 L 12.5 19 L 12.5 12.5 L 19 12.5 L 19.5 12.5 L 19.5 12 L 19.5 10 L 19.5 9.5 L 19 9.5 L 12.5 9.5 L 12.5 3 L 12.5 2.5 L 12 2.5 L 10 2.5 L 9.5 2.5 z "
-       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.61" />
+       d="m 10.5,27.5 0,0.5 0,6.5 -6.5,0 -0.5,0 0,0.5 0,2 0,0.5 0.5,0 6.5,0 0,6.5 0,0.5 0.5,0 2,0 0.5,0 0,-0.5 0,-6.5 6.5,0 0.5,0 0,-0.5 0,-2 0,-0.5 -0.5,0 -6.5,0 0,-6.5 0,-0.5 -0.5,0 -2,0 -0.5,0 z"
+       style="opacity:0.61000001;color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.2"
-       d="M 10 3 L 10 4 L 12 4 L 12 3 L 10 3 z M 3 10 L 3 11 L 9.5 11 L 10 11 L 10 10.5 L 10 10 L 9.5 10 L 3 10 z M 12 10 L 12 10.5 L 12 11 L 12.5 11 L 19 11 L 19 10 L 12.5 10 L 12 10 z "
-       transform="translate(0,26)"
-       id="path3791" />
+       style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 11,28 0,1 2,0 0,-1 -2,0 z m -7,7 0,1 6.5,0 0.5,0 0,-0.5 0,-0.5 -0.5,0 -6.5,0 z m 9,0 0,0.5 0,0.5 0.5,0 6.5,0 0,-1 -6.5,0 -0.5,0 z"
+       id="path3791"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
