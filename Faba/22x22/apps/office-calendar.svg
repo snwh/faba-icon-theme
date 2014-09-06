@@ -540,7 +540,7 @@
      inkscape:zoom="11.313708"
      inkscape:cx="14.600938"
      inkscape:cy="-3.4844062"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -734,25 +734,5 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        transform="translate(0,-26)" />
-    <g
-       transform="translate(3.3124991e-7,3.1775e-5)"
-       id="g3064">
-      <path
-         sodipodi:type="arc"
-         style="fill:url(#radialGradient4268);fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path5780"
-         sodipodi:cx="311.46875"
-         sodipodi:cy="828.53125"
-         sodipodi:rx="3.28125"
-         sodipodi:ry="3.28125"
-         d="m 314.75,828.53125 c 0,1.81218 -1.46907,3.28125 -3.28125,3.28125 -1.81218,0 -3.28125,-1.46907 -3.28125,-3.28125 0,-1.81218 1.46907,-3.28125 3.28125,-3.28125 1.81218,0 3.28125,1.46907 3.28125,3.28125 z"
-         transform="matrix(2.1333337,0,0,1.9809524,-648.46678,-1634.781)" />
-      <path
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccscccscccscccsccccc"
-         id="path5784"
-         d="m 16.545272,0.63453177 c -0.58763,-0.27486 -1.28757,-0.0285 -1.572258,0.55351003 l -0.920134,2.16764 -2.025459,0.26363 c -0.443965,0.0691 -0.810897,0.38217 -0.948243,0.80908 -0.137377,0.42691 -0.02168,0.89462 0.298959,1.20872 l 1.419375,1.41193 -0.367692,1.97449 c -0.09463,0.44908 0.07896,0.91233 0.445583,1.1893602 0.366618,0.277 0.860509,0.31805 1.268033,0.10538 l 1.850134,-0.9319202 1.756819,0.9524502 c 0.396721,0.21052 0.878528,0.17975 1.245107,-0.0795 0.366589,-0.25925 0.555259,-0.7027002 0.487601,-1.1459802 l -0.330966,-1.9869 1.461851,-1.42358 c 0.329231,-0.3166 0.447198,-0.79363 0.303416,-1.22673 -0.143783,-0.4331 -0.523856,-0.74547 -0.977393,-0.80331 l -1.991315,-0.29303 -0.832771,-2.16171 C 17.00077,0.96239177 16.798605,0.75566177 16.545272,0.63457177 l 0,0 0,-10e-6 z"
-         style="fill:url(#radialGradient4402);fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient4404);stroke-width:1.04452038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0.3612;display:inline" />
-    </g>
   </g>
 </svg>

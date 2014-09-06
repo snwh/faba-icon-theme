@@ -30,8 +30,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="13.407251"
-     inkscape:cy="12.770647"
+     inkscape:cx="35.223778"
+     inkscape:cy="-5.7027333"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -263,6 +263,27 @@
        fx="40"
        fy="43.5"
        r="2" />
+    <linearGradient
+       y2="9"
+       x2="12"
+       y1="16"
+       x1="12"
+       gradientTransform="translate(0,6)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3079"
+       xlink:href="#linearGradient3920"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3920">
+      <stop
+         id="stop3922"
+         offset="0"
+         style="stop-color:#f8f8f8;stop-opacity:1" />
+      <stop
+         id="stop3924"
+         offset="1"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata3833">
@@ -272,7 +293,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
