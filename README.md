@@ -1,7 +1,7 @@
 Faba Icon Theme
 ===============
 
-This is the base icon set for Faba. It is designed with simplicity and compliance to Tango desktop standards in mind. All variations and supplementary themes for Faba, require this base theme.
+Faba is a sexy and modern icon theme with Tango influences. All variations and supplementary themes for Faba, require this base theme.
 
 Faba Icon Theme is distributed under the terms of the GNU GPL v.3
 
@@ -13,11 +13,12 @@ If you're feeling awesome, you may add icons I've missed or that you would like 
 
 ###Getting Faba
 
-Faba and all it's supplementary themes can be downloaded [here](http://mokaproject.com/faba-icon-theme/download).
+Faba and all its supplementary themes can be downloaded [here](http://mokaproject.com/faba-icon-theme/download).
 
 ###Supplementary Themes 
 
  * [Faba Mono Icons](https://github.com/moka-project/faba-mono-icons)
+ * [Extra Faba Icons](https://github.com/moka-project/faba-icon-theme-extras)
 
 ###Getting the Source
 
