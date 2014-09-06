@@ -15,17 +15,17 @@
    id="svg5400"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="media-playback-stop.svg">
+   sodipodi:docname="zoom-original.svg">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         style="stop-color:#555555;stop-opacity:1;"
+         style="stop-color:#f7f7f7;stop-opacity:1;"
          offset="0"
          id="stop3823" />
       <stop
-         style="stop-color:#666666;stop-opacity:1;"
+         style="stop-color:#dddddd;stop-opacity:1;"
          offset="1"
          id="stop3825" />
     </linearGradient>
@@ -299,7 +299,8 @@
        y1="16"
        x2="8"
        y2="0"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,16)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -309,9 +310,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1.1061864"
-     inkscape:cy="5.8644071"
-     inkscape:current-layer="layer1"
+     inkscape:cx="10.408613"
+     inkscape:cy="11.381625"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -332,6 +333,16 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3039"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       dotted="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5405">
@@ -347,23 +358,42 @@
   </metadata>
   <g
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="Background"
      inkscape:groupmode="layer">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4448);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 1.5,1.5 0,0.5 0,12 0,0.5 0.5,0 12,0 0.5,0 0,-0.5 0,-12 0,-0.5 -0.5,0 -12,0 z"
+       d="m 1.5,12.5 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 l -9,0 c -2,0 -2,-2 -2,-2 z"
        id="path4436"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2"
-       d="M 2 2 L 2 3 L 14 3 L 14 2 L 2 2 z "
-       id="path3807-1-1-5-8" />
-    <path
-       sodipodi:nodetypes="ccccccccccccc"
+       sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
-       id="path4450"
-       d="m 1.5,1.5 0,0.5 0,12 0,0.5 0.5,0 12,0 0.5,0 0,-0.5 0,-12 0,-0.5 -0.5,0 -12,0 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.61" />
+       id="path3832"
+       d="m 1.5,12.5 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 l -9,0 c -2,0 -2,-2 -2,-2 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001;color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Symbol">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4023"
+       d="M 7,6 C 7,7 6,7 6,7 l 0,1 1,0 0,4 2,0 0,-6 z"
+       style="opacity:0.3;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+    <path
+       style="color:#bebebe;fill:#bbbbbb;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="M 7,5 C 7,6 6,6 6,6 l 0,1 1,0 0,4 2,0 0,-6 z"
+       id="path6553"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="opacity:0.1;color:#bebebe;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="M 7,5 C 7,6 6,6 6,6 L 6,7 C 6,7 6.0625,7.015625 6.15625,7 6.4375,6.953125 7,6.75 7,6 L 9,6 9,5 z"
+       id="path4018"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccc" />
   </g>
 </svg>
