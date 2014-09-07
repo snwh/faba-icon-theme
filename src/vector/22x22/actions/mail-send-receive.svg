@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
@@ -14,9 +15,20 @@
    id="svg3495"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="mail-reply-all-rtl.svg">
+   sodipodi:docname="mail-send-receive.svg">
   <defs
      id="defs3497">
+    <linearGradient
+       id="linearGradient3785">
+      <stop
+         style="stop-color:#555555;stop-opacity:1;"
+         offset="0"
+         id="stop3787" />
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="1"
+         id="stop3789" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3669">
@@ -25,6 +37,15 @@
          d="M 0,96 96,96 96,0 0,0 0,96 z"
          id="path3671" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3785"
+       id="linearGradient3791"
+       x1="12"
+       y1="22"
+       x2="12"
+       y2="-2"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -34,10 +55,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="14.044476"
-     inkscape:cy="8.7038021"
+     inkscape:cx="16.782036"
+     inkscape:cy="13.827113"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -69,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,39 +99,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
-    <g
-       id="g4208"
-       transform="translate(0,1)"
-       style="fill:#555555;fill-opacity:1">
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path5972"
-         style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         d="m 6.99999,45.27656 -4.332,-6.30622 2.34101,0 L 5,33 l 3.99798,0 0.009,5.97034 2.37501,0 z" />
-      <path
-         d="m 15.00201,26.72344 -4.332,6.30622 2.34101,0 L 13.00202,39 17,39 l 0.009,-5.97034 2.37501,0 z"
-         style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         id="path4206"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
-    <g
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
-       transform="translate(0,4.4e-4)"
-       id="g4212">
-      <path
-         d="m 6.99999,45.27656 -4.332,-6.30622 2.34101,0 L 5,33 l 3.99798,0 0.009,5.97034 2.37501,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         id="path4214"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccc" />
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path4216"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         d="m 15.00201,26.72344 -4.332,6.30622 2.34101,0 L 13.00202,39 17,39 l 0.009,-5.97034 2.37501,0 z" />
-    </g>
+    <path
+       style="fill:url(#linearGradient3791);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+       d="M 15 0.84375 L 14.59375 1.4375 L 10.25 7.75 L 9.71875 8.53125 L 10.65625 8.53125 L 12.5 8.53125 L 12.5 14 L 12.5 14.5 L 13 14.5 L 17 14.5 L 17.5 14.5 L 17.5 14 L 17.5 8.53125 L 19.375 8.53125 L 20.34375 8.53125 L 19.78125 7.75 L 15.40625 1.4375 L 15 0.84375 z M 4.5 7.5 L 4.5 8 L 4.5 13.46875 L 2.65625 13.46875 L 1.71875 13.46875 L 2.25 14.25 L 6.59375 20.5625 L 7 21.15625 L 7.40625 20.5625 L 11.78125 14.25 L 12.34375 13.46875 L 11.375 13.46875 L 9.5 13.46875 L 9.5 8 L 9.5 7.5 L 9 7.5 L 5 7.5 L 4.5 7.5 z "
+       transform="translate(0,26)"
+       id="path5972" />
+    <path
+       id="path3771"
+       transform="translate(0,26)"
+       d="M 15 0.84375 L 14.59375 1.4375 L 10.25 7.75 L 9.71875 8.53125 L 10.65625 8.53125 L 12.5 8.53125 L 12.5 14 L 12.5 14.5 L 13 14.5 L 17 14.5 L 17.5 14.5 L 17.5 14 L 17.5 8.53125 L 19.375 8.53125 L 20.34375 8.53125 L 19.78125 7.75 L 15.40625 1.4375 L 15 0.84375 z M 4.5 7.5 L 4.5 8 L 4.5 13.46875 L 2.65625 13.46875 L 1.71875 13.46875 L 2.25 14.25 L 6.59375 20.5625 L 7 21.15625 L 7.40625 20.5625 L 11.78125 14.25 L 12.34375 13.46875 L 11.375 13.46875 L 9.5 13.46875 L 9.5 8 L 9.5 7.5 L 9 7.5 L 5 7.5 L 4.5 7.5 z "
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;display:inline;enable-background:new;stroke-opacity:1;opacity:0.61" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new;opacity:0.2"
+       d="M 15 1.71875 L 10.65625 8.03125 L 11.34375 8.03125 L 15 2.71875 L 18.6875 8.03125 L 19.375 8.03125 L 15 1.71875 z M 5 8 L 5 9 L 8.8125 9 L 9 8.71875 L 9 8 L 5 8 z M 9 9.71875 L 8.78125 10.03125 L 9 10.03125 L 9 9.71875 z M 2.65625 13.96875 L 3.34375 14.96875 L 4.5 14.96875 L 5 14.96875 L 5 14.46875 L 5 13.96875 L 4.5 13.96875 L 2.65625 13.96875 z M 9 13.96875 L 9 14.46875 L 9 14.96875 L 9.5 14.96875 L 10.6875 14.96875 L 11.375 13.96875 L 9.5 13.96875 L 9 13.96875 z M 13 13.96875 L 13 14 L 13.28125 14 L 13.3125 13.96875 L 13 13.96875 z "
+       transform="translate(0,26)"
+       id="path3773" />
   </g>
 </svg>
