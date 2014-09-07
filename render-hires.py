@@ -8,7 +8,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Faba'
-SRC = os.path.join('.', 'src', 'fullcolor')
+SRC = os.path.join('.', 'src', 'hires')
 
 inkscape_process = None
 
