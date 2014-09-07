@@ -548,7 +548,8 @@
      inkscape:cx="27.715221"
      inkscape:cy="9.9492033"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
+     showborder="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1364"
@@ -560,8 +561,7 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     showborder="false">
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid3025"

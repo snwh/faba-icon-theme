@@ -29,9 +29,10 @@
      inkscape:window-height="700"
      id="namedview36"
      showgrid="false"
+     showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="40.884842"
-     inkscape:cy="4.9680568"
+     inkscape:cx="38.665598"
+     inkscape:cy="14.822463"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -57,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,42 +259,6 @@
        y1="24"
        x2="43.500003"
        y2="24" />
-    <filter
-       inkscape:collect="always"
-       id="filter3900"
-       x="-0.15"
-       width="1.3"
-       y="-0.6"
-       height="2.2">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1"
-         id="feGaussianBlur3902" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3906"
-       x="-0.375"
-       width="1.75"
-       y="-1.5"
-       height="4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.5"
-         id="feGaussianBlur3908" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3912"
-       x="-0.6"
-       width="2.2"
-       y="-2.4"
-       height="5.8">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4"
-         id="feGaussianBlur3914" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient26113-9-3-1"

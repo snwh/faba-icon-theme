@@ -15,7 +15,7 @@
    height="48"
    id="svg3759"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="document-powerpoint.svg"
+   sodipodi:docname="document-word.svg"
    inkscape:export-filename="/home/sam/faba-internet-mail.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -32,6 +32,7 @@
      inkscape:window-height="700"
      id="namedview36"
      showgrid="false"
+     showborder="false"
      inkscape:zoom="1"
      inkscape:cx="15.809347"
      inkscape:cy="25.496325"
@@ -46,8 +47,7 @@
      inkscape:snap-bbox-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:showpageshadow="true"
-     showborder="true">
+     inkscape:showpageshadow="true">
     <inkscape:grid
        type="xygrid"
        id="grid3818"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -350,16 +350,16 @@
      inkscape:label="Symbol">
     <g
        id="g4311"
-       style="font-size:3.11293530000000018px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Open Sans;-inkscape-font-specification:Open Sans;opacity:0.4"
-       transform="translate(-304,695)">
+       style="font-size:3.1129353px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(-304,696)">
       <path
          inkscape:connector-curvature="0"
          id="path4313"
-         style="font-size:28.01641654999999886px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Open Sans Bold;fill-opacity:1"
+         style="font-size:28.01641655px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans Bold"
          d="m 336.45417,-661 -4.829,0 -2.70862,-10.50616 c -0.10033,-0.3739 -0.27361,-1.14454 -0.51983,-2.3119 -0.23713,-1.17645 -0.37393,-1.96533 -0.4104,-2.36662 -0.0547,0.49249 -0.19153,1.28592 -0.4104,2.3803 -0.21889,1.08529 -0.38761,1.86048 -0.50615,2.32558 l -2.69494,10.4788 -4.81532,0 -5.1026,-20 4.17237,0 2.55814,10.91655 c 0.44686,2.01551 0.77062,3.76198 0.97127,5.2394 0.0547,-0.51983 0.17783,-1.32238 0.36935,-2.40766 0.20063,-1.09438 0.38759,-1.94254 0.56088,-2.54446 L 326.00274,-681 l 4.00821,0 2.91381,11.20383 c 0.12766,0.5016 0.28726,1.26768 0.4788,2.29822 0.1915,1.03056 0.33742,1.91519 0.43775,2.6539 0.0912,-0.71135 0.2371,-1.59598 0.43776,-2.6539 0.20062,-1.06702 0.38302,-1.92885 0.5472,-2.5855 L 337.37073,-681 l 4.17236,0 -5.08892,20" />
     </g>
     <g
-       transform="translate(-304,694)"
+       transform="translate(-304,695)"
        style="font-size:3.1129353px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2a5699;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="text6621">
       <path
