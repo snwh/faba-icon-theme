@@ -9,7 +9,7 @@ Faba Icon Theme is distributed under the terms of the GNU GPL v.3
 
 If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
 
-If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://mokaproject.com/requests) or contribute a [donation](http://www.mokaproject.com/donate/ "Donate") to the project. :)
+If you're feeling awesome, you may suggest or [request](http://mokaproject.com/requests) icons I've missed or make a [donation](http://www.mokaproject.com/donate/ "Donate") to the project to fuel it's continuation. :)
 
 ###Getting Faba
 
@@ -34,11 +34,10 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 
  * inkscape
  * ruby
- * python3
 
 To render new icons from their source SVG files, run the following:
 
-    ./render-pngs.py
+    ./render-bitmaps.rb
     ./render-symbolic.rb
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
