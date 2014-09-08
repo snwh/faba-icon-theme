@@ -20,6 +20,18 @@
      id="defs3497">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient3774">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3776" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3778" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient3798">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -91,6 +103,17 @@
        y2="7"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1,25)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3774"
+       id="radialGradient3780"
+       cx="10.5"
+       cy="18"
+       fx="10.5"
+       fy="18"
+       r="8.5"
+       gradientTransform="matrix(1,0,0,0.23529412,0,13.764706)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -100,8 +123,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="6.232956"
-     inkscape:cy="2.9799433"
+     inkscape:cx="18.00309"
+     inkscape:cy="-0.3359623"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
@@ -144,6 +167,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,-24)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.2;fill:url(#radialGradient3780);fill-opacity:1;stroke:none"
+       id="path3003"
+       sodipodi:cx="10.5"
+       sodipodi:cy="18"
+       sodipodi:rx="8.5"
+       sodipodi:ry="2"
+       d="M 19,18 A 8.5,2 0 1 1 2,18 8.5,2 0 1 1 19,18 z"
+       transform="translate(1,25)" />
     <path
        style="fill:url(#linearGradient3763);fill-opacity:1;stroke:none;display:inline;enable-background:new"
        d="m 21.763866,29.535156 -20.000002,4.179688 3.7499998,2.929688 0,5.820312 4.375,-2.5 0,0 -1.25,-1.367188 5.0390692,3.632812 z"

@@ -15,7 +15,7 @@
    id="svg5400"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="zoom-out.svg">
+   sodipodi:docname="zoom-fit-best.svg">
   <defs
      id="defs5402">
     <linearGradient
@@ -301,6 +301,16 @@
        y2="0"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,-1,0,16)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3821"
+       id="linearGradient5101"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,16)"
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -310,9 +320,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="8.1685056"
-     inkscape:cy="3.9312505"
-     inkscape:current-layer="layer2"
+     inkscape:cx="10.300606"
+     inkscape:cy="16.323931"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:grid-bbox="true"
@@ -353,7 +363,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -362,37 +372,16 @@
      inkscape:label="Background"
      inkscape:groupmode="layer">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4448);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 1.5,12.5 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 l -9,0 c -2,0 -2,-2 -2,-2 z"
-       id="path4436"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient5101);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 3.5 1.5 C 3.5 1.5 1.5 1.5 1.5 3.5 L 1.5 12.5 C 1.5 12.5 1.5 14.5 3.5 14.5 L 12.5 14.5 C 12.5 14.5 14.5 14.5 14.5 12.5 L 14.5 3.5 C 14.5 3.5 14.5 1.5 12.5 1.5 L 3.5 1.5 z M 4.5 4.5 L 6.5 4.5 L 6.5 5.5 L 6 5.5 L 5.5 5.5 L 5.5 6 L 5.5 6.5 L 4.5 6.5 L 4.5 4.5 z M 9.5 4.5 L 11.5 4.5 L 11.5 6.5 L 10.5 6.5 L 10.5 6 L 10.5 5.5 L 10 5.5 L 9.5 5.5 L 9.5 4.5 z M 4.5 9.5 L 5.5 9.5 L 5.5 10 L 5.5 10.5 L 6 10.5 L 6.5 10.5 L 6.5 11.5 L 4.5 11.5 L 4.5 9.5 z M 10.5 9.5 L 11.5 9.5 L 11.5 11.5 L 9.5 11.5 L 9.5 10.5 L 10 10.5 L 10.5 10.5 L 10.5 10 L 10.5 9.5 z "
+       id="path4436" />
     <path
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:connector-curvature="0"
-       id="path3832"
-       d="m 1.5,12.5 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 l -9,0 c -2,0 -2,-2 -2,-2 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.40999999999999998" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.40999999999999998"
+       d="M 3.5 1.5 C 3.5 1.5 1.5 1.5 1.5 3.5 L 1.5 12.5 C 1.5 12.5 1.5 14.5 3.5 14.5 L 12.5 14.5 C 12.5 14.5 14.5 14.5 14.5 12.5 L 14.5 3.5 C 14.5 3.5 14.5 1.5 12.5 1.5 L 3.5 1.5 z M 4.5 4.5 L 6.5 4.5 L 6.5 5.5 L 6 5.5 L 5.5 5.5 L 5.5 6 L 5.5 6.5 L 4.5 6.5 L 4.5 4.5 z M 9.5 4.5 L 11.5 4.5 L 11.5 6.5 L 10.5 6.5 L 10.5 6 L 10.5 5.5 L 10 5.5 L 9.5 5.5 L 9.5 4.5 z M 4.5 9.5 L 5.5 9.5 L 5.5 10 L 5.5 10.5 L 6 10.5 L 6.5 10.5 L 6.5 11.5 L 4.5 11.5 L 4.5 9.5 z M 10.5 9.5 L 11.5 9.5 L 11.5 11.5 L 9.5 11.5 L 9.5 10.5 L 10 10.5 L 10.5 10.5 L 10.5 10 L 10.5 9.5 z "
+       id="path3832" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Symbol">
-    <path
-       sodipodi:nodetypes="cccccccccccccccccccccccccccc"
-       id="path3848"
-       d="M 4,5 4,8 6,8 6,7 7,7 7,5 z m 5,0 0,2 1,0 0,1 2,0 0,-3 z m -5,5 0,3 3,0 0,-2 -1,0 0,-1 z m 6,0 0,1 -1,0 0,2 3,0 0,-3 z"
-       style="opacity:0.29999999999999999;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#bebebe;fill:#bbbbbb;stroke:none;display:inline;enable-background:new;fill-opacity:1;opacity:1"
-       d="M 4,4 4,7 6,7 6,6 7,6 7,4 z m 5,0 0,2 1,0 0,1 2,0 0,-3 z m -5,5 0,3 3,0 0,-2 -1,0 0,-1 z m 6,0 0,1 -1,0 0,2 3,0 0,-3 z"
-       id="path6529"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
-    <path
-       style="color:#bebebe;fill:#000000;stroke:none;display:inline;enable-background:new;fill-opacity:1;opacity:0.1"
-       d="M 4 4 L 4 5 L 7 5 L 7 4 L 4 4 z M 9 4 L 9 5 L 12 5 L 12 4 L 9 4 z M 4 9 L 4 10 L 6 10 L 6 9 L 4 9 z M 6 10 L 6 11 L 7 11 L 7 10 L 6 10 z M 10 9 L 10 10 L 12 10 L 12 9 L 10 9 z M 10 10 L 9 10 L 9 11 L 10 11 L 10 10 z "
-       id="path3852" />
-  </g>
+     inkscape:label="Symbol" />
 </svg>
