@@ -7,7 +7,7 @@ include REXML
 
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "src/symbolic/source-symbolic.svg"
-PREFIX = "Faba/symbolic"
+PREFIX = "Faba/16x16"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
