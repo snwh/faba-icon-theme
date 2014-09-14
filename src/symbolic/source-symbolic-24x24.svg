@@ -33,10 +33,10 @@
      inkscape:window-width="1364"
      inkscape:window-height="700"
      id="namedview88"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="1"
-     inkscape:cx="362.19859"
-     inkscape:cy="51.206197"
+     inkscape:cx="283.14852"
+     inkscape:cy="61.89649"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -2481,6 +2481,31 @@
      transform="translate(-241.0002,-17)"
      style="display:inline">
     <g
+       inkscape:label="pane-hide"
+       id="g6040"
+       transform="translate(23.999973,0)">
+      <path
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 487.0002,166 0,2 0,10 0,2 10,0 2,0 0,-2 0,-10 0,-2 -2,0 -8,0 z m 6,4 4,3 -4,3 0,-2 -4,0 0,-2 4,0 z"
+         id="path6042"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect6044"
+         width="24"
+         height="24"
+         x="481.00021"
+         y="161" />
+      <rect
+         y="161"
+         x="481.00021"
+         height="24"
+         width="24"
+         id="rect6046"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+    </g>
+    <g
        inkscape:label="document-export"
        id="g6014"
        transform="matrix(-1,0,0,1,1154.0004,0)">
@@ -2652,34 +2677,29 @@
          sodipodi:nodetypes="ccccccccccc" />
     </g>
     <g
-       id="g5993"
-       transform="matrix(1.5,0,0,1.5,-30.50012,15.5)"
-       inkscape:label="pane-show">
+       id="g6035"
+       inkscape:label="pane-show"
+       transform="matrix(-1,0,0,1,986.00043,0)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6001-9"
+         d="m 487.0002,166 0,2 0,10 0,2 10,0 2,0 0,-2 0,-10 0,-2 -2,0 -8,0 z m 6,4 4,3 -4,3 0,-2 -4,0 0,-2 4,0 z"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         y="97"
-         x="341.00021"
-         height="16"
-         width="16"
+         y="161"
+         x="481.00021"
+         height="24"
+         width="24"
          id="rect5996"
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect5998"
-         width="16"
-         height="16"
-         x="341.00021"
-         y="97" />
-      <path
-         d="m 345.00021,100.33334 0,1.33333 0,6.66667 0,1.33333 6.66667,-1e-5 0,-1.33333 -5.33334,1e-5 0,-6.66667 5.33334,-1e-5 0,-1.33333 -5.33334,1e-5 z"
-         inkscape:connector-curvature="0"
-         id="path6001"
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="cccccccccccc" />
-      <path
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         d="M 253 153 L 253 155 L 250 155 L 250 157 L 253 157 L 253 159 L 258.65625 156 L 253 153 z "
-         transform="matrix(0.66666667,0,0,0.66666667,181.00021,1)"
-         id="path6004" />
+         width="24"
+         height="24"
+         x="481.00021"
+         y="161" />
     </g>
     <g
        id="g5173"
@@ -2768,37 +2788,6 @@
            inkscape:connector-curvature="0"
            d="m 66.888889,729 0,3.88889 -3.888889,0 0,2.22222 3.888889,0 0,3.88889 2.222222,0 0,-3.88889 3.888889,0 0,-2.22222 -3.888889,0 0,-3.88889 z" />
       </g>
-    </g>
-    <g
-       inkscape:label="pane-hide"
-       transform="matrix(-1.5,0,0,1.5,1040.5002,15.5)"
-       id="g5940">
-      <rect
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect5942"
-         width="16"
-         height="16"
-         x="341.00021"
-         y="97" />
-      <rect
-         y="97"
-         x="341.00021"
-         height="16"
-         width="16"
-         id="rect5944"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <path
-         sodipodi:nodetypes="cccccccccccc"
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path5946"
-         inkscape:connector-curvature="0"
-         d="m 345.00021,100.33334 0,1.33333 0,6.66667 0,1.33333 6.66667,-1e-5 0,-1.33333 -5.33334,1e-5 0,-6.66667 5.33334,-1e-5 0,-1.33333 -5.33334,1e-5 z" />
-      <path
-         id="path5948"
-         transform="matrix(0.66666667,0,0,0.66666667,181.00021,1)"
-         d="m 253,153 0,2 -3,0 0,2 3,0 0,2 5.65625,-3 L 253,153 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g5995"
