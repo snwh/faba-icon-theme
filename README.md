@@ -42,4 +42,6 @@ To render new icons from their source SVG files, run the following:
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
 
+See the [source README](src/README.md) for more info.
+
 -----------
