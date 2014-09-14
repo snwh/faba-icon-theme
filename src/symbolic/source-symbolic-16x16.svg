@@ -34,13 +34,13 @@
      inkscape:window-height="700"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="477.93286"
-     inkscape:cy="153.02286"
+     inkscape:zoom="0.5"
+     inkscape:cx="130.06748"
+     inkscape:cy="93.675805"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6058"
+     inkscape:current-layer="layer12"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -8511,7 +8511,7 @@
      transform="translate(-241.0002,467)"
      style="display:inline">
     <g
-       inkscape:label="pane-show"
+       inkscape:label="pane-hide"
        transform="translate(19.999963,32)"
        id="g6399">
       <rect
@@ -11022,11 +11022,10 @@
          y="867" />
       <path
          style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         d="m 40,619 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z"
-         transform="translate(3.00061,251)"
+         d="m 42.00061,870 0,2 14,0 0,-2 z m 0,4 0,2 14,0 0,-2 z m 0,4 0,2 14,0 0,-2 z"
          id="rect7356"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccc" />
+         sodipodi:nodetypes="ccccccccccccccc" />
     </g>
     <g
        style="display:inline;enable-background:new;"
@@ -11109,10 +11108,10 @@
          y="867" />
       <path
          id="path6171"
-         d="m 55.00023,870 1.1e-4,2 -2,0 -1.1e-4,-2 z m -2.99989,0 0,1 -9,0 0,-1 z m 2.99989,3 1.1e-4,2 -2,0 -1.1e-4,-2 z m -2.99989,0 0,1 -9,0 0,-1 z m 2.99989,3 1.1e-4,2 -2,0 -1.1e-4,-2 z m -2.99989,0 0,1 -9,0 0,-1 z m 2.99989,3 1.1e-4,2 -2,0 -1.1e-4,-2 z m -2.99989,0 0,1 -9,0 0,-1 z"
+         d="m 55.00034,870 0,1 -12,0 0,-1 z m 0,3 0,1 -12,0 0,-1 z m 0,3 0,1 -12,0 0,-1 z m 0,3 0,1 -12,0 0,-1 z"
          style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+         sodipodi:nodetypes="cccccccccccccccccccc" />
     </g>
     <g
        style="display:inline;enable-background:new;"

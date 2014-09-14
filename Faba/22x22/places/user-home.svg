@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><linearGradient id="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.38794 0 0 1.3871-867.76-299.61)" y1="218.84" x2="0" y2="230.17"><stop stop-color="#fff"/><stop offset=".029" stop-color="#fff" stop-opacity=".235"/><stop offset=".972" stop-color="#fff" stop-opacity=".157"/><stop offset="1" stop-color="#fff" stop-opacity=".392"/></linearGradient><linearGradient id="2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.38794 0 0 1.3871-.293 0)" y1="15.03" x2="0" y2="3.102"><stop stop-color="#eae5ff"/><stop offset="1" stop-color="#d4d5da"/></linearGradient><linearGradient id="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.66667 0 0 1.6-2.333-2.7)" y1="10" x2="0" y2="15"><stop stop-color="#212121"/><stop offset="1" stop-color="#58575e"/></linearGradient><linearGradient id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.66667 0 0 1.6-2.333-2.7)" y1="15" x2="0" y2="10"><stop stop-color="#6f6c7e"/><stop offset="1" stop-color="#aaa"/></linearGradient></defs><g color="#000"><path d="m15.5 2.5v4.435l-4.689-4.812-7.311 7.586v10.79h15v-18z" fill="url(#2)"/><path d="m10.811 5.124l-6.311 7.586v6.79h13v-7.484z" fill="none" stroke="url(#3)"/><path d="m8.5 13.497v7h5v-7z" fill="url(#1)" stroke="url(#0)" stroke-linejoin="round"/><path d="m13.586634 17.338695a.693973 .693552 0 0 1 -1.387945 0 .693973 .693552 0 1 1 1.387945 0" fill="#2d2d2d"/><path opacity=".5" fill="#fff" d="m16 3h2v1h-2z"/><path d="m15.5 2.5v4.435l-4.689-4.812-7.311 7.586v10.79h15v-18z" opacity=".61" fill="none" stroke="#3f3f3f"/></g><path opacity=".1" fill="#fff" d="m9 14h4v1h-4z"/><g color="#000"><path d="m11 1l-10 9.906.094.094h-.094v2h2v-.125l.125.125 7.875-7.875 7.875 7.875.125-.125v.125h2v-2h-.094l.094-.094z" fill="#49485a"/><path d="m11 3.219l8.563 8.469-.688.656-7.156-7.156-.719-.688-.719.688-7.156 7.156-.688-.656z" opacity=".5"/><path d="m11 1.865l9.563 9.469-.688.656-8.156-8.156-.719-.688-.719.688-8.156 8.156-.688-.656z" opacity=".2" fill="#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <defs>
+  <linearGradient id="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.38794 0 0 1.3871-867.76-299.61)" y1="218.84" x2="0" y2="230.17">
+   <stop stop-color="#fff"/>
+   <stop offset="0.029" stop-color="#fff" stop-opacity="0.235"/>
+   <stop offset="0.972" stop-color="#fff" stop-opacity="0.157"/>
+   <stop offset="1" stop-color="#fff" stop-opacity="0.392"/>
+  </linearGradient>
+  <linearGradient id="2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.38794 0 0 1.3871-.293 0)" y1="15.03" x2="0" y2="3.102">
+   <stop stop-color="#eae5ff"/>
+   <stop offset="1" stop-color="#d4d5da"/>
+  </linearGradient>
+  <linearGradient id="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.66667 0 0 1.6-2.333-2.7)" y1="10" x2="0" y2="15">
+   <stop stop-color="#212121"/>
+   <stop offset="1" stop-color="#58575e"/>
+  </linearGradient>
+  <linearGradient id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.66667 0 0 1.6-2.333-2.7)" y1="15" x2="0" y2="10">
+   <stop stop-color="#6f6c7e"/>
+   <stop offset="1" stop-color="#aaa"/>
+  </linearGradient>
+ </defs>
+ <g color="#000">
+  <path d="m15.5 2.5v4.435l-4.689-4.812-7.311 7.586v10.79h15v-18z" fill="url(#2)"/>
+  <path d="m10.811 5.124l-6.311 7.586v6.79h13v-7.484z" fill="none" stroke="url(#3)"/>
+  <path d="m8.5 13.497v7h5v-7z" fill="url(#1)" stroke="url(#0)" stroke-linejoin="round"/>
+  <path d="m13.586634 17.338695a.693973 .693552 0 0 1 -1.387945 0 .693973 .693552 0 1 1 1.387945 0" fill="#2d2d2d"/>
+  <path opacity="0.5" fill="#fff" d="m16 3h2v1h-2z"/>
+  <path d="m15.5 2.5v4.435l-4.689-4.812-7.311 7.586v10.79h15v-18z" opacity="0.61" fill="none" stroke="#3f3f3f"/>
+ </g>
+ <path opacity="0.1" fill="#fff" d="m9 14h4v1h-4z"/>
+ <g color="#000">
+  <path d="m11 1l-10 9.906.094.094h-.094v2h2v-.125l.125.125 7.875-7.875 7.875 7.875.125-.125v.125h2v-2h-.094l.094-.094z" fill="#49485a"/>
+  <path d="m11 3.219l8.563 8.469-.688.656-7.156-7.156-.719-.688-.719.688-7.156 7.156-.688-.656z" opacity="0.5"/>
+  <path d="m11 1.865l9.563 9.469-.688.656-8.156-8.156-.719-.688-.719.688-8.156 8.156-.688-.656z" opacity="0.2" fill="#fff"/>
+ </g>
+</svg>
