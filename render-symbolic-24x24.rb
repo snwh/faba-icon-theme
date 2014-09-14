@@ -6,8 +6,8 @@ include REXML
 
 
 INKSCAPE = '/usr/bin/inkscape'
-SRC = "src/symbolic/source-symbolic.svg"
-PREFIX = "Faba/16x16"
+SRC = "src/symbolic/source-symbolic-24x24.svg"
+PREFIX = "Faba/24x24"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -23,7 +23,7 @@ def chopSVG(icon)
 		#system(cmd)
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
 		svgcrop.root.each_element("//rect") do |rect| 
-			if rect.attributes["width"] == '16' && rect.attributes["height"] == '16'
+			if rect.attributes["width"] == '24' && rect.attributes["height"] == '24'
 				rect.remove
 			end
 		end
