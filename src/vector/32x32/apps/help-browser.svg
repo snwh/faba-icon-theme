@@ -15,7 +15,7 @@
    height="32"
    id="svg4248"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dialog-question.svg">
+   sodipodi:docname="help-browser.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,8 +31,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="20.31522"
-     inkscape:cy="18.9827"
+     inkscape:cx="-5.1303041"
+     inkscape:cy="62.0107"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -210,7 +210,44 @@
        gradientTransform="matrix(-1.0677186,0,0,-1.3556712,41.625244,23.344978)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4393"
-       xlink:href="#outerBackgroundGradient-5"
+       xlink:href="#outerBackgroundGradient-5-5"
+       inkscape:collect="always" />
+    <radialGradient
+       r="19.5"
+       fy="12.000001"
+       fx="24"
+       cy="12.000001"
+       cx="24"
+       gradientTransform="matrix(-1.0677186,0,0,-1.3556712,41.625244,23.344978)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4393-2"
+       xlink:href="#outerBackgroundGradient-5-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="outerBackgroundGradient-5-5">
+      <stop
+         style="stop-color:#0097ff;stop-opacity:1;"
+         offset="0"
+         id="stop3864-8-6-1-0" />
+      <stop
+         id="stop4375-1"
+         offset="0.75"
+         style="stop-color:#006cd9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#1148c1;stop-opacity:1;"
+         offset="1"
+         id="stop3866-9-1-1-7" />
+    </linearGradient>
+    <radialGradient
+       r="19.5"
+       fy="12.000001"
+       fx="24"
+       cy="12.000001"
+       cx="24"
+       gradientTransform="matrix(-1.0677186,0,0,-1.3556712,67.625244,-36.655022)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3803"
+       xlink:href="#outerBackgroundGradient-5-5"
        inkscape:collect="always" />
   </defs>
   <metadata
@@ -221,7 +258,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -250,7 +287,7 @@
        style="opacity:0.51836697;fill:url(#radialGradient3755);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5788);enable-background:new"
        sodipodi:type="arc" />
     <path
-       style="fill:url(#radialGradient4393);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:url(#radialGradient4393);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
        id="path6495"
        inkscape:connector-curvature="0"
        d="M 1.5,15.999486 C 1.5,24.007873 7.99235,30.5 15.999818,30.5 24.008018,30.5 30.5,24.007799 30.5,15.999486 30.5,7.991467 24.008018,1.5 15.999818,1.5 7.99235,1.5 1.5,7.991467 1.5,15.999486 l 0,0 z" />
