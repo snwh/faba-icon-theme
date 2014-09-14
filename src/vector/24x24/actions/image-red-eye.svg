@@ -260,8 +260,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="23.557753"
-     inkscape:cy="-4.2591331"
+     inkscape:cx="15.335649"
+     inkscape:cy="18.295485"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
@@ -308,7 +308,7 @@
        id="g4507"
        transform="translate(1,-1)">
       <path
-         d="M 20,20 A 9,2 0 1 1 2,20 9,2 0 1 1 20,20 z"
+         d="m 20,20 c 0,1.104569 -4.029437,2 -9,2 -4.9705627,0 -9,-0.895431 -9,-2 0,-1.104569 4.0294373,-2 9,-2 4.970563,0 9,0.895431 9,2 z"
          sodipodi:ry="2"
          sodipodi:rx="9"
          sodipodi:cy="20"
@@ -326,7 +326,7 @@
          sodipodi:cy="20"
          sodipodi:rx="9"
          sodipodi:ry="2"
-         d="M 20,20 A 9,2 0 1 1 2,20 9,2 0 1 1 20,20 z" />
+         d="m 20,20 c 0,1.104569 -4.029437,2 -9,2 -4.9705627,0 -9,-0.895431 -9,-2 0,-1.104569 4.0294373,-2 9,-2 4.970563,0 9,0.895431 9,2 z" />
     </g>
     <path
        style="fill:url(#linearGradient3802);fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -336,7 +336,7 @@
     <path
        id="path3804"
        d="m 2.5,36 c 0,5.240783 4.259217,9.5 9.5,9.5 5.240782,0 9.5,-4.259217 9.5,-9.5 0,-5.240783 -4.259218,-9.5 -9.5,-9.5 -5.240783,0 -9.5,4.259217 -9.5,9.5 z"
-       style="opacity:0.41000001;fill:none;stroke:#000000;stroke-opacity:1"
+       style="opacity:0.61;fill:none;stroke:#000000;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.4;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -358,11 +358,11 @@
        sodipodi:cy="12"
        sodipodi:rx="3"
        sodipodi:ry="3"
-       d="m 15,12 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+       d="m 15,12 c 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 1.656854,0 3,1.343146 3,3 z"
        transform="matrix(1.5,0,0,1.5,-6,-8)" />
     <path
        transform="matrix(1.5,0,0,1.5,-6,-8)"
-       d="m 15,12 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+       d="m 15,12 c 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 1.656854,0 3,1.343146 3,3 z"
        sodipodi:ry="3"
        sodipodi:rx="3"
        sodipodi:cy="12"

@@ -15,7 +15,7 @@
    id="svg3495"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="media-record.svg">
+   sodipodi:docname="object-inverse.svg">
   <defs
      id="defs3497">
     <linearGradient
@@ -167,9 +167,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="9.4205655"
-     inkscape:cy="18.040713"
+     inkscape:zoom="1"
+     inkscape:cx="9.7803078"
+     inkscape:cy="11.523118"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
@@ -203,7 +203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,7 +215,7 @@
     <g
        id="g4507">
       <path
-         d="M 20,20 A 9,2 0 1 1 2,20 9,2 0 1 1 20,20 z"
+         d="m 20,20 c 0,1.104569 -4.029437,2 -9,2 -4.9705627,0 -9,-0.895431 -9,-2 0,-1.104569 4.0294373,-2 9,-2 4.970563,0 9,0.895431 9,2 z"
          sodipodi:ry="2"
          sodipodi:rx="9"
          sodipodi:cy="20"
@@ -233,7 +233,7 @@
          sodipodi:cy="20"
          sodipodi:rx="9"
          sodipodi:ry="2"
-         d="M 20,20 A 9,2 0 1 1 2,20 9,2 0 1 1 20,20 z" />
+         d="m 20,20 c 0,1.104569 -4.029437,2 -9,2 -4.9705627,0 -9,-0.895431 -9,-2 0,-1.104569 4.0294373,-2 9,-2 4.970563,0 9,0.895431 9,2 z" />
     </g>
     <path
        style="fill:url(#linearGradient4698);fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -261,13 +261,20 @@
        style="opacity:0.20000000000000001;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:0.20000000000000001;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4711"
        width="1"
        height="18"
        x="11"
        y="2"
        transform="translate(0,26)" />
+    <rect
+       y="28"
+       x="10"
+       height="18"
+       width="1"
+       id="rect3783"
+       style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
