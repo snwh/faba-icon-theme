@@ -31,8 +31,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="22.489076"
-     inkscape:cy="1.4421213"
+     inkscape:cx="-10.350345"
+     inkscape:cy="43.428282"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,39 +160,6 @@
          offset="1"
          id="stop5622" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4155">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.39"
-         id="feGaussianBlur4157" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4023"
-       x="-0.063848684"
-       width="1.1276974"
-       y="-0.99538462"
-       height="2.9907692">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.0109375"
-         id="feGaussianBlur4025" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4033"
-       x="-0.12769737"
-       width="1.2553947"
-       y="-1.9907692"
-       height="4.9815385">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.021875"
-         id="feGaussianBlur4035" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3934"
@@ -694,7 +661,7 @@
        id="rect3855"
        style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001000000004;color:#000000;fill:#8f0202;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.81;color:#000000;fill:#8f0202;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 6.4375 4 C 5.088849 4 4 5.0888497 4 6.4375 L 4 14 L 5 14 L 5 6.4375 C 5 5.6255532 5.625551 5 6.4375 5 L 41.5625 5 C 42.374449 5 43 5.6255532 43 6.4375 L 43 14 L 44 14 L 44 6.4375 C 44 5.0888497 42.911151 4 41.5625 4 L 6.4375 4 z "
        id="rect4085" />
     <path
@@ -768,13 +735,6 @@
        id="path4472"
        d="m 9,19 0,4 0,1 0,3 0,1 0,3 0,1 0,3 0,1 0,4 30,0 0,-21 z m 1,1 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z"
        style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#e74c3c;fill-opacity:1;stroke:none"
-       id="rect4347"
-       width="5"
-       height="5"
-       x="30"
-       y="22" />
     <path
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
        d="m 9,18 0,4 0,1 0,3 0,1 0,3 0,1 0,3 0,1 0,4 30,0 0,-21 z m 1,1 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m -25,4 4,0 0,3 -4,0 z m 5,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z m 4,0 3,0 0,3 -3,0 z"
