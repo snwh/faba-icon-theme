@@ -35,8 +35,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="333.25891"
-     inkscape:cy="178.71357"
+     inkscape:cx="123.84131"
+     inkscape:cy="132.09264"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -6280,25 +6280,6 @@
          sodipodi:nodetypes="scsccscssccccc" />
     </g>
     <g
-       id="g5939"
-       inkscape:label="input-dialpad"
-       transform="translate(0,40)">
-      <path
-         id="rect5924"
-         transform="translate(241.0002,-467)"
-         d="m 224,338 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -6,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -6,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -3,3 2,0 0,2 -2,0 z"
-         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
-      <rect
-         y="-130.99997"
-         x="461.00021"
-         height="16"
-         width="16"
-         id="rect8764"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;" />
-    </g>
-    <g
        id="g5843"
        inkscape:label="camera-web"
        transform="translate(1.3e-5,212)">
@@ -6913,6 +6894,22 @@
          transform="translate(241.0002,-467)"
          d="M 263.5625 378 L 264.5625 381 L 271.375 381 L 272.25 378 L 263.5625 378 z "
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.35" />
+    </g>
+    <g
+       id="g5789"
+       inkscape:label="input-dialpad">
+      <rect
+         y="-90.999969"
+         x="461.00021"
+         height="16"
+         width="16"
+         id="rect8764"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <path
+         id="path4985"
+         transform="translate(241.0002,-467)"
+         d="M 225 378 C 224.44772 378 224 378.44772 224 379 C 224 379.55228 224.44772 380 225 380 C 225.55228 380 226 379.55228 226 379 C 226 378.44772 225.55228 378 225 378 z M 228 378 C 227.44772 378 227 378.44772 227 379 C 227 379.55228 227.44772 380 228 380 C 228.55228 380 229 379.55228 229 379 C 229 378.44772 228.55228 378 228 378 z M 231 378 C 230.44772 378 230 378.44772 230 379 C 230 379.55228 230.44772 380 231 380 C 231.55228 380 232 379.55228 232 379 C 232 378.44772 231.55228 378 231 378 z M 225 381 C 224.44772 381 224 381.44772 224 382 C 224 382.55228 224.44772 383 225 383 C 225.55228 383 226 382.55228 226 382 C 226 381.44772 225.55228 381 225 381 z M 228 381 C 227.44772 381 227 381.44772 227 382 C 227 382.55228 227.44772 383 228 383 C 228.55228 383 229 382.55228 229 382 C 229 381.44772 228.55228 381 228 381 z M 231 381 C 230.44772 381 230 381.44772 230 382 C 230 382.55228 230.44772 383 231 383 C 231.55228 383 232 382.55228 232 382 C 232 381.44772 231.55228 381 231 381 z M 225 384 C 224.44772 384 224 384.44772 224 385 C 224 385.55228 224.44772 386 225 386 C 225.55228 386 226 385.55228 226 385 C 226 384.44772 225.55228 384 225 384 z M 228 384 C 227.44772 384 227 384.44772 227 385 C 227 385.55228 227.44772 386 228 386 C 228.55228 386 229 385.55228 229 385 C 229 384.44772 228.55228 384 228 384 z M 231 384 C 230.44772 384 230 384.44772 230 385 C 230 385.55228 230.44772 386 231 386 C 231.55228 386 232 385.55228 232 385 C 232 384.44772 231.55228 384 231 384 z M 228 387 C 227.44772 387 227 387.44772 227 388 C 227 388.55228 227.44772 389 228 389 C 228.55228 389 229 388.55228 229 388 C 229 387.44772 228.55228 387 228 387 z "
+         style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1" />
     </g>
   </g>
   <g
@@ -9965,8 +9962,8 @@
          sodipodi:nodetypes="ccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path3027-5"
-         d="m 340.0002,66 0,3 9,0 0,-3 2,0 0,-2 3,0 0,-3 c 0,0 0,-2 -2,-2 l -8,0 c 0,0 -2,0 -2,2 l 0,4 c 0,1 -1,1 -1,1 z m 12,-1 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;" />
+         d="m 340.0002,66 0,3 9,0 0,-1.999989 2,0 0,-2 3,0 0,-4.000011 c 0,0 0,-2 -2,-2 l -8,0 c 0,0 -2,0 -2,2 l 0,4 c 0,1 -1,1 -1,1 z m 12,1.1e-5 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g6636"
