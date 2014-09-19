@@ -35,12 +35,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="141.60842"
-     inkscape:cy="176.67509"
+     inkscape:cx="351.24297"
+     inkscape:cy="492.9848"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer1"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -2082,32 +2082,26 @@
      style="display:inline"
      transform="translate(-241.0002,467)">
     <g
-       transform="translate(119.99999,140)"
+       transform="translate(240.0002,-520)"
        inkscape:label="dialog-password"
-       id="g4931"
-       style="display:inline;enable-background:new">
-      <rect
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect4933"
-         width="16"
-         height="16"
-         x="461.00021"
-         y="-403" />
+       id="g4917">
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="M 348 205 C 344.13397 205 341 208.13412 341 212 C 341 215.86603 344.13397 219 348 219 C 351.86603 219 355 215.86603 355 212 C 355 208.13412 351.86603 205 348 205 z M 347 208 L 349 208 L 349 212.5 L 348 213.5 L 349 214.5 L 349 216 L 347 216 L 347 211.5 L 348 210.5 L 347 209.5 L 347 208 z "
+         transform="translate(1,53)"
+         id="path4925" />
       <g
-         id="g4936"
-         transform="translate(-15.999986,0)">
-        <path
-           id="path4938"
-           transform="translate(241.0002,-467)"
-           d="m 243,64 c -2.01566,0 -4,2.02594 -4,4 l 0,2 1,0 0,-2 c 0,-1.662 1.338,-3 3,-3 l 2,0 c 1.662,0 3,1.338 3,3 l 0,2 1,0 0,-2 c 0,-1.99486 -1.96353,-4 -4,-4 l -2,0 z"
-           style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4940"
-           transform="translate(241.0002,-467)"
-           d="m 238,71 0,1 0,1 0,0.5 0,1.25 0,0.25 0,0.5 0,1.5 0,0.5 0,0.5 0,0.5 c 0,0.831 0.669,1.5 1.5,1.5 l 9,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 0,-0.5 0,-0.5 0,-1.5 0,-0.5 0,-0.25 0,-1.25 0,-0.5 0,-1 0,-1 -12,0 z m 1,1 10,0 0,1 -1.25,0 0,0.5 1.25,0 0,1.25 0,0.25 -1.25,0 0,0.5 1.25,0 0,1.5 -1.25,0 0,0.5 1.25,0 0,0.5 0,0.5 c 0,0.2943 -0.2057,0.5 -0.5,0.5 l -9,0 c -0.2943,0 -0.5,-0.2057 -0.5,-0.5 l 0,-0.5 0,-0.5 1.25,0 0,-0.5 -1.25,0 0,-1.5 1.25,0 0,-0.5 -1.25,0 0,-0.25 0,-1.25 1.25,0 0,-0.5 -1.25,0 0,-1 z m 4.75,1 c -0.9695,0 -1.75,0.7805 -1.75,1.75 0,0.702266 0.40576,1.314629 1,1.59375 L 243,78 l 2,0 0,-1.65625 c 0.59424,-0.279121 1,-0.891484 1,-1.59375 0,-0.9695 -0.7805,-1.75 -1.75,-1.75 l -0.5,0 z"
-           style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
+         transform="translate(301,-261)"
+         inkscape:label="dialog-error"
+         id="g4919"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline">
+        <rect
+           style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+           id="rect4921"
+           y="518"
+           x="40"
+           height="16"
+           width="16" />
       </g>
     </g>
     <g
