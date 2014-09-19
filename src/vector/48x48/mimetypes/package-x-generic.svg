@@ -15,7 +15,7 @@
    height="48"
    id="svg3759"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="text-x-copying.svg"
+   sodipodi:docname="package-x-generic.svg"
    inkscape:export-filename="/home/sam/faba-internet-mail.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -34,8 +34,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="36.830423"
-     inkscape:cy="19.952048"
+     inkscape:cx="12.764918"
+     inkscape:cy="38.967137"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1310,7 +1310,7 @@
        height="41"
        width="35"
        id="rect4112"
-       style="color:#bebebe;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6d4e16;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.61"
+       style="color:#bebebe;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6d4216;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.60999999999999999"
        transform="matrix(0,1,-1,0,0,0)" />
     <g
        style="display:inline"

@@ -15,7 +15,7 @@
    id="svg5400"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="x-office-document.svg">
+   sodipodi:docname="package-x-generic.svg">
   <defs
      id="defs5402">
     <linearGradient
@@ -438,9 +438,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="14.211387"
-     inkscape:cy="9.1888209"
-     inkscape:current-layer="layer2"
+     inkscape:cx="17.031428"
+     inkscape:cy="13.399833"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:grid-bbox="true"
@@ -471,7 +471,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -482,31 +482,22 @@
      style="display:inline">
     <path
        style="color:#bebebe;fill:url(#linearGradient3924);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 14.499996,2.5 4e-6,11 c -4.333333,0 -8.6666678,0 -13,0 l 0,-11 z"
+       d="m 15.499996,1.5 4e-6,13 c -4.333333,0 -10.6666678,0 -15,0 l 0,-13 z"
        id="rect3373-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#bebebe;fill:url(#linearGradient3921);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.4"
-       d="M 14,3 2,3 2,13 14,13 14,3 z m -1,1 0,8 -10,0 0,-8 10,0 z"
-       id="path3799" />
-    <rect
-       style="opacity:0.2;color:#bebebe;fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect7124"
-       width="14"
-       height="16"
-       x="433"
-       y="124"
-       ry="0"
-       clip-path="url(#clipPath4069)"
-       transform="matrix(0,1,-1,0,161,-435)" />
+       style="opacity:0.4;color:#bebebe;fill:url(#linearGradient3921);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 15,2 1,2 1,14 15,14 z M 14,3 14,13 2,13 2,3 z"
+       id="path3799"
+       sodipodi:nodetypes="cccccccccc" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3927"
-       d="m 14.499996,2.5 4e-6,11 c -4.333333,0 -8.6666678,0 -13,0 l 0,-11 z"
-       style="color:#bebebe;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.41" />
+       d="m 15.499996,1.5 4e-6,13 c -4.333333,0 -10.6666678,0 -15,0 l 0,-13 z"
+       style="opacity:0.71;color:#bebebe;fill:none;stroke:#6d4216;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -531,6 +522,7 @@
        style="opacity:0.3;fill:url(#linearGradient3947);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 12.11719,7 10.88281,7 5.11718,7 3.88277,7 c 0,0.10598 0.34374,0.20652 0.34374,0.3125 0,0.16227 -0.34374,0.33774 -0.34374,0.5 0,0.20156 0.39067,0.39219 0.39067,0.59375 0,0.19686 -0.39067,0.39688 -0.39067,0.59375 l 1.23441,0 5.76563,0 1.23438,0 c 0,-0.19687 -0.375,-0.39689 -0.375,-0.59375 0,-0.20156 0.375,-0.39219 0.375,-0.59375 0,-0.16226 -0.32813,-0.33773 -0.32813,-0.5 0,-0.10598 0.32813,-0.20652 0.32813,-0.3125 z"
        id="path4248"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsssccccsssc" />
   </g>
 </svg>

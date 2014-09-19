@@ -15,7 +15,7 @@
    id="svg5400"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="package-x-generic.svg">
+   sodipodi:docname="text-plain.svg">
   <defs
      id="defs5402">
     <linearGradient
@@ -235,25 +235,6 @@
        y2="14" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-4"
-       id="linearGradient3829"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05555556,0,0,0.05714289,-2,-2.1428659)"
-       x1="144"
-       y1="280.00003"
-       x2="144"
-       y2="40.00005" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3804"
-       id="linearGradient3831"
-       gradientUnits="userSpaceOnUse"
-       x1="5"
-       y1="1"
-       x2="5"
-       y2="14" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3818"
        id="linearGradient3824"
        x1="8"
@@ -301,134 +282,24 @@
        y2="16" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-4"
-       id="linearGradient3869"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.05555556,0.05714289,0,-3.1428659,15)"
-       x1="144"
-       y1="280.00003"
-       x2="144"
-       y2="40.00005" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3804"
-       id="linearGradient3871"
+       id="linearGradient3156"
        gradientUnits="userSpaceOnUse"
        x1="5"
        y1="1"
        x2="5"
        y2="14"
-       gradientTransform="matrix(0,-1,1,0,-1,13)" />
+       gradientTransform="translate(2,1)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4228"
-       id="linearGradient4540"
+       xlink:href="#outerBackgroundGradient-4"
+       id="linearGradient3159"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5,0,0,0.5,-156.00005,-494.4311)"
-       x1="330"
-       y1="995.62781"
-       x2="330"
-       y2="1012.0966" />
-    <linearGradient
-       id="linearGradient4228">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop4230" />
-      <stop
-         id="stop4262"
-         offset="0.22413793"
-         style="stop-color:#ffffff;stop-opacity:0.85098039;" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.70253164;"
-         offset="1"
-         id="stop4232" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4069">
-      <rect
-         style="color:#bebebe;fill:url(#linearGradient4073);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect4071"
-         width="14"
-         height="16"
-         x="433"
-         y="124"
-         ry="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3186">
-      <rect
-         style="color:#bebebe;fill:url(#linearGradient4073);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3188"
-         width="14"
-         height="16"
-         x="433"
-         y="124"
-         ry="0" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient"
-       id="linearGradient4097"
-       gradientUnits="userSpaceOnUse"
-       x1="144"
-       y1="280.00003"
-       x2="144"
-       y2="40.00005"
-       gradientTransform="matrix(0,-0.06666667,0.06666667,0,873.69551,-430.4)" />
-    <linearGradient
-       id="outerBackgroundGradient">
-      <stop
-         style="stop-color:#b79877;stop-opacity:1;"
-         offset="0"
-         id="stop3864-8-6" />
-      <stop
-         style="stop-color:#f7d2a2;stop-opacity:1;"
-         offset="1"
-         id="stop3866-9-1" />
-    </linearGradient>
-    <linearGradient
-       y2="40.00005"
-       x2="144"
-       y1="280.00003"
-       x1="144"
-       gradientTransform="matrix(0,-0.06666667,0.06666667,0,-5.66667,-19.4)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3201"
-       xlink:href="#outerBackgroundGradient"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3804"
-       id="linearGradient3921"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2,1)"
-       x1="5"
-       y1="1"
-       x2="5"
-       y2="14" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient"
-       id="linearGradient3924"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.06018519,0,0,0.06285718,-0.66666667,-2.0571525)"
+       gradientTransform="matrix(0.05555556,0,0,0.05714289,0,-1.1428659)"
        x1="144"
        y1="280.00003"
        x2="144"
        y2="40.00005" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4228"
-       id="linearGradient3947"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5,0,0,0.5,-156.00005,-493.93109)"
-       x1="330"
-       y1="995.62781"
-       x2="330"
-       y2="1012.0966" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -438,9 +309,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="17.031428"
-     inkscape:cy="13.399833"
-     inkscape:current-layer="layer1"
+     inkscape:cx="29.061642"
+     inkscape:cy="-16.76705"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showborder="false"
      inkscape:grid-bbox="true"
@@ -471,7 +342,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -481,48 +352,123 @@
      inkscape:groupmode="layer"
      style="display:inline">
     <path
-       style="color:#bebebe;fill:url(#linearGradient3924);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 15.499996,1.5 4e-6,13 c -4.333333,0 -10.6666678,0 -15,0 l 0,-13 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3029"
+       d="M 2,1.000004 14,1 c 0,4 0,10.000001 0,14 L 2,15 z"
+       style="opacity:0.41000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#bebebe;fill:url(#linearGradient3159);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 2,1.000004 14,1 c 0,4 0,10.000001 0,14 L 2,15 z"
        id="rect3373-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.4;color:#bebebe;fill:url(#linearGradient3921);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 15,2 1,2 1,14 15,14 z M 14,3 14,13 2,13 2,3 z"
+       style="color:#bebebe;fill:url(#linearGradient3156);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 2,1 2,15 14,15 14,1 z M 3,2 13,2 13,14 3,14 z"
        id="path3799"
        sodipodi:nodetypes="cccccccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3927"
-       d="m 15.499996,1.5 4e-6,13 c -4.333333,0 -10.6666678,0 -15,0 l 0,-13 z"
-       style="opacity:0.71;color:#bebebe;fill:none;stroke:#6d4216;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Symbol"
      style="display:inline">
-    <g
-       id="g3943"
-       transform="matrix(1,0,0,0.85714286,0,1.1428571)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3991"
-         d="M 7,1 7,15 8,15 8,1 7,1 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.05;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3955"
-         d="M 8,1 8,15 9,15 9,1 8,1 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
-    </g>
     <path
-       style="opacity:0.3;fill:url(#linearGradient3947);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 12.11719,7 10.88281,7 5.11718,7 3.88277,7 c 0,0.10598 0.34374,0.20652 0.34374,0.3125 0,0.16227 -0.34374,0.33774 -0.34374,0.5 0,0.20156 0.39067,0.39219 0.39067,0.59375 0,0.19686 -0.39067,0.39688 -0.39067,0.59375 l 1.23441,0 5.76563,0 1.23438,0 c 0,-0.19687 -0.375,-0.39689 -0.375,-0.59375 0,-0.20156 0.375,-0.39219 0.375,-0.59375 0,-0.16226 -0.32813,-0.33773 -0.32813,-0.5 0,-0.10598 0.32813,-0.20652 0.32813,-0.3125 z"
-       id="path4248"
+       id="path26173"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 4.289061,2.85938 4.289061,2 3,2 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26175"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 5.539061,2.85938 5.539061,2 4.25,2 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26177"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 6.789061,2.85938 6.789061,2 5.5,2 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26271"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#b78ed4;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 4.289061,4.85938 4.289061,4 3,4 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26273"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#b78ed4;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 5.539061,4.85938 5.539061,4 4.25,4 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26365"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#94d48e;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 4.289061,6.85938 4.289061,6 3,6 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26369"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 6.789061,6.85938 6.789061,6 5.5,6 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26405"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="m 11.79687,10.85938 0,-0.85938 -1.289059,0 0,0.85938 1.289059,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26449"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#d48eb3;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 8.039061,4.85938 8.039061,4 6.75,4 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26501"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#94d48e;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 4.289061,8.85938 4.289061,8 3,8 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsssccccsssc" />
+       d="M 6.789061,8.85938 6.789061,8 5.5,8 l 0,0.85938 1.289061,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4089" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 9.29687,8.85938 0,-0.85938 -1.289059,0 0,0.85938 1.289059,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4091" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 10.539061,8.85938 10.539061,8 9.25,8 l 0,0.85938 1.289061,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4093" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 4.289061,10.85938 4.289061,10 3,10 l 0,0.85938 1.289061,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#94d48e;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4095" />
+    <path
+       id="path4097"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 6.789061,10.85938 6.789061,10 5.5,10 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4101"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#89adc2;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="m 10.539061,10.85938 0,-0.85938 -1.289061,0 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4103"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#de6161;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       d="M 4.289061,12.85938 4.289061,12 3,12 l 0,0.85938 1.289061,0"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 6.789061,12.85938 6.789061,12 5.5,12 l 0,0.85938 1.289061,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4105" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 8.039061,10.85938 8.039061,10 6.75,10 l 0,0.85938 1.289061,0"
+       style="font-size:2px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;font-family:BLOKK Neue;-inkscape-font-specification:BLOKK Neue"
+       id="path4107" />
   </g>
 </svg>
