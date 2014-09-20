@@ -20,7 +20,7 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -34,8 +34,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="21.909259"
-     inkscape:cy="36.99304"
+     inkscape:cx="18.30176"
+     inkscape:cy="26.323576"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -343,17 +343,9 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       style="opacity:0.35;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 40,3 8,3 C 7.446,3 7,3.446 7,4 l 0,39 c 0,0.554 0.446,1 1,1 l 32,0 c 0.554,0 1,-0.446 1,-1 L 41,4 C 41,3.446 40.554,3 40,3 z"
-       id="rect3886"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <path
        style="color:#bebebe;fill:url(#linearGradient3142);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 40,4 8,4 8,43 40,43 z"
-       id="rect3882"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       d="M 7.5 3.5 L 7.5 4 L 7.5 43 L 7.5 43.5 L 8 43.5 L 40 43.5 L 40.5 43.5 L 40.5 43 L 40.5 4 L 40.5 3.5 L 40 3.5 L 8 3.5 L 7.5 3.5 z "
+       id="rect3882" />
     <rect
        style="color:#000000;fill:url(#linearGradient3886);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect20570"
@@ -368,13 +360,22 @@
        style="opacity:0.2;fill:url(#linearGradient3920);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41;color:#bebebe;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 14 3 L 14 4 L 40 4 L 40 43 L 14 43 L 14 44 L 40 44 L 40.5 44 L 41 44 L 41 43.5 L 41 43 L 41 4 L 41 3.5 L 41 3 L 40.5 3 L 40 3 L 14 3 z "
+       id="path3983" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.40999999999999998;color:#bebebe;fill:#350041;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 7 3 L 7 3.5 L 7 4 L 7 43 L 7 43.5 L 7 44 L 7.5 44 L 8 44 L 14 44 L 14 43 L 8 43 L 8 4 L 14 4 L 14 3 L 8 3 L 7.5 3 L 7 3 z "
+       id="path3992" />
     <rect
-       y="42"
-       x="8"
-       height="1"
-       width="32"
-       id="rect3922"
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
+       ry="0"
+       y="3.5"
+       x="13"
+       height="40"
+       width="1"
+       id="rect4000"
+       style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
   <g
      inkscape:groupmode="layer"
