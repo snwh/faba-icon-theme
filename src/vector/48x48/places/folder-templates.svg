@@ -15,7 +15,7 @@
    height="48"
    id="svg2436"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-documents.svg">
+   sodipodi:docname="folder-templates.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,7 +36,7 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:zoom="1"
-     inkscape:cx="-144.92625"
+     inkscape:cx="-312.92625"
      inkscape:cy="19.940908"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -291,16 +291,6 @@
        y1="0"
        x2="0"
        y2="48" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4511"
-       id="linearGradient3058"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,1)"
-       x1="0"
-       y1="0"
-       x2="0"
-       y2="48" />
   </defs>
   <metadata
      id="metadata2441">
@@ -310,7 +300,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -375,7 +365,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;opacity:0.3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:url(#linearGradient3058);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;opacity:0.4"
        d="M 17.84375 19 C 17.5625 19.046875 17 19.25 17 20 L 17 27 L 18 27 L 18 20 L 27 20 L 27 23 L 30 23 L 30 27 L 31 27 C 30.999963 25.327892 31 23 31 23 L 27 19 L 18 19 C 18 19 17.9375 18.984375 17.84375 19 z M 17 28 L 17 30 L 18 30 L 18 28 L 17 28 z M 30 28 L 30 30 L 31 30 C 31.000114 29.120831 30.999988 28.906038 31 28 L 30 28 z M 17 31 L 17 33 L 18 33 L 18 31 L 17 31 z M 30 31 L 30 33 L 31 33 C 31.001632 32.440444 30.999478 31.819058 31 31 L 30 31 z M 17 34 L 17 35 C 17 36 18 36 18 36 L 19 36 L 19 35 L 18 35 L 18 34 L 17 34 z M 30 34 L 30 35 L 29 35 L 29 36 L 30 36 C 31 36 31 35 31 35 C 31.001958 34.9952 30.998654 34.156078 31 34 L 30 34 z M 20 35 L 20 36 L 22 36 L 22 35 L 20 35 z M 23 35 L 23 36 L 25 36 L 25 35 L 23 35 z M 26 35 L 26 36 L 28 36 L 28 35 L 26 35 z "
        id="path16783-2-5-9-9-81-6-7-8-5" />
   </g>

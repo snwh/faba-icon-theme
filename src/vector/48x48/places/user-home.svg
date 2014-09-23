@@ -15,7 +15,7 @@
    height="48"
    id="svg2436"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-home.svg">
+   sodipodi:docname="user-home.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,8 +36,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:zoom="1"
-     inkscape:cx="24"
-     inkscape:cy="18.6875"
+     inkscape:cx="28.512216"
+     inkscape:cy="17.089303"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -231,16 +231,6 @@
          offset="1"
          style="stop-color:#8b699b;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4511"
-       id="linearGradient6230"
-       x1="0"
-       y1="0"
-       x2="0"
-       y2="48"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-2)" />
   </defs>
   <metadata
      id="metadata2441">
@@ -316,7 +306,7 @@
        d="m 24,20.625 -0.6875,0.625 -6.5,6 L 16,28 l 0,1 1,0 0,7 14,0 0,-7 0,0 1,0 0,-1 L 31,27.0625 31,23 28,23 28,24.34375 24.6875,21.25 z m 0,1.75 6,5.625 0,7 -4,0 0,-5 -4,0 0,5 -4,0 0,-7 z M 29,24 30,24 30,26.15625 29,25.25 z m -6,7 2,0 0,4 -2,0 z"
        style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       style="fill:url(#linearGradient6230);fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
        d="m 24,19.625 -0.6875,0.625 -6.5,6 L 16,27 l 0,1 1,0 0,7 14,0 0,-7 0,0 1,0 0,-1 L 31,26.0625 31,22 28,22 28,23.34375 24.6875,20.25 z m 0,1.75 6,5.625 0,7 -4,0 0,-5 -4,0 0,5 -4,0 0,-7 z M 29,23 30,23 30,25.15625 29,24.25 z m -6,7 2,0 0,4 -2,0 z"
        id="path16259"
        inkscape:connector-curvature="0"

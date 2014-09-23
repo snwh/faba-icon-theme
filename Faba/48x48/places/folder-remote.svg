@@ -15,7 +15,7 @@
    height="48"
    id="svg2436"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-publicshare.svg">
+   sodipodi:docname="folder-remote.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,9 +35,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="8"
-     inkscape:cx="41.805786"
-     inkscape:cy="22.869438"
+     inkscape:zoom="1"
+     inkscape:cx="16.385213"
+     inkscape:cy="-32.493842"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -240,15 +240,6 @@
        x2="0"
        y2="48"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4511"
-       id="linearGradient3817"
-       x1="24"
-       y1="12"
-       x2="24"
-       y2="44"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata2441">
@@ -258,7 +249,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -319,12 +310,15 @@
      inkscape:label="Symbol">
     <path
        id="path3819"
-       d="m 27,19.4685 0,1.03125 0,1.5 -3.5,0 -0.5,0 0,1 0.5,0 4,0 0.5,0 0,-0.5 0,-0.96875 4.40625,3.96875 L 28,29.4685 l 0,-0.96875 0,-0.5 -0.5,0 -3.5,0 -3,0 0,-1.5 0,-1.03125 -0.8125,0.65625 -6.1875,5.375 6.1875,5.375 L 21,37.531 l 0,-1.03125 0,-1.5 3.5,0 0.5,0 0,-1 -0.5,0 -4,0 -0.5,0 0,0.5 0,0.96875 L 15.59375,31.49975 20,27.531 l 0,0.96875 0,0.5 0.5,0 3.5,0 3,0 0,1.5 0,1.03125 0.8125,-0.65625 L 34,25.49975 27.8125,20.12475 27,19.4685 z"
+       d="m 28,19.4685 0,1.03125 0,1.5 -4.5,0 -0.5,0 0,1 0.5,0 5,0 0.5,0 0,-0.5 0,-0.96875 4.40625,3.96875 L 29,29.4685 l 0,-0.96875 0,-0.5 -0.5,0 -4.5,0 -4,0 0,-1.5 0,-1.03125 -0.8125,0.65625 -6.1875,5.375 6.1875,5.375 L 20,37.531 l 0,-1.03125 0,-1.5 4.5,0 0.5,0 0,-1 -0.5,0 -5,0 -0.5,0 0,0.5 0,0.96875 L 14.59375,31.49975 19,27.531 l 0,0.96875 0,0.5 0.5,0 4.5,0 4,0 0,1.5 0,1.03125 0.8125,-0.65625 6.1875,-5.375 -6.1875,-5.375 z"
        style="opacity:0.4;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="color:#000000;fill:url(#linearGradient3817);fill-opacity:1;stroke:none"
-       d="M 27 18.46875 L 27 19.5 L 27 21 L 23.5 21 L 23 21 L 23 22 L 23.5 22 L 27.5 22 L 28 22 L 28 21.5 L 28 20.53125 L 32.40625 24.5 L 28 28.46875 L 28 27.5 L 28 27 L 27.5 27 L 24 27 L 21 27 L 21 25.5 L 21 24.46875 L 20.1875 25.125 L 14 30.5 L 20.1875 35.875 L 21 36.53125 L 21 35.5 L 21 34 L 24.5 34 L 25 34 L 25 33 L 24.5 33 L 20.5 33 L 20 33 L 20 33.5 L 20 34.46875 L 15.59375 30.5 L 20 26.53125 L 20 27.5 L 20 28 L 20.5 28 L 24 28 L 27 28 L 27 29.5 L 27 30.53125 L 27.8125 29.875 L 34 24.5 L 27.8125 19.125 L 27 18.46875 z "
-       id="path5834" />
+       style="opacity:0.4;color:#000000;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 28,18.46875 0,1.03125 0,1.5 -4.5,0 -0.5,0 0,1 0.5,0 5,0 0.5,0 0,-0.5 0,-0.96875 L 33.40625,24.5 29,28.46875 29,27.5 29,27 28.5,27 24,27 20,27 20,25.5 20,24.46875 19.1875,25.125 13,30.5 19.1875,35.875 20,36.53125 20,35.5 20,34 l 4.5,0 0.5,0 0,-1 -0.5,0 -5,0 -0.5,0 0,0.5 0,0.96875 L 14.59375,30.5 19,26.53125 19,27.5 l 0,0.5 0.5,0 4.5,0 4,0 0,1.5 0,1.03125 L 28.8125,29.875 35,24.5 28.8125,19.125 z"
+       id="path5834"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
