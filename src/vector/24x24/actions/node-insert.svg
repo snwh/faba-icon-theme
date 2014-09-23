@@ -507,8 +507,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="8.164263"
-     inkscape:cy="4.4652451"
+     inkscape:cx="41.946346"
+     inkscape:cy="17.748599"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
@@ -560,7 +560,7 @@
        sodipodi:cy="10.5"
        sodipodi:rx="10"
        sodipodi:ry="2.5"
-       d="m 21,10.5 a 10,2.5 0 1 1 -20,0 10,2.5 0 1 1 20,0 z" />
+       d="M 21,10.5 C 21,11.880712 16.522847,13 11,13 5.4771525,13 1,11.880712 1,10.5 1,9.1192881 5.4771525,8 11,8 c 5.522847,0 10,1.1192881 10,2.5 z" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3261);fill-opacity:1;stroke:none"
@@ -595,7 +595,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <g
-       transform="translate(1.0000003,25.000032)"
+       transform="translate(1.0000003,24.000032)"
        id="g3064">
       <path
          sodipodi:type="arc"

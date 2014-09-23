@@ -15,7 +15,7 @@
    height="24"
    id="svg3828"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="document-save.svg">
+   sodipodi:docname="document-new.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,8 +31,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="-106.33534"
-     inkscape:cy="9.2577492"
+     inkscape:cx="43.907761"
+     inkscape:cy="4.3538111"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -433,7 +433,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -485,7 +485,7 @@
      inkscape:label="Symbol"
      transform="translate(0,2)">
     <g
-       transform="translate(1.0000003,-1.9999682)"
+       transform="translate(2.0000003,-1.9999682)"
        id="g3064">
       <path
          sodipodi:type="arc"
