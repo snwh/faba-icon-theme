@@ -34,8 +34,8 @@
      showgrid="false"
      showborder="true"
      inkscape:zoom="1"
-     inkscape:cx="40.058794"
-     inkscape:cy="13.667627"
+     inkscape:cx="50.220346"
+     inkscape:cy="1.2411165"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1478,6 +1478,43 @@
        fx="23.276966"
        fy="13.919409"
        r="19.4375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4301"
+       id="radialGradient4307"
+       cx="24"
+       cy="38"
+       fx="24"
+       fy="38"
+       r="24"
+       gradientTransform="matrix(1,0,0,0.41666667,0,22.166667)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4301">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4303" />
+      <stop
+         id="stop4309"
+         offset="0.43835616"
+         style="stop-color:#000000;stop-opacity:0.27500001;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4305" />
+    </linearGradient>
+    <radialGradient
+       r="24"
+       fy="38"
+       fx="24"
+       cy="38"
+       cx="24"
+       gradientTransform="matrix(1,0,0,0.41666667,0,22.166667)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4327"
+       xlink:href="#linearGradient4301"
+       inkscape:collect="always" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1488,6 +1525,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Background">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.3;fill:url(#radialGradient4327);fill-opacity:1;stroke:none"
+       id="path4299"
+       sodipodi:cx="24"
+       sodipodi:cy="38"
+       sodipodi:rx="24"
+       sodipodi:ry="10"
+       d="M 48,38 A 24,10 0 1 1 0,38 24,10 0 1 1 48,38 z"
+       transform="matrix(-1,0,0,1.2,48,-9.6)" />
     <path
        style="fill:url(#radialGradient4013);fill-opacity:1;stroke:none"
        d="m 24.4995,25.66875 -20.999375,-8 0,-4 L 24.4995,5.1687474 44.5,13.66875 l 0,4 z"
