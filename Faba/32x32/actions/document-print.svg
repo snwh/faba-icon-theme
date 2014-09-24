@@ -15,7 +15,7 @@
    id="svg5014"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="document-print.svg">
+   sodipodi:docname="printer.svg">
   <defs
      id="defs5016">
     <linearGradient
@@ -520,7 +520,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
