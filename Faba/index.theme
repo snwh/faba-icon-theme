@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=Faba
 Comment=A sexy and modern icon theme with Tango influences.
+Inherits=hicolor
 
 # KDE Specific Stuff
 DisplayDepth=32

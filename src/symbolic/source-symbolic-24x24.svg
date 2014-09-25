@@ -27,14 +27,14 @@
      inkscape:window-width="1364"
      inkscape:window-height="700"
      id="namedview184"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="1"
-     inkscape:cx="90.531872"
-     inkscape:cy="173.77651"
+     inkscape:cx="344.14839"
+     inkscape:cy="64.682907"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer12"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -653,7 +653,7 @@
     <g
        inkscape:label="document-export"
        id="g6014"
-       transform="matrix(-1,0,0,1,1154.0004,0)">
+       transform="translate(24.000034,0)">
       <rect
          id="rect6016"
          width="24"
@@ -665,7 +665,7 @@
          id="g6018"
          transform="translate(557.0002,165)">
         <path
-           d="m 316,146 0,20 16,0 0,-8 -2,0 0,6 -12,0 0,-16 12,0 0,6 2,0 0,-8 z"
+           d="m 316,146 0,20 16,0 -3e-5,-5 -2,0 3e-5,3 -12,0 0,-16 12,0 -3e-5,3 2,0 3e-5,-5 z"
            transform="translate(-316,-148)"
            id="path6020"
            inkscape:connector-curvature="0"
@@ -676,7 +676,7 @@
            transform="translate(-24.932404,-15.494844)" />
       </g>
       <path
-         d="m 567.78868,167.00049 1.38509,1.38585 -3.63493,3.63476 8.46136,-0.0211 0,2 -8.46136,0.0211 3.63493,3.6344 -1.38509,1.38509 -6.00086,-6.04062 z"
+         d="m 568.21169,167.00049 -1.38509,1.38585 3.63493,3.63476 -8.46136,-0.0211 0,2 8.46136,0.0211 -3.63493,3.6344 1.38509,1.38509 6.00086,-6.04062 z"
          id="path6024"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc"
