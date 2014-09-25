@@ -1,7 +1,10 @@
 #! /bin/sh
 set -e
 
-# Delete residual folders & files
+# Delete dead icon symlinks
+find -L /usr/share/icons/Faba -type l -delete
+
+# Delete empty folders
 rm -r /usr/share/icons/Faba
 
 
