@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="24" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg">
- <metadata id="metadata90"/>
- <g inkscape:groupmode="layer" id="layer9" inkscape:label="status" transform="translate(-601.0002,-89)">
-  <path inkscape:connector-curvature="0" d="m 624.0002,93.999995 0,1.40625 0,1.59375 -5.55806,0 c -0.85695,0 -1.5,0.64305 -1.5,1.5 l 0,6.000005 c 0,2.46704 -2.03295,4.5 -4.5,4.5 l -7.94194,0 0,-3 7.94194,0 c 0.85695,0 1.5,-0.64306 1.5,-1.5 l 0,-6.000005 c 0,-2.46705 2.03295,-4.5 4.5,-4.5 z" id="path3570" sodipodi:nodetypes="cccssssccssssc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 612.44214,93.999995 c 0.34436,0 0.66128,0.0657 0.98438,0.14055 -0.72195,0.82665 -1.29188,1.7664 -1.5468,2.8593 l -7.37944,0 0,-3 7.94194,0 z M 624.0002,109 l -5.55806,0 c -0.34435,0 -0.66127,-0.0657 -0.98437,-0.14056 0.72195,-0.82672 1.29187,-1.76655 1.5468,-2.85944 l 4.99563,0 z" id="path3572" sodipodi:nodetypes="ccccccccscccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 607.99982,90.999995 0,9 -6,-4.5 z" id="path3574" fill="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 607.99982,103 0,9 -6,-4.5 z" id="path3576" fill="#bebebe"/>
- </g>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='media-playlist-shuffle-rtl-symbolic.svg' height='24' id='svg2' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='24' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs186'/>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer9' inkscape:cx='-15.85161' inkscape:cy='-55.317093' gridtolerance='10' guidetolerance='10' id='namedview184' objecttolerance='10' pagecolor='#353535' inkscape:pageopacity='1' inkscape:pageshadow='2' showgrid='true' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:window-height='700' inkscape:window-maximized='1' inkscape:window-width='1364' inkscape:window-x='0' inkscape:window-y='28' inkscape:zoom='1'>
+    <inkscape:grid empspacing='24' enabled='true' id='grid3174' originx='-360px' originy='-120px' snapvisiblegridlinesonly='true' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Faba Symbolic Icon Theme</title>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' transform='translate(-601.0002,-89)'>
+    <path inkscape:connector-curvature='0' d='m 624.0002,93.999995 0,1.40625 0,1.59375 -5.55806,0 c -0.85695,0 -1.5,0.64305 -1.5,1.5 l 0,6.000005 c 0,2.46704 -2.03295,4.5 -4.5,4.5 l -7.94194,0 0,-3 7.94194,0 c 0.85695,0 1.5,-0.64306 1.5,-1.5 l 0,-6.000005 c 0,-2.46705 2.03295,-4.5 4.5,-4.5 z' id='path3570' sodipodi:nodetypes='cccssssccssssc' style='color:#bebebe;fill:#bebebe;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 612.44214,93.999995 c 0.34436,0 0.66128,0.0657 0.98438,0.14055 -0.72195,0.82665 -1.29188,1.7664 -1.5468,2.8593 l -7.37944,0 0,-3 7.94194,0 z M 624.0002,109 l -5.55806,0 c -0.34435,0 -0.66127,-0.0657 -0.98437,-0.14056 0.72195,-0.82672 1.29187,-1.76655 1.5468,-2.85944 l 4.99563,0 z' id='path3572' sodipodi:nodetypes='ccccccccscccc' style='color:#bebebe;fill:#bebebe;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 607.99982,90.999995 0,9 -6,-4.5 z' id='path3574' style='fill:#bebebe;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 607.99982,103 0,9 -6,-4.5 z' id='path3576' style='fill:#bebebe;stroke:none'/>
+    
+  </g>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-360,-72)'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' transform='translate(-601.0002,-89)'/>
 </svg>
