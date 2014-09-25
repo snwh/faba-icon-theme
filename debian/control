@@ -16,5 +16,4 @@ Depends: hicolor-icon-theme,
          ${misc:Depends}
 Replaces: faba-icon-theme-symbolic
 Description: Faba Icon Theme
- Faba Icon Theme
  Faba is a sexy and modern icon theme with Tango influences.
