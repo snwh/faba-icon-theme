@@ -1,23 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='pane-show-symbolic.svg' height='24' id='svg2' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='24' xmlns='http://www.w3.org/2000/svg'>
-  <defs id='defs186'/>
-  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='104.14837' inkscape:cy='16.682907' gridtolerance='10' guidetolerance='10' id='namedview184' objecttolerance='10' pagecolor='#353535' inkscape:pageopacity='1' inkscape:pageshadow='2' showgrid='true' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:window-height='700' inkscape:window-maximized='1' inkscape:window-width='1364' inkscape:window-x='0' inkscape:window-y='28' inkscape:zoom='1'>
-    <inkscape:grid empspacing='24' enabled='true' id='grid3174' originx='-240.00002px' originy='-48px' snapvisiblegridlinesonly='true' type='xygrid' visible='true'/>
-  </sodipodi:namedview>
-  <metadata id='metadata90'>
-    <rdf:RDF>
-      <cc:Work rdf:about=''>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title id='title8473'>Faba Symbolic Icon Theme</title>
-  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' transform='translate(-481.00022,-161)'/>
-  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-240.00002,-144)'/>
-  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' transform='translate(-481.00022,-161)'>
-    <path inkscape:connector-curvature='0' d='m 499.00023,166 0,2 0,10 0,2 -10,0 -2,0 0,-2 0,-10 0,-2 2,0 8,0 z m -6,4 -4,3 4,3 0,-2 4,0 0,-2 -4,0 z' id='path6001-9' sodipodi:nodetypes='cccccccccccccccccccc' style='color:#bebebe;fill:#bebebe;stroke:none'/>
-    
-    
-  </g>
+<svg height="24" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata90"/>
+ <g inkscape:groupmode="layer" id="layer12" inkscape:label="actions" transform="translate(-481.00022,-161)">
+  <path inkscape:connector-curvature="0" d="m 499.00023,166 0,2 0,10 0,2 -10,0 -2,0 0,-2 0,-10 0,-2 2,0 8,0 z m -6,4 -4,3 4,3 0,-2 4,0 0,-2 -4,0 z" id="path6001-9" sodipodi:nodetypes="cccccccccccccccccccc" fill="#bebebe" color="#bebebe"/>
+ </g>
 </svg>
