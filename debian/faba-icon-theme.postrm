@@ -1,0 +1,8 @@
+#! /bin/sh
+set -e
+
+# Delete residual folders & files
+rm -r /usr/share/icons/Faba
+
+
+#DEBHELPER#
