@@ -34,8 +34,8 @@
      showgrid="false"
      showborder="true"
      inkscape:zoom="1"
-     inkscape:cx="50.220346"
-     inkscape:cy="1.2411165"
+     inkscape:cx="39.78918"
+     inkscape:cy="1.2432315"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -1527,14 +1527,14 @@
      inkscape:label="Background">
     <path
        sodipodi:type="arc"
-       style="opacity:0.3;fill:url(#radialGradient4327);fill-opacity:1;stroke:none"
+       style="fill:url(#radialGradient4327);fill-opacity:1;stroke:none"
        id="path4299"
        sodipodi:cx="24"
        sodipodi:cy="38"
        sodipodi:rx="24"
        sodipodi:ry="10"
        d="M 48,38 A 24,10 0 1 1 0,38 24,10 0 1 1 48,38 z"
-       transform="matrix(-1,0,0,1.2,48,-9.6)" />
+       transform="matrix(-0.83333333,0,0,1,44,-3)" />
     <path
        style="fill:url(#radialGradient4013);fill-opacity:1;stroke:none"
        d="m 24.4995,25.66875 -20.999375,-8 0,-4 L 24.4995,5.1687474 44.5,13.66875 l 0,4 z"
