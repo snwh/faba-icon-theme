@@ -31,8 +31,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="1"
-     inkscape:cx="24.375582"
-     inkscape:cy="-21.076421"
+     inkscape:cx="30.383341"
+     inkscape:cy="32.232508"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -225,47 +225,14 @@
     <linearGradient
        id="linearGradient5618">
       <stop
-         style="stop-color:#3e3e3e;stop-opacity:1;"
+         style="stop-color:#1e1e1e;stop-opacity:1"
          offset="0"
          id="stop5620" />
       <stop
-         style="stop-color:#595959;stop-opacity:1;"
+         style="stop-color:#353535;stop-opacity:1"
          offset="1"
          id="stop5622" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4155">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.39"
-         id="feGaussianBlur4157" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4023"
-       x="-0.063848684"
-       width="1.1276974"
-       y="-0.99538462"
-       height="2.9907692">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.0109375"
-         id="feGaussianBlur4025" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4033"
-       x="-0.12769737"
-       width="1.2553947"
-       y="-1.9907692"
-       height="4.9815385">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.021875"
-         id="feGaussianBlur4035" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3952"
@@ -439,7 +406,7 @@
      height="39"
      width="39"
      id="rect4073"
-     style="fill:url(#linearGradient4083);fill-opacity:1;stroke:none;display:inline" />
+     style="fill:url(#linearGradient4083);fill-opacity:1;stroke:none;display:inline;opacity:0.9" />
   <rect
      style="opacity:0.61000001;fill:none;stroke:#000000;stroke-opacity:1;display:inline"
      id="rect4085"
