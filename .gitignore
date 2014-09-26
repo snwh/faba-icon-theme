@@ -4,6 +4,7 @@
 *.zip
 *.tar.gz
 *.sh
+*.gitignore
 
 debian/files
 debian/faba-icon-theme.debhelper.log
