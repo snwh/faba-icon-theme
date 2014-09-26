@@ -22,9 +22,7 @@ Faba and all its supplementary themes can be downloaded [here](http://mokaprojec
 
 ###Getting the Source
 
-The source for Faba Icon Theme can be found [here](https://github.com/moka-project/faba-icon-theme).
-
-Alternatively, you can clone the latest version its git repository:
+The source for Faba Icon Theme can be downloaded as an archive [here](https://github.com/moka-project/faba-icon-theme/archive/master.zip) or, you can clone the latest version from the git repository:
 
     git clone https://github.com/moka-project/faba-icon-theme.git
 
