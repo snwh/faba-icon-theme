@@ -3,7 +3,7 @@ Faba Icon Theme
 
 Faba is a sexy and modern icon theme with Tango influences. All variations and supplementary themes for Faba, require this base theme.
 
-Faba Icon Theme is distributed under the terms of the GNU GPL v.3
+Faba Icon Theme is distributed under the terms of the GNU LGPL-3.0+ or CC-BY-SA-4.0
 
 ###Preamble
 
@@ -42,6 +42,6 @@ To render new icons from their source SVG files, run the following:
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
 
-See the [source README](src/README.md) for more info.
+See the [source README](src/) for more info.
 
 -----------

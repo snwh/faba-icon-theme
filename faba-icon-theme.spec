@@ -15,11 +15,11 @@
 
 Name:		faba-icon-theme
 Version:	4.0
-Release:	4
+Release:	5
 
 Summary:	Faba Icon theme
 Group:		System/GUI/Other
-License:    LGPL-3.0+ or CC-BY-SA-3.0
+License:    LGPL-3.0+ or CC-BY-SA-4.0
 Group:      System/GUI/GNOME
 Url:        http://www.mokaproject.com/faba-icon-theme
 Source0:	%{name}-%{version}.tar.gz
