@@ -12,7 +12,7 @@ INKSCAPE = '/usr/bin/inkscape'
 # ------------------- #
 
 SRC16 = "src/symbolic/source-symbolic-16x16.svg"
-PREFIX16 = "Faba/16x16"
+PREFIX16 = "Faba/symbolic"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
