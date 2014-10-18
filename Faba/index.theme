@@ -52,14 +52,14 @@ Context=Actions
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/actions]
 Context=Actions
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Animations
 [24x24/animations]
@@ -99,14 +99,14 @@ Context=Applications
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/apps]
 Context=Applications
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 
 # Categories
@@ -141,14 +141,14 @@ Context=Categories
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/categories]
 Context=Categories
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Devices
 
@@ -182,14 +182,14 @@ Context=Devices
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/devices]
 Context=Devices
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Emblems
 
@@ -223,14 +223,14 @@ Context=Emblems
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/emblems]
 Context=Emblems
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Emotes
 
@@ -264,14 +264,14 @@ Context=Emotes
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/emotes]
 Context=Emotes
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # MimeTypes
 
@@ -305,14 +305,14 @@ Context=MimeTypes
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/mimetypes]
 Context=Mimetypes
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Notifications
 
@@ -367,14 +367,14 @@ Context=Places
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/places]
 Context=Places
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 # Status
 
@@ -408,11 +408,11 @@ Context=Status
 Size=256
 MinSize=72
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/status]
 Context=Status
 Size=16
 MinSize=16
 MaxSize=512
-Type=scalable
+Type=Scalable
