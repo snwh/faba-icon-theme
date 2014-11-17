@@ -5,7 +5,7 @@ require "fileutils"
 include REXML
 
 
-# INKSCAPE = '/usr/bin/inkscape'
+INKSCAPE = '/usr/bin/inkscape'
 
 # ------------------- #
 # 16px Symbolic Icons #
