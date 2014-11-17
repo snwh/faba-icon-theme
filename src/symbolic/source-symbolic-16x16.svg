@@ -34,9 +34,9 @@
      inkscape:window-height="715"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="166.18107"
-     inkscape:cy="450.36598"
+     inkscape:zoom="1"
+     inkscape:cx="68.651994"
+     inkscape:cy="596.70386"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -2340,66 +2340,20 @@
          sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
     </g>
     <g
-       id="g5870"
-       inkscape:label="bluetooth-disabled"
-       transform="translate(0,-25.003359)">
+       id="g8056"
+       inkscape:label="bluetooth-disabled">
       <rect
-         y="-243"
+         y="-268.00336"
          x="282.00021"
          height="16"
          width="16"
          id="rect5812"
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <g
-         style="opacity:0.5"
-         id="g5839">
-        <rect
-           y="-237.98337"
-           x="286.00024"
-           height="0.75"
-           width="0.74998635"
-           id="rect5815"
-           style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect5817"
-           width="0.74998635"
-           height="0.75"
-           x="-286.75024"
-           y="-232.73337"
-           transform="scale(-1,1)" />
-        <rect
-           y="-241.98337"
-           x="289.00024"
-           height="0.5"
-           width="0.74998635"
-           id="rect5819"
-           style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect5821"
-           width="0.74998635"
-           height="0.5"
-           x="289.00024"
-           y="-228.48337" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path5823"
-           d="m 289.50022,-241.48337 0,13"
-           style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path5827"
-           d="m 289.75022,-241.23337 3.5,3.25 -3.75,3 3.75,3 -3.5,3.25"
-           style="fill:none;stroke:#bebebe;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           sodipodi:nodetypes="ccc"
-           inkscape:connector-curvature="0"
-           id="path5829"
-           d="m 286.75022,-237.23337 2.75,2.25 -2.75,2.25"
-           style="fill:none;stroke:#bebebe;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
+      <path
+         id="rect5815"
+         transform="translate(241.0002,-467)"
+         d="M 48 200 L 48 200.5 L 48 205.65625 L 46.21875 204.1875 C 46.089606 204.07237 45.922711 204.0069 45.75 204 L 45.59375 204 L 45 204 L 45 204.75 L 45.03125 204.75 C 45.024137 204.976 45.094861 205.20725 45.28125 205.34375 L 47.3125 207 L 45.28125 208.6875 C 45.026028 208.84642 44.91889 209.17473 44.96875 209.46875 L 42.46875 211.96875 L 43.53125 213.03125 L 54.53125 202.03125 L 53.46875 200.96875 L 51.8125 202.625 L 49.25 200.21875 C 49.118258 200.08718 48.936042 200.00746 48.75 200 L 48 200 z M 49 202 L 50.78125 203.65625 L 49 205.4375 L 49 202 z M 50.71875 207.84375 L 49.65625 208.90625 L 51.125 210.0625 L 49 212.03125 L 49 209.5625 L 48 210.5625 L 48 213.5 L 48 214 L 48.3125 214 C 48.61679 214.16372 49.032086 214.0807 49.25 213.8125 L 52.75 210.5625 C 53.060356 210.27327 53.044684 209.70906 52.71875 209.4375 L 50.71875 207.84375 z "
+         style="opacity:1;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        transform="translate(-100.00001,175.99664)"
