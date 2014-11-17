@@ -34,9 +34,9 @@
      inkscape:window-height="715"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="231.50181"
-     inkscape:cy="452.76021"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="166.18107"
+     inkscape:cy="450.36598"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -6149,6 +6149,27 @@
          x="459.00021"
          y="213"
          transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g5932"
+       inkscape:label="notification-disabled">
+      <path
+         id="path8962"
+         transform="translate(241.0002,-467)"
+         d="M 148 240 C 147.446 240 147 240.446 147 241 C 147 241.0109 146.99966 241.02055 147 241.03125 C 145.27201 241.47937 144 243 144 245 C 144 247.00524 144.00069 251 142.21875 251 C 142.10004 251 142 251.1115 142 251.25 L 142 252 L 142.875 252 L 151.625 243.25 C 151.12898 242.13703 150.17699 241.33645 149 241.03125 C 149.00034 241.02045 149 241.0107 149 241 C 149 240.446 148.554 240 148 240 z M 152 245 L 145 252 L 146 252 L 150 252 L 152 252 L 154 252 L 154 251.25 C 154 251.1115 153.89996 251 153.78125 251 C 151.99234 251 152 247.00488 152 245 z M 146.28125 253 C 146.62729 253.5969 147.2604 254 148 254 C 148.7396 254 149.37271 253.5969 149.71875 253 L 146.28125 253 z "
+         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke-width:4" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 393.46895,-226.59375 -11,11 1.0625,1.0625 11,-11 -1.0625,-1.0625 z"
+         inkscape:connector-curvature="0"
+         id="path5916" />
+      <rect
+         style="opacity:0.1;color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect5921"
+         width="16"
+         height="16"
+         x="381.00021"
+         y="-228.07809" />
     </g>
   </g>
   <g
