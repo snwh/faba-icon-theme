@@ -35,12 +35,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="188.56595"
-     inkscape:cy="143.81327"
+     inkscape:cx="75.674171"
+     inkscape:cy="336.58427"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer10"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -6168,9 +6168,9 @@
        inkscape:label="drive-multidisk"
        transform="translate(61.0002,-28.003359)">
       <path
-         sodipodi:nodetypes="cccccccccccccccccccccccc"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new;"
-         d="m 247.4377,-90 c -0.17828,0.0566 -0.31743,0.22106 -0.34375,0.40625 L 245.00014,-86 l 5e-5,0 c -5e-5,1 -5e-5,2 0,3 l 14.00001,0 c -5e-5,-1 -5e-5,-2 0,-3 l -5e-5,0 -1.9061,-3.59375 c -0.0437,-0.22921 -0.2667,-0.41037 -0.5,-0.40625 l -9,0 c -0.0311,-0.003 -0.0626,-0.003 -0.0937,0 -0.0208,-0.001 -0.0417,-0.001 -0.0625,0 z m 0.5625,1 8.18751,0 1.68744,3 -11.75001,0 z m -2.00006,4 12.00001,0 0,1 -12.00001,0 z"
+         sodipodi:nodetypes="cccccccccccccc"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+         d="m 247.4377,-90 c -0.17828,0.0566 -0.31743,0.22106 -0.34375,0.40625 L 245.00014,-86 l 5e-5,0 c -5e-5,1 -5e-5,2 0,3 l 14.00001,0 c -5e-5,-1 -5e-5,-2 0,-3 l -5e-5,0 -1.9061,-3.59375 c -0.0437,-0.22921 -0.2667,-0.41037 -0.5,-0.40625 l -9,0 c -0.0311,-0.003 -0.0626,-0.003 -0.0937,0 -0.0208,-0.001 -0.0417,-0.001 -0.0625,0 z"
          id="rect4970-7"
          inkscape:connector-curvature="0" />
       <rect
@@ -6182,17 +6182,17 @@
          y="75.031197"
          transform="scale(1,-1)" />
       <path
-         style="fill:#bebebe;fill-opacity:1;stroke:none;"
-         d="m 245.0002,-75 14,0 0,-3 -14,0 z m 1,-2 12,0 0,1 -12,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 245.0002,-75 14,0 0,-3 -14,0 z"
          id="path5012"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccc" />
+         sodipodi:nodetypes="ccccc" />
       <path
-         sodipodi:nodetypes="cccccccccc"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path5017"
-         d="m 245.0002,-79 14,0 0,-3 -14,0 z m 1,-2 12,0 0,1 -12,0 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;" />
+         d="m 245.0002,-79 14,0 0,-3 -14,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <g
        transform="translate(225.0004,-769.00336)"
@@ -6989,6 +6989,24 @@
          width="16"
          id="rect6678"
          style="opacity:0.10000000000000001;color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;" />
+    </g>
+    <g
+       transform="translate(4.0002,-28.003359)"
+       inkscape:label="drive-harddisk-system"
+       id="g8938">
+      <rect
+         style="opacity:0.21464420000000001;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;"
+         id="rect8940"
+         width="16"
+         height="16"
+         x="261.00021"
+         y="75.031197"
+         transform="scale(1,-1)" />
+      <path
+         id="path8942"
+         transform="translate(237,-444.99664)"
+         d="M 28 355 C 28 355 26 355 26 357 L 26 369 L 38 369 L 38 357 C 38 357 38 355 36 355 L 28 355 z M 32 357 C 34.209139 357 36 358.79086 36 361 C 36 363.20914 34.209139 365 32 365 C 29.790861 365 28 363.20914 28 361 C 28 358.79086 29.790861 357 32 357 z M 32 359 C 30.895431 359 30 359.89543 30 361 C 30 362.10457 30.895431 363 32 363 C 33.104569 363 34 362.10457 34 361 C 34 359.89543 33.104569 359 32 359 z "
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
   </g>
   <g
