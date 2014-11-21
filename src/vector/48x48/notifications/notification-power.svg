@@ -28,8 +28,8 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="29.66295"
-     inkscape:cy="16.992535"
+     inkscape:cx="34.797574"
+     inkscape:cy="15.233905"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
@@ -81,20 +81,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g3011"
-     transform="matrix(2,0,0,2,-45.779652,-28.474576)">
-    <path
-       inkscape:connector-curvature="0"
-       id="rect2388-2-2-5"
-       d="m 32.889826,18.737288 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 0,-9 2,0 0,-1 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z"
-       style="fill:#e13f2b"
-       sodipodi:nodetypes="ccccccssccccccscc" />
-    <path
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path7562"
-       d="m 38.889836,23.737288 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z"
-       style="fill:#e13f2b" />
-  </g>
+  <path
+     sodipodi:nodetypes="ccccccssccccccscc"
+     style="fill:#e13f2b;opacity:0.35"
+     d="m 20,9 0,2 8,0 0,-2 z m -4.3125,4 C 15.125,13.0938 14,13.5 14,15 l 0,20 c 0,2 2,2 2,2 l 14,0 0,-2 0,-18 4,0 0,-2 c 0,0 0,-2 -2,-2 l -16,0 c 0,0 -0.125,-0.0312 -0.3125,0 z"
+     id="rect2388-2-2-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#e13f2b"
+     d="m 32.00002,19 0,10 0.5,4 3,0 0.5,-4 0,-10 z m 0,16 0,4 4,0 0,-4 z"
+     id="path7562"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>
