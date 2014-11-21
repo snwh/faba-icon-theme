@@ -35,12 +35,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="453.00022"
-     inkscape:cy="213.00336"
+     inkscape:cx="438.84766"
+     inkscape:cy="569.3327"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6058"
+     inkscape:current-layer="layer1"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -7507,6 +7507,25 @@
          width="0.99998474"
          id="rect12336"
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </g>
+    <g
+       inkscape:label="folder-music"
+       id="g5192"
+       style="enable-background:new;display:inline;"
+       transform="translate(-0.99983,1.32752)">
+      <path
+         sodipodi:nodetypes="ccccsssscccsssscc"
+         inkscape:connector-curvature="0"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;"
+         d="m 501,205.8 -10,1 0,3.2 0,5.1875 C 490.68353,215.07398 490.35553,215 490,215 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 l 0,-8.01838 6,-0.5625 0,4.76838 C 498.68353,214.07398 498.35553,214 498,214 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 l 0,-7.79963 z"
+         id="path5195" />
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;"
+         id="rect5197"
+         width="16"
+         height="16"
+         x="487.00024"
+         y="204.99664" />
     </g>
   </g>
   <g
