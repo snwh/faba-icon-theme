@@ -262,44 +262,6 @@
          x="29.4727"
          y="15.882812">panel</tspan>
     </text>
-    <g
-       id="g3160"
-       inkscape:label="bluetooth-active">
-      <path
-         sodipodi:nodetypes="cccscscccscscccsccccccccscccccccccc"
-         inkscape:connector-curvature="0"
-         id="path1045"
-         d="m 58.9998,29.01999 0,5 -2.49015,-1.86054 C 56.42575,32.1114 56.22669,32.01999 55.9998,32.01999 l -1,0 0,1 c 0,0.32539 0.1656,0.59863 0.28592,0.70554 l 3.02658,2.29441 -3.02658,2.29441 C 55.1654,38.42126 54.9998,38.6945 54.9998,39.01989 l 0,1 1,0 c 0.22689,0 0.42595,-0.0914 0.57235,-0.18632 l 2.42765,-1.81368 0,5 1,0 c 0.27556,0 0.53893,-0.10144 0.71875,-0.28125 l 3.875,-2.90625 c 0.51366,-0.36865 0.51366,-1.25635 0,-1.625 l -2.90625,-2.1874 2.90625,-2.1875 c 0.51366,-0.36865 0.51366,-1.25635 0,-1.625 l -3.875,-2.90625 c -0.0346,-0.0346 -0.0856,-0.0645 -0.125,-0.0937 -0.16662,-0.12372 -0.36936,-0.1875 -0.59375,-0.1875 l -1,0 z m 1,2.25 2.3125,1.75 -2.3125,1.75 z m 0,6 2.3125,1.75 -2.3125,1.75 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         style="opacity:0.2146442;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3164"
-         width="24"
-         height="24"
-         x="48.000004"
-         y="24" />
-    </g>
-    <g
-       id="g3142"
-       inkscape:label="bluetooth-disabled">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5061-7"
-         d="m 82.9998,29.01999 0,5 -2.5,-1.875 c -0.0839,-0.04805 -0.27311,-0.125 -0.5,-0.125 l -1,0 0,1 c 0,0.32539 0.16093,0.61184 0.28125,0.71875 l 3.03125,2.28125 -3.03125,2.28125 c -0.12032,0.10691 -0.28125,0.39336 -0.28125,0.71875 l 0,1 1,0 c 0.22689,0 0.4161,-0.0926 0.5625,-0.1875 l 2.0625,-1.53125 6.03125,-6.03125 c -0.02311,-0.0209 -0.03682,-0.0441 -0.0625,-0.0625 l -3.875,-2.90625 c -0.0346,-0.0346 -0.0856,-0.0645 -0.125,-0.0937 -0.16662,-0.12377 -0.36936,-0.18755 -0.59375,-0.18755 l -1,0 z m 1,2.25 2.3125,1.75 -2.3125,1.75 0,-3.5 z m 2.46875,5.3125 -1.46875,1.46875 1.3125,0.96875 -2.3125,1.75 0,-1.71875 -1,1 0,2.96875 1,0 c 0.27556,0 0.53893,-0.10144 0.71875,-0.28125 l 3.875,-2.90625 c 0.51366,-0.36865 0.51366,-1.25635 0,-1.625 l -2.125,-1.625 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         id="path6365-3-0"
-         inkscape:connector-curvature="0"
-         d="m 88.96875,29.96875 -11,11 1.0625,1.0625 11,-11 -1.0625,-1.0625 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="24"
-         x="72"
-         height="24"
-         width="24"
-         id="rect3199"
-         style="opacity:0.21464419;color:#bebebe;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
