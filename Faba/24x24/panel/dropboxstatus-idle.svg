@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dropboxstatus-idle.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.46666667"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.55686275"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1364"
+     inkscape:window-height="701"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="-24.983018"
+     inkscape:cy="15.817966"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,8)">
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3762"
+       d="m 8,-2.0000018 -4,2.9999997 4,3.0000003 -4,3 L 12,13 l 8,-6.0000018 -4,-3 4,-3.0000003 -4,-2.9999997 -4,2.9999997 z"
+       style="opacity:0.2;color:#000000" />
+    <path
+       d="m 8,-3.0303298 -4,2.9999997 4,3.0000003 -4,3 8,6.0000018 8,-6.0000018 -4,-3 4,-3.0000003 -4,-2.9999997 -4,2.9999997 z"
+       id="path3967"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       style="color:#000000;fill:#ffffff" />
+  </g>
+</svg>
