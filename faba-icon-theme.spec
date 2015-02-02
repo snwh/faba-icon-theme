@@ -28,7 +28,7 @@ BuildArch:	noarch
 
 
 %description
-Faba Icon Theme
+Faba is a sexy and modern icon theme with Tango influences.
 
 %prep
 %setup -q
