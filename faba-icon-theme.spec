@@ -34,7 +34,7 @@ Faba Icon Theme
 %setup -q
 
 # Delete dead icon symlinks
-find -L . -type l -delete
+# find -L . -type l -delete
 
 %build
 
