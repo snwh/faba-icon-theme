@@ -15,10 +15,17 @@ If you're feeling awesome, you may suggest or [request](http://mokaproject.com/r
 
 Faba and all its supplementary themes can be downloaded [here](http://mokaproject.com/faba-icon-theme/download).
 
-###Installing Faba
-To install Faba, you can copy the main theme folder (Faba) into ```~/.local/share/icons``` or copy it into ```/usr/share/icons``` to make it available system-wide. Or run the provided installation script:
+###Installing Paper
 
-    bash install.sh
+You can build and install the theme from source or run the included install script.
+
+	bash autogen.sh
+	make
+	sudo make install
+
+Or run the provided interactive installation script which will walk you through installing Paper:
+
+	bash install-icon-theme.sh
 
 ###Supplementary Themes 
 
