@@ -31,6 +31,11 @@ Context=Actions
 Size=64
 Type=Fixed
 
+[96x96/actions]
+Context=Actions
+Size=96
+Type=Fixed
+
 [256x256/actions]
 Context=Actions
 Size=256
