@@ -1,6 +1,13 @@
 Faba Sources
 ============
 
+### Using the Source
+
+There are scripts to simplify the rendering process; to run them (and edit icons) you will need:
+
+ * inkscape
+ * ruby
+
 ### Hires Sources
 
 Faba's hires icons are rendered from these source "plates". The using the **render-hires.rb** script, looks for a "Baseplate" layer in the SVG and renders a hires PNG icon from that.

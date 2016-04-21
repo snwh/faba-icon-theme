@@ -14,14 +14,14 @@
 
 
 Name:		faba-icon-theme
-Version:	4.0
-Release:	11
+Version:	4.1
+Release:	0
 
 Summary:	Faba Icon theme
 Group:		System/GUI/Other
 License:    LGPL-3.0+ or CC-BY-SA-4.0
 Group:      System/GUI/GNOME
-Url:        http://www.mokaproject.com/faba-icon-theme
+Url:        http://www.snwh.org/moka
 Source0:	%{name}-%{version}.tar.gz
 Requires:	hicolor-icon-theme, gnome-icon-theme
 BuildArch:	noarch
