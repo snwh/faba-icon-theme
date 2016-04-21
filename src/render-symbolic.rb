@@ -11,8 +11,8 @@ INKSCAPE = '/usr/bin/inkscape'
 # 16px Symbolic Icons #
 # ------------------- #
 
-SRC16 = "src/symbolic/source-symbolic-16x16.svg"
-PREFIX16 = "Faba/symbolic"
+SRC16 = "symbolic/source-symbolic-16x16.svg"
+PREFIX16 = "../Faba/symbolic"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -21,7 +21,7 @@ def chopSVG(icon)
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
-		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
+		cmd += "--verb=FileSave --verb=FileQuit > /dev/null 2>&1"
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
 		#cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
@@ -80,8 +80,8 @@ end
 # 24px Symbolic Icons #
 # ------------------- #
 
-SRC24 = "src/symbolic/source-symbolic-24x24.svg"
-PREFIX24 = "Faba/24x24"
+SRC24 = "symbolic/source-symbolic-24x24.svg"
+PREFIX24 = "../Faba/24x24"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -90,7 +90,7 @@ def chopSVG(icon)
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
-		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
+		cmd += "--verb=FileSave --verb=FileQuit > /dev/null 2>&1"
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
 		#cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
@@ -150,8 +150,8 @@ end
 # 48px Symbolic Icons #
 # ------------------- #
 
-SRC48 = "src/symbolic/source-symbolic-48x48.svg"
-PREFIX48 = "Faba/48x48"
+SRC48 = "symbolic/source-symbolic-48x48.svg"
+PREFIX48 = "../Faba/48x48"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -160,7 +160,7 @@ def chopSVG(icon)
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
-		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
+		cmd += "--verb=FileSave --verb=FileQuit > /dev/null 2>&1"
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
 		#cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"

@@ -34,9 +34,9 @@
      inkscape:window-height="699"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="252.70461"
-     inkscape:cy="463.23639"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="223.10336"
+     inkscape:cy="260.91441"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -12245,7 +12245,7 @@
        transform="translate(-95,-31)"
        style="display:inline;enable-background:new"
        id="g6320"
-       inkscape:label="marker">
+       inkscape:label="mail-flag">
       <g
          transform="translate(154,354)"
          inkscape:label="starred"
@@ -12284,7 +12284,7 @@
     </g>
     <g
        id="g5980"
-       inkscape:label="spam">
+       inkscape:label="mail-mark-junk">
       <rect
          style="color:#000000;fill:none;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect6211"
@@ -12300,7 +12300,7 @@
     </g>
     <g
        id="g6276"
-       inkscape:label="tag">
+       inkscape:label="edit-tag">
       <g
          id="g5313"
          inkscape:label="starred"

@@ -4,7 +4,7 @@ require "rexml/document"
 require "fileutils"
 include REXML
 INKSCAPE = '/usr/bin/inkscape'
-SRC = "./src/hires"
+SRC = "./hires"
 
 def renderit(file,explicit)
   svg = Document.new(File.new("#{SRC}/#{file}", 'r'))
@@ -15,7 +15,7 @@ def renderit(file,explicit)
       icon_name = icon.elements["text[@inkscape:label='icon-name']/tspan"].nil? ? 'blank' : icon.elements["text[@inkscape:label='icon-name']/tspan"].text
       puts "#{file}:#{icon.attributes['inkscape:label']}  #{context}/#{icon_name}"
       icon.each_element("rect") do |box|
-        dir = "Faba/#{box.attributes['width']}x#{box.attributes['height']}/#{context}"
+        dir = "../Faba/#{box.attributes['width']}x#{box.attributes['height']}/#{context}"
         out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
         cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
         FileUtils.makedirs(dir) unless File.exists?(dir)
@@ -24,7 +24,7 @@ def renderit(file,explicit)
         elsif (box.attributes['width']=="256")
           system(cmd)
           print "."
-          dir = "Faba/512x512/#{context}"
+          dir = "../Faba/256x256/#{context}"
           out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
           cmd = "#{INKSCAPE} -i #{box.attributes['id']} -d 180 -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
           system(cmd)
