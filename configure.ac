@@ -1,4 +1,4 @@
-AC_INIT([Faba ], 4.0, [sam@snwh.org], [Faba], [http://snwh.org/moka])
+AC_INIT([Faba ], 4.1, [sam@snwh.org], [Faba], [http://snwh.org/moka])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1.9 tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 AM_SILENT_RULES([yes])

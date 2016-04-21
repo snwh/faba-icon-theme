@@ -9,7 +9,7 @@ Faba Icon Theme is distributed under the terms of the GNU LGPL-3.0+ or CC-BY-SA-
 
 If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
 
-###Installing Moka
+###Installing Faba
 
 You can build and install the theme from source or run the included install script.
 
@@ -17,7 +17,7 @@ You can build and install the theme from source or run the included install scri
 	make
 	sudo make install
 
-Or run the provided interactive installation script which will walk you through installing Moka:
+Or run the provided interactive installation script which will walk you through installing Faba:
 
 	bash install-icon-theme.sh
 

@@ -1,6 +1,6 @@
 # Spec file for package faba-icon-theme
 #
-# Copyright (c) 2014 Sam Hewitt <hewittsamuel@gmail.com>
+# Copyright (c) 2016 Sam Hewitt <sam@snwh.org>
 #
 # All modifications and additions to the file contributed by third parties
 # remain the property of their copyright owners, unless otherwise agreed
