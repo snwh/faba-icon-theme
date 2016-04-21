@@ -9,8 +9,6 @@ Faba Icon Theme is distributed under the terms of the GNU LGPL-3.0+ or CC-BY-SA-
 
 If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
 
-If you're feeling awesome, you may suggest or [request](http://snwh.org/moka/requests) icons I've missed or make a [donation](http://www.snwh.org/moka/donate/ "Donate") to the project to fuel its development. :smile:
-
 ###Installing Moka
 
 You can build and install the theme from source or run the included install script.
