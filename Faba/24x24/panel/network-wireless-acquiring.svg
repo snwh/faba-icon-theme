@@ -6,43 +6,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   version="1.1"
-   width="24"
+   style="enable-background:new"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="network-wireless-acquiring.svg"
-   style="enable-background:new">
-  <sodipodi:namedview
-     pagecolor="#353535"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0.43529412"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="12.03125"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer9">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2990"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+   width="24"
+   version="1.1"
+   height="24">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -57,31 +25,26 @@
   <defs
      id="defs7386">
     <linearGradient
-       id="linearGradient5606"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5606">
       <stop
          id="stop5608" />
     </linearGradient>
   </defs>
   <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     transform="translate(-360.96897,363)">
+     transform="translate(-360.96897,363)"
+     id="layer9">
     <path
-       style="opacity:0.35;fill:#000000"
-       id="path6495"
        d="m 370.00022,-352 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z"
-       inkscape:connector-curvature="0" />
+       id="path6495"
+       style="opacity:0.35;fill:#000000" />
     <path
-       style="opacity:0.35;color:#000000;fill:#ffffff"
-       d="m 373.00022,-357 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 378.71236,-355.93454 376.01127,-357 373.00022,-357 z m -3.03125,3 6,0 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 l -6,0 c -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
        id="path7627"
-       inkscape:connector-curvature="0" />
+       d="m 373.00022,-357 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 C 378.71236,-355.93454 376.01127,-357 373.00022,-357 z m -3.03125,3 6,0 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 l -6,0 c -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
+       style="opacity:0.35;color:#000000;fill:#ffffff" />
     <path
-       inkscape:connector-curvature="0"
-       d="m 370.00022,-353 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z"
+       style="fill:#ffffff"
        id="path4955"
-       style="fill:#ffffff" />
+       d="m 370.00022,-353 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,0 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z" />
   </g>
 </svg>

@@ -1,9 +1,38 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="24" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg">
- <metadata id="metadata90"/>
- <g inkscape:groupmode="layer" id="layer12" inkscape:label="actions" transform="translate(-528.99992,-161)">
-  <g id="layer12-5" transform="matrix(1.8,0,0,1.8,418.59992,-1148.2)">
-   <path inkscape:connector-curvature="0" d="m 66.888889,729 0,3.88889 -3.888889,0 0,2.22222 3.888889,0 0,3.88889 2.222222,0 0,-3.88889 3.888889,0 0,-2.22222 -3.888889,0 0,-3.88889 z" id="rect31992" sodipodi:nodetypes="ccccccccccccc" fill="#bebebe" color="#bebebe"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   width="24"
+   version="1.1"
+   height="24">
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-528.99992,-161)"
+     id="layer12">
+    <g
+       transform="matrix(1.8,0,0,1.8,418.59992,-1148.2)"
+       id="layer12-5">
+      <path
+         color="#bebebe"
+         fill="#bebebe"
+         id="rect31992"
+         d="m 66.888889,729 0,3.88889 -3.888889,0 0,2.22222 3.888889,0 0,3.88889 2.222222,0 0,-3.88889 3.888889,0 0,-2.22222 -3.888889,0 0,-3.88889 z" />
+    </g>
   </g>
- </g>
 </svg>

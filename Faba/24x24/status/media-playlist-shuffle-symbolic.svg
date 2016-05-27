@@ -1,10 +1,47 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="24" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg">
- <metadata id="metadata90"/>
- <g inkscape:groupmode="layer" id="layer9" inkscape:label="status" transform="translate(-577.0002,-89)">
-  <path inkscape:connector-curvature="0" d="m 578.0002,93.999995 0,1.40625 0,1.59375 5.55806,0 c 0.85695,0 1.5,0.64305 1.5,1.5 l 0,6.000005 c 0,2.46704 2.03295,4.5 4.5,4.5 l 7.94194,0 0,-3 -7.94194,0 c -0.85695,0 -1.5,-0.64306 -1.5,-1.5 l 0,-6.000005 c 0,-2.46705 -2.03295,-4.5 -4.5,-4.5 z" id="path4544-6" sodipodi:nodetypes="cccssssccssssc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 589.55826,93.999995 c -0.34436,0 -0.66128,0.0657 -0.98438,0.14055 0.72195,0.82665 1.29188,1.7664 1.5468,2.8593 l 7.37944,0 0,-3 -7.94194,0 z M 578.0002,109 l 5.55806,0 c 0.34435,0 0.66127,-0.0657 0.98437,-0.14056 -0.72195,-0.82672 -1.29187,-1.76655 -1.5468,-2.85944 l -4.99563,0 z" id="path4544-1-5" sodipodi:nodetypes="ccccccccscccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 594.00058,90.999995 0,9 6,-4.5 z" id="path3003-08" fill="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 594.00058,103 0,9 6,-4.5 z" id="path3773" fill="#bebebe"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   width="24"
+   version="1.1"
+   height="24">
+  <defs
+     id="defs12" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-577.0002,-89)"
+     id="layer9">
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="path4544-6"
+       d="m 578.0002,93.999995 0,1.40625 0,1.59375 5.55806,0 c 0.85695,0 1.5,0.64305 1.5,1.5 l 0,6.000005 c 0,2.46704 2.03295,4.5 4.5,4.5 l 7.94194,0 0,-3 -7.94194,0 c -0.85695,0 -1.5,-0.64306 -1.5,-1.5 l 0,-6.000005 c 0,-2.46705 -2.03295,-4.5 -4.5,-4.5 z" />
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="path4544-1-5"
+       d="m 589.55826,93.999995 c -0.34436,0 -0.66128,0.0657 -0.98438,0.14055 0.72195,0.82665 1.29188,1.7664 1.5468,2.8593 l 7.37944,0 0,-3 -7.94194,0 z M 578.0002,109 l 5.55806,0 c 0.34435,0 0.66127,-0.0657 0.98437,-0.14056 -0.72195,-0.82672 -1.29187,-1.76655 -1.5468,-2.85944 l -4.99563,0 z" />
+    <path
+       fill="#bebebe"
+       id="path3003-08"
+       d="m 594.00058,90.999995 0,9 6,-4.5 z" />
+    <path
+       fill="#bebebe"
+       id="path3773"
+       d="m 594.00058,103 0,9 6,-4.5 z" />
+  </g>
 </svg>

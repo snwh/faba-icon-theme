@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,45 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg5808"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="starred.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="700"
-     id="namedview26"
-     showgrid="false"
-     showborder="false"
-     inkscape:zoom="1"
-     inkscape:cx="-4.5550417"
-     inkscape:cy="-0.99362882"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5808"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3846" />
-  </sodipodi:namedview>
+   id="svg5808">
   <defs
      id="defs5810">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3838">
       <stop
          style="stop-color:#e1bf23;stop-opacity:1;"
@@ -58,84 +24,6 @@
          id="stop3842" />
     </linearGradient>
     <linearGradient
-       id="linearGradient6728">
-      <stop
-         id="stop6730"
-         style="stop-color:#dcc152;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6732"
-         style="stop-color:#c7ae46;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="223.51138"
-       y1="1199.033"
-       x2="223.51138"
-       y2="1181.2115"
-       id="linearGradient6807"
-       xlink:href="#linearGradient4222-8-1-7-8-1-5-9"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient6801">
-      <stop
-         id="stop6803"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6805"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="16.646177"
-       y1="-33.686405"
-       x2="1.0360155"
-       y2="-33.686405"
-       id="linearGradient6455"
-       xlink:href="#linearGradient6801"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.48414005,-0.46524241,0,-10.763163,10.845084)" />
-    <linearGradient
-       id="linearGradient4222-8-1-7-8-1-5-9">
-      <stop
-         id="stop4224-4-3-2-5-0-2-7"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4226-8-1-6-0-5-2-0"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="11"
-       y1="1"
-       x2="11"
-       y2="15"
-       id="linearGradient6734"
-       xlink:href="#linearGradient6728"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient6728-5">
-      <stop
-         id="stop6730-4"
-         style="stop-color:#c8a100;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6732-0"
-         style="stop-color:#bc9000;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="11"
-       y1="1"
-       x2="11"
-       y2="15"
-       id="linearGradient3817"
-       xlink:href="#linearGradient6728-5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3838"
        id="linearGradient3844"
        x1="16"
@@ -144,7 +32,6 @@
        y2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3904"
        id="linearGradient3902"
        x1="12"
@@ -165,17 +52,6 @@
          style="stop-color:#0e7398;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       y2="9"
-       x2="12"
-       y1="15"
-       x1="12"
-       gradientTransform="translate(0.5,0.5)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3046"
-       xlink:href="#linearGradient3886"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient3886">
       <stop
          style="stop-color:#5097e1;stop-opacity:1;"
@@ -194,8 +70,7 @@
        gradientTransform="translate(0.5,0.5)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3058"
-       xlink:href="#linearGradient3886"
-       inkscape:collect="always" />
+       xlink:href="#linearGradient3886" />
   </defs>
   <metadata
      id="metadata5813">
@@ -205,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -224,15 +99,12 @@
   <path
      style="fill:url(#linearGradient3058);fill-opacity:1;stroke:none;display:inline"
      d="m 11.5,9.5 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
-     id="rect3881"
-     inkscape:connector-curvature="0" />
+     id="rect3881" />
   <path
-     inkscape:connector-curvature="0"
      id="path3894"
      d="m 11.5,9.5 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
      style="opacity:0.81000001;fill:none;stroke:url(#linearGradient3902);stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   <path
-     inkscape:connector-curvature="0"
      style="opacity:0.1;fill:#d4f3ff;fill-opacity:1;stroke:none;display:inline"
      d="m 12,10 0,1 1,0 0,-1 -1,0 z m -2,2 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z"
      id="rect3910" />

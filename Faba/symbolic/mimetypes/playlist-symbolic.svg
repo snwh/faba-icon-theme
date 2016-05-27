@@ -1,19 +1,64 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg" enable-background="new">
- <metadata id="metadata90"/>
- <defs id="defs7386">
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608"/>
-  </linearGradient>
-  <filter inkscape:collect="always" color-interpolation-filters="sRGB" id="filter7554">
-   <feBlend inkscape:collect="always" id="feBlend7556" in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <g inkscape:groupmode="layer" id="layer14" inkscape:label="mimetypes" transform="translate(-740.00012,238)">
-  <path inkscape:connector-curvature="0" d="m 742.99971,-235.00002 -2.1e-4,0.99998 10.00021,2e-5 2.1e-4,-0.99998 z" id="rect7356-3" sodipodi:nodetypes="ccccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 742.99992,-232.00002 -2.1e-4,0.99998 10.00021,2e-5 2.1e-4,-0.99998 z" id="path6091-3" sodipodi:nodetypes="ccccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 742.99992,-229 -2.1e-4,0.99998 6.00028,0 2.1e-4,-0.99998 z" id="path6094-6" sodipodi:nodetypes="ccccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 742.99992,-226.00002 -2.1e-4,0.99998 4.00028,2e-5 2.1e-4,-0.99998 z" id="path6097-0" sodipodi:nodetypes="ccccc" fill="#bebebe" color="#bebebe"/>
-  <path inkscape:connector-curvature="0" d="m 750.0002,-230.00005 0,2 0,2.09375 c -0.15432,-0.0536 -0.32741,-0.0937 -0.5,-0.0937 -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 l 0,-3.5 3,0 0,2.09375 c -0.15432,-0.0536 -0.32741,-0.0937 -0.5,-0.0937 -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 l 0,-5.5 -1,0 -3,0 -1,0 z" id="path6113-7" fill="#bebebe" color="#000000" stroke-width="2"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   enable-background="new"
+   width="16"
+   version="1.1"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         id="stop5608" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-740.00012,238)"
+     id="layer14">
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="rect7356-3"
+       d="m 742.99971,-235.00002 -2.1e-4,0.99998 10.00021,2e-5 2.1e-4,-0.99998 z" />
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="path6091-3"
+       d="m 742.99992,-232.00002 -2.1e-4,0.99998 10.00021,2e-5 2.1e-4,-0.99998 z" />
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="path6094-6"
+       d="m 742.99992,-229 -2.1e-4,0.99998 6.00028,0 2.1e-4,-0.99998 z" />
+    <path
+       color="#bebebe"
+       fill="#bebebe"
+       id="path6097-0"
+       d="m 742.99992,-226.00002 -2.1e-4,0.99998 4.00028,2e-5 2.1e-4,-0.99998 z" />
+    <path
+       stroke-width="2"
+       color="#000000"
+       fill="#bebebe"
+       id="path6113-7"
+       d="m 750.0002,-230.00005 0,2 0,2.09375 c -0.15432,-0.0536 -0.32741,-0.0937 -0.5,-0.0937 -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 l 0,-3.5 3,0 0,2.09375 c -0.15432,-0.0536 -0.32741,-0.0937 -0.5,-0.0937 -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 l 0,-5.5 -1,0 -3,0 -1,0 z" />
+  </g>
 </svg>

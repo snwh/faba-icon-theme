@@ -29,11 +29,3 @@ To render the symbolic icons from their respective source SVG files, run the fol
     ./render-symbolic.rb
 
 This script will look in the source directory (../src/symbolic/*) and render the respective icons (provided there are changes).
-
-- - -
-
-### Vector Sources
-
-These icon sources are simply the unscoured, bloated versions of the final icons. They have extra data (layers, etc.) for ease of development. 
-
-They are simply copied out of the source folder (../src/vector/*) into the main theme folder and scoured for production.
