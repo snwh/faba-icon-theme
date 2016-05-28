@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='battery-low-symbolic.svg' height='48' id='svg2' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' width='48' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs186'/>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer9' inkscape:cx='-13.653028' inkscape:cy='23.989302' gridtolerance='10' guidetolerance='10' id='namedview184' objecttolerance='10' pagecolor='#353535' inkscape:pageopacity='1' inkscape:pageshadow='2' showgrid='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
+    <inkscape:grid empspacing='48' enabled='true' id='grid3174' originx='-95.999996' originy='-48' snapvisiblegridlinesonly='true' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Faba Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Faba Symbolic Icon Theme</title>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' transform='translate(-337.0002,-137)'>
+    <path inkscape:connector-curvature='0' d='m 355.00019,155 0,16 12,0 0,-16 z' id='path3179' sodipodi:nodetypes='ccccc' style='opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none'/>
+    
+    <path inkscape:connector-curvature='0' d='m 357.00019,147 0,2 8,0 0,-2 z m -4.3125,4 c -0.5625,0.0938 -1.6875,0.5 -1.6875,2 l 0,20 c 0,2 2,2 2,2 l 16,0 c 2,0 2,-2 2,-2 l 0,-20 c 0,0 0,-2 -2,-2 l -16,0 c 0,0 -0.125,-0.0312 -0.3125,0 z m 0.3125,2 16,0 0,20 -16,0 z m 2,10 0,8 12,0 0,-8 z' id='path3183' sodipodi:nodetypes='ccccccsscsccscccccccccccc' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+  </g>
+</svg>

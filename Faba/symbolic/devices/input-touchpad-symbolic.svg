@@ -6,11 +6,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    version="1.1"
    style="enable-background:new"
    id="svg7384"
-   height="16.000002">
+   height="16.000002"
+   inkscape:version="0.91 r"
+   sodipodi:docname="input-touchpad-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="741"
+     inkscape:window-height="480"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="14.749998"
+     inkscape:cx="8"
+     inkscape:cy="8.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,53 +68,9 @@
          id="feBlend7556" />
     </filter>
   </defs>
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline"
-     id="layer9" />
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline;filter:url(#filter7554)"
-     id="layer10">
-    <rect
-       y="-496.00021"
-       x="-156.00336"
-       width="16.000002"
-       transform="matrix(0,1,-1,0,0,0)"
-       style="fill:none;stroke:none"
-       id="rect5071"
-       height="16" />
-    <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       id="path5073"
-       d="m 495.0002,-153.00336 c 0,-1 -1,-1 -1,-1 l -12,0 c -1,0 -1,1 -1,1 l 0,10 c 0,0 0,1 1,1 l 12,0 c 0,0 1,0 1,-1 z m -1,-1e-5 0,10 -12,0 0,-10 z" />
-  </g>
-  <g
-     transform="translate(-239,-460.99664)"
-     style="display:inline"
-     id="layer1" />
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline"
-     id="layer14" />
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline"
-     id="layer15" />
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline"
-     id="g71291" />
-  <g
-     transform="translate(-239,-310.99664)"
-     style="display:inline"
-     id="layer2" />
-  <g
-     transform="translate(-239,-310.99664)"
-     style="display:inline"
-     id="g6058" />
-  <g
-     transform="translate(-480.0002,156.00336)"
-     style="display:inline"
-     id="layer12" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 15,3 C 15,2 14,2 14,2 L 2,2 C 1,2 1,3 1,3 l 0,10 c 0,0 0,1 1,1 l 12,0 c 0,0 1,0 1,-1 z m -1,-1e-5 0,10 -12,0 0,-10 z"
+     id="path5073"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;" />
 </svg>

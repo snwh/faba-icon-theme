@@ -6,11 +6,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="15.981825"
    version="1.1"
    style="enable-background:new"
    id="svg7384"
-   height="16">
+   height="16"
+   inkscape:version="0.91 r"
+   sodipodi:docname="zoom-fit-best-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.9909124"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -44,54 +68,9 @@
          id="feBlend7556" />
     </filter>
   </defs>
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline"
-     id="layer9" />
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline;filter:url(#filter7554)"
-     id="layer10" />
-  <g
-     transform="translate(-140.00018,-620.99666)"
-     style="display:inline"
-     id="layer1" />
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline"
-     id="layer14" />
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline"
-     id="layer15" />
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline"
-     id="g71291" />
-  <g
-     transform="translate(-140.00018,-470.99666)"
-     style="display:inline"
-     id="layer2" />
-  <g
-     transform="translate(-140.00018,-470.99666)"
-     style="display:inline"
-     id="g6058" />
-  <g
-     transform="translate(-381.00038,-3.99666)"
-     style="display:inline"
-     id="layer12">
-    <path
-       style="color:#bebebe;fill:#bebebe;stroke:none"
-       id="path5311"
-       d="m 384.1877,5.99664 c -0.6627,0 -1.1875,0.54894 -1.1875,1.21875 l 0,9.5625 c 0,0.66976 0.5248,1.21875 1.1875,1.21875 l 9.625,0 c 0.6627,0 1.1875,-0.54894 1.1875,-1.21875 l 0,-9.5625 c 0,-0.66976 -0.5248,-1.21875 -1.1875,-1.21875 l -9.625,0 z m 0.8125,2 3,0 0,2 -1,0 0,1 -2,0 0,-3 z m 5,0 3,0 0,3 -2,0 0,-1 -1,0 0,-2 z m -5,5 2,0 0,1 1,0 0,2 -3,0 0,-3 z m 6,0 2,0 0,3 -3,0 0,-2 1,0 0,-1 z" />
-    <rect
-       y="3.99666"
-       x="381.0004"
-       width="15.981825"
-       style="fill:none;stroke:none"
-       ry="0"
-       rx="0"
-       id="rect6531"
-       height="16" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 3.18732,1.99998 c -0.6627,0 -1.1875,0.54894 -1.1875,1.21875 l 0,9.5625 c 0,0.66976 0.5248,1.21875 1.1875,1.21875 l 9.625,0 c 0.6627,0 1.1875,-0.54894 1.1875,-1.21875 l 0,-9.5625 c 0,-0.66976 -0.5248,-1.21875 -1.1875,-1.21875 l -9.625,0 z m 0.8125,2 3,0 0,2 -1,0 0,1 -2,0 0,-3 z m 5,0 3,0 0,3 -2,0 0,-1 -1,0 0,-2 z m -5,5 2,0 0,1 1,0 0,2 -3,0 0,-3 z m 6,0 2,0 0,3 -3,0 0,-2 1,0 0,-1 z"
+     id="path5311"
+     style="color:#bebebe;fill:#bebebe;stroke:none" />
 </svg>
