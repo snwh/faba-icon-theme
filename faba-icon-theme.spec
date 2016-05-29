@@ -15,7 +15,7 @@
 
 Name:           faba-icon-theme
 Version:        4.1
-Release:        1
+Release:        2
 License:        CC-BY-SA-4.0
 Summary:        Faba Icon theme
 Url:            https://snwh.org/moka
