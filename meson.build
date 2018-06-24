@@ -1,5 +1,5 @@
 project('faba-icon-theme',
-    version: '4.2',
+    version: '4.3',
     meson_version: '>= 0.40',
     license: 'CC-by-SA',
     default_options: ['prefix=/usr']
