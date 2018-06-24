@@ -6,32 +6,32 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="16px"
-   height="16px"
+   version="1.1"
    id="svg5400"
-   version="1.1">
+   height="16px"
+   width="16px">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         style="stop-color:#555555;stop-opacity:1;"
+         id="stop3823"
          offset="0"
-         id="stop3823" />
+         style="stop-color:#555555;stop-opacity:1;" />
       <stop
-         style="stop-color:#666666;stop-opacity:1;"
+         id="stop3825"
          offset="1"
-         id="stop3825" />
+         style="stop-color:#666666;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3821"
-       id="linearGradient3955"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,1,16,0)"
-       x1="8"
-       y1="16"
+       y2="0"
        x2="8"
-       y2="0" />
+       y1="16"
+       x1="8"
+       gradientTransform="matrix(-1,0,0,1,16,0)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3955"
+       xlink:href="#linearGradient3821" />
   </defs>
   <metadata
      id="metadata5405">
@@ -48,16 +48,16 @@
   <g
      id="layer1">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3955);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path3887"
        d="m 1.2919733,7.8011262 0.375,-0.34375 6,-6 0.34375,-0.34375 0.34375,0.34375 6.0624997,6 0.34375,0.34375 -0.34375,0.375 -1.40625,1.375 -0.34375,0.34375 -0.34375,-0.34375 -2.7812497,-2.75 -0.03125,7.2187498 0,0.5 -0.5,0 -2,0 -0.5,0 0,-0.5 0.03125,-7.2499998 -2.78125,2.78125 -0.375,0.34375 -0.34375,-0.34375 -1.375,-1.375 z"
-       id="path3887" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3955);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       id="path3904"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 1.2919733,7.8011262 0.375,-0.34375 6,-6 0.34375,-0.34375 0.34375,0.34375 6.0624997,6 0.34375,0.34375 -0.34375,0.375 -1.40625,1.375 -0.34375,0.34375 -0.34375,-0.34375 -2.7812497,-2.75 -0.03125,7.2187498 0,0.5 -0.5,0 -2,0 -0.5,0 0,-0.5 0.03125,-7.2499998 -2.78125,2.78125 -0.375,0.34375 -0.34375,-0.34375 -1.375,-1.375 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path3904" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2"
+       id="path3959"
        d="m 8,1.8125 -5.96875,6 0.5,0.5 5.46875,-5.5 0.03125,0 5.53125,5.5 0.5,-0.5 -6.03125,-6 z"
-       id="path3959" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2" />
   </g>
 </svg>

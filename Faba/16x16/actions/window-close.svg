@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg3495"
+   width="16"
    height="16"
-   width="16">
+   id="svg3495"
+   version="1.1">
   <defs
      id="defs3497">
     <linearGradient
        id="linearGradient3783">
       <stop
-         id="stop3785"
+         style="stop-color:#555555;stop-opacity:1;"
          offset="0"
-         style="stop-color:#555555;stop-opacity:1;" />
+         id="stop3785" />
       <stop
-         id="stop3787"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="1"
-         style="stop-color:#666666;stop-opacity:1;" />
+         id="stop3787" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
+       xlink:href="#linearGradient3783"
        id="linearGradient3779"
-       xlink:href="#linearGradient3783" />
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3500">
@@ -45,22 +45,22 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-32)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-32)">
     <path
-       id="path2992"
-       transform="translate(0,32)"
-       d="M 3 0.875 L 0.875 3 L 1.9375 4.0625 L 5.875 8 L 1.9375 11.9375 L 0.875 13 L 3 15.125 L 4.0625 14.0625 L 8 10.125 L 11.9375 14.0625 L 13 15.125 L 15.125 13 L 14.0625 11.9375 L 10.125 8 L 14.0625 4.0625 L 15.125 3 L 13 0.875 L 11.9375 1.9375 L 8 5.875 L 4.0625 1.9375 L 3 0.875 z "
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3779);fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.61"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3779);fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 3 0.875 L 0.875 3 L 1.9375 4.0625 L 5.875 8 L 1.9375 11.9375 L 0.875 13 L 3 15.125 L 4.0625 14.0625 L 8 10.125 L 11.9375 14.0625 L 13 15.125 L 15.125 13 L 14.0625 11.9375 L 10.125 8 L 14.0625 4.0625 L 15.125 3 L 13 0.875 L 11.9375 1.9375 L 8 5.875 L 4.0625 1.9375 L 3 0.875 z "
        transform="translate(0,32)"
-       id="path3781" />
+       id="path2992" />
     <path
-       id="path3783"
+       id="path3781"
        transform="translate(0,32)"
+       d="M 3 0.875 L 0.875 3 L 1.9375 4.0625 L 5.875 8 L 1.9375 11.9375 L 0.875 13 L 3 15.125 L 4.0625 14.0625 L 8 10.125 L 11.9375 14.0625 L 13 15.125 L 15.125 13 L 14.0625 11.9375 L 10.125 8 L 14.0625 4.0625 L 15.125 3 L 13 0.875 L 11.9375 1.9375 L 8 5.875 L 4.0625 1.9375 L 3 0.875 z "
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.61" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2"
        d="M 3 1.5625 L 1.5625 3 L 2.0625 3.5 L 3 2.5625 L 3.71875 3.28125 L 7.65625 7.21875 L 8 7.59375 L 8.34375 7.21875 L 12.28125 3.28125 L 13 2.5625 L 13.9375 3.5 L 14.4375 3 L 13 1.5625 L 12.28125 2.28125 L 8.34375 6.21875 L 8 6.59375 L 7.65625 6.21875 L 3.71875 2.28125 L 3 1.5625 z M 6.0625 8.5 L 2.28125 12.28125 L 1.5625 13 L 2.0625 13.5 L 2.28125 13.28125 L 6.21875 9.34375 L 6.59375 9 L 6.21875 8.65625 L 6.0625 8.5 z M 9.9375 8.5 L 9.78125 8.65625 L 9.40625 9 L 9.78125 9.34375 L 13.71875 13.28125 L 13.9375 13.5 L 14.4375 13 L 13.71875 12.28125 L 9.9375 8.5 z "
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2" />
+       transform="translate(0,32)"
+       id="path3783" />
   </g>
 </svg>

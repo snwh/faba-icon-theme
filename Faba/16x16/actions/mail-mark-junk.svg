@@ -6,32 +6,32 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg3495"
+   width="16"
    height="16"
-   width="16">
+   id="svg3495"
+   version="1.1">
   <defs
      id="defs3497">
     <linearGradient
        id="linearGradient3760">
       <stop
-         id="stop3762"
+         style="stop-color:#e44343;stop-opacity:1;"
          offset="0"
-         style="stop-color:#e44343;stop-opacity:1;" />
+         id="stop3762" />
       <stop
-         id="stop3764"
+         style="stop-color:#ac0808;stop-opacity:1;"
          offset="1"
-         style="stop-color:#ac0808;stop-opacity:1;" />
+         id="stop3764" />
     </linearGradient>
     <linearGradient
-       y2="8"
-       x2="15.5"
-       y1="8"
-       x1="0.5"
-       gradientTransform="matrix(0,1,-1,0,16,0)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3760"
        id="linearGradient3788"
-       xlink:href="#linearGradient3760" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,16,0)"
+       x1="0.5"
+       y1="8"
+       x2="15.5"
+       y2="8" />
   </defs>
   <metadata
      id="metadata3500">
@@ -46,46 +46,46 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-32)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-32)">
     <path
-       id="rect2987"
-       transform="translate(0,32)"
+       style="fill:url(#linearGradient3788);fill-opacity:1;stroke:none"
        d="M 5.375 1.5 L 1.5 5.375 L 1.5 10.625 L 5.375 14.5 L 10.625 14.5 L 14.5 10.625 L 14.5 5.375 L 10.625 1.5 L 5.375 1.5 z "
-       style="fill:url(#linearGradient3788);fill-opacity:1;stroke:none" />
+       transform="translate(0,32)"
+       id="rect2987" />
     <g
-       transform="matrix(0.5,0,0,0.5,-156,-87)"
+       id="g4241"
        style="opacity:0.2;fill:#000000;fill-opacity:1;display:inline;enable-background:new"
-       id="g4241" />
+       transform="matrix(0.5,0,0,0.5,-156,-87)" />
     <g
-       transform="matrix(0.5,0,0,0.5,-156,-87)"
+       id="g3839"
        style="opacity:0.3;fill:#000000;fill-opacity:1;display:inline;enable-background:new"
-       id="g3839">
+       transform="matrix(0.5,0,0,0.5,-156,-87)">
       <path
-         id="path3841"
-         transform="matrix(2,0,0,2,-520,-40)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
          d="m 423,144 c 0,3.34879 0.003,4.31525 0,5 l 2,0 c -0.005,-2 -0.009,-3.00002 0,-5 z m 0,6 0,2 2,0 0,-2 z"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light" />
+         transform="matrix(2,0,0,2,-520,-40)"
+         id="path3841" />
     </g>
     <g
-       id="g3982"
+       transform="matrix(0.5,0,0,0.5,-156,-88)"
        style="fill:#ffffff;fill-opacity:1;display:inline;enable-background:new"
-       transform="matrix(0.5,0,0,0.5,-156,-88)">
+       id="g3982">
       <path
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-         d="m 423,144 c 0,3.34879 0.003,4.31525 0,5 l 2,0 c -0.005,-2 -0.009,-3.00002 0,-5 z m 0,6 0,2 2,0 0,-2 z"
+         id="path3984"
          transform="matrix(2,0,0,2,-520,-40)"
-         id="path3984" />
+         d="m 423,144 c 0,3.34879 0.003,4.31525 0,5 l 2,0 c -0.005,-2 -0.009,-3.00002 0,-5 z m 0,6 0,2 2,0 0,-2 z"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light" />
     </g>
     <path
-       style="fill:none;fill-opacity:1;stroke:#790000;stroke-opacity:1;opacity:0.81"
+       id="path3791"
+       transform="translate(0,32)"
        d="M 5.375 1.5 L 1.5 5.375 L 1.5 10.625 L 5.375 14.5 L 10.625 14.5 L 14.5 10.625 L 14.5 5.375 L 10.625 1.5 L 5.375 1.5 z "
-       transform="translate(0,32)"
-       id="path3791" />
+       style="fill:none;fill-opacity:1;stroke:#790000;stroke-opacity:1;opacity:0.81" />
     <path
-       id="path3793"
-       transform="translate(0,32)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.4"
        d="M 5.5625 2 L 2 5.5625 L 2 6.5625 L 5.5625 3 L 10.4375 3 L 14 6.5625 L 14 5.5625 L 10.4375 2 L 5.5625 2 z "
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.4" />
+       transform="translate(0,32)"
+       id="path3793" />
   </g>
 </svg>

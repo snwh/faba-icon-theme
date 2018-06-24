@@ -6,32 +6,32 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         id="stop3823"
+         style="stop-color:#555555;stop-opacity:1;"
          offset="0"
-         style="stop-color:#555555;stop-opacity:1;" />
+         id="stop3823" />
       <stop
-         id="stop3825"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="1"
-         style="stop-color:#666666;stop-opacity:1;" />
+         id="stop3825" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(-1,0,0,1,16,0)"
-       gradientUnits="userSpaceOnUse"
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
+       xlink:href="#linearGradient3821"
        id="linearGradient3959"
-       xlink:href="#linearGradient3821" />
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,16,0)" />
   </defs>
   <metadata
      id="metadata5405">
@@ -48,16 +48,16 @@
   <g
      id="layer1">
     <path
-       id="path3991-1"
+       style="text-indent:0;text-transform:none;block-progression:tb;color:#000000;fill:url(#linearGradient3959);fill-opacity:1;stroke:none"
        d="m 10.5,0 0,1 0,1.5 1.5,0 c 1.91938,0 3.5,1.5806197 3.5,3.5 l 0,4 c 0,1.91938 -1.58062,3.5 -3.5,3.5 l -1,0 -0.65625,0 L 7,13.5 4,13.5 C 2.08062,13.5 0.5,11.91938 0.5,10 l 0,-4 C 0.5,4.0806197 2.08062,2.5 4,2.5 l 0.25,0 0.75,0 0.5,0 0,0.5 0,0.5 0,0.25 0.1875,-0.15625 4,-3 L 10.5,0 z m -5,4.25 0,0.25 0,0.5 0,0.5 L 5,5.5 4.25,5.5 4,5.5 C 3.678831,5.5 3.5,5.6788313 3.5,6 l 0,4 c 0,0.321169 0.178831,0.5 0.5,0.5 l 3,0 3.34375,0 0.65625,0 1,0 c 0.321169,0 0.5,-0.178831 0.5,-0.5 l 0,-4 C 12.5,5.6788313 12.321169,5.5 12,5.5 l -1.5,0 0,1.5 0,1 -0.8125,-0.59375 -4,-3 L 5.5,4.25 z"
-       style="text-indent:0;text-transform:none;block-progression:tb;color:#000000;fill:url(#linearGradient3959);fill-opacity:1;stroke:none" />
+       id="path3991-1" />
     <path
-       style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.61000001;color:#000000;fill:none;stroke:#000000;stroke-opacity:1"
+       id="path3951"
        d="m 10.5,0 0,1 0,1.5 1.5,0 c 1.91938,0 3.5,1.5806197 3.5,3.5 l 0,4 c 0,1.91938 -1.58062,3.5 -3.5,3.5 l -1,0 -0.65625,0 L 7,13.5 4,13.5 C 2.08062,13.5 0.5,11.91938 0.5,10 l 0,-4 C 0.5,4.0806197 2.08062,2.5 4,2.5 l 0.25,0 0.75,0 0.5,0 0,0.5 0,0.5 0,0.25 0.1875,-0.15625 4,-3 L 10.5,0 z m -5,4.25 0,0.25 0,0.5 0,0.5 L 5,5.5 4.25,5.5 4,5.5 C 3.678831,5.5 3.5,5.6788313 3.5,6 l 0,4 c 0,0.321169 0.178831,0.5 0.5,0.5 l 3,0 3.34375,0 0.65625,0 1,0 c 0.321169,0 0.5,-0.178831 0.5,-0.5 l 0,-4 C 12.5,5.6788313 12.321169,5.5 12,5.5 l -1.5,0 0,1.5 0,1 -0.8125,-0.59375 -4,-3 L 5.5,4.25 z"
-       id="path3951" />
+       style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.61000001;color:#000000;fill:none;stroke:#000000;stroke-opacity:1" />
     <path
-       id="path3998"
+       style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none"
        d="M 10,1 10,2 9.96875,2 6.65625,4.5 6,4 9.96875,1 10,1 z m 2,2 c 1.644879,0 3,1.3551214 3,3 l 0,1 C 15,5.3551214 13.644879,4 12,4 L 10.5,4 10,4 10,3.5 10,3 10.5,3 12,3 z M 5,3 5,3.1875 5,3.5 5,3.75 5,4 4.25,4 4,4 C 2.355122,4 1,5.3551215 1,7 L 1,6 C 1,4.3551215 2.355122,3 4,3 L 4.25,3 5,3 z m 8,7 0,1 c 0,0.253387 -0.08488,0.522381 -0.28125,0.71875 C 12.522381,11.915119 12.253387,12 12,12 L 11,12 10.34375,12 7,12 4,12 C 3.746613,12 3.477619,11.91512 3.28125,11.71875 3.08488,11.522381 3,11.253387 3,11 l 0,-1 c 0,0.253387 0.084881,0.522381 0.28125,0.71875 C 3.477619,10.91512 3.746613,11 4,11 l 3,0 3.34375,0 0.65625,0 1,0 c 0.253387,0 0.522381,-0.08488 0.71875,-0.28125 C 12.915119,10.522381 13,10.253387 13,10 z"
-       style="text-indent:0;text-transform:none;block-progression:tb;opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none" />
+       id="path3998" />
   </g>
 </svg>

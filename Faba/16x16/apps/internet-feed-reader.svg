@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg4060"
-   height="16"
+   version="1.1"
    width="16"
-   version="1.1">
+   height="16"
+   id="svg4060">
   <defs
      id="defs4062">
     <linearGradient
        id="outerBackgroundGradient-10">
       <stop
-         id="stop3864-8-6-9"
+         style="stop-color:#e35000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#e35000;stop-opacity:1;" />
+         id="stop3864-8-6-9" />
       <stop
-         id="stop3866-9-1-81"
+         style="stop-color:#ff8721;stop-opacity:1;"
          offset="1"
-         style="stop-color:#ff8721;stop-opacity:1;" />
+         id="stop3866-9-1-81" />
     </linearGradient>
     <linearGradient
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#outerBackgroundGradient-10"
        id="linearGradient4041"
-       xlink:href="#outerBackgroundGradient-10" />
+       gradientUnits="userSpaceOnUse"
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0" />
   </defs>
   <metadata
      id="metadata4065">
@@ -47,42 +47,42 @@
   <g
      id="layer1">
     <rect
-       width="15"
-       height="15"
-       rx="1.1538461"
-       ry="1.1538461"
-       x="0.50437498"
-       y="0.5"
+       style="color:#000000;fill:url(#linearGradient4041);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-7"
-       style="color:#000000;fill:url(#linearGradient4041);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#43120f;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;opacity:0.60999999999999999"
-       id="rect3018"
        y="0.5"
        x="0.50437498"
        ry="1.1538461"
        rx="1.1538461"
        height="15"
        width="15" />
+    <rect
+       width="15"
+       height="15"
+       rx="1.1538461"
+       ry="1.1538461"
+       x="0.50437498"
+       y="0.5"
+       id="rect3018"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#43120f;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;opacity:0.60999999999999999" />
     <path
-       id="rect3788"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.1"
        d="M 1.65625 1 C 1.2853706 1 1 1.2853706 1 1.65625 L 1 2.65625 C 1 2.2853706 1.2853706 2 1.65625 2 L 14.34375 2 C 14.714629 2 15 2.2853706 15 2.65625 L 15 1.65625 C 15 1.2853706 14.714629 1 14.34375 1 L 1.65625 1 z "
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.1" />
+       id="rect3788" />
     <path
-       style="opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3805"
        d="M 1.78125,16 C 1.4103706,16 1.125,15.714629 1.125,15.34375 l 0,-1 C 1.125,14.714629 1.4103706,15 1.78125,15 l 12.6875,0 c 0.370879,0 0.65625,-0.285371 0.65625,-0.65625 l 0,1 C 15.125,15.714629 14.839629,16 14.46875,16 l -12.6875,0 z"
-       id="path3805" />
+       style="opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     style="display:inline"
-     id="layer2">
+     id="layer2"
+     style="display:inline">
     <path
-       id="path4043"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69602728000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;opacity:0.3"
        d="m 3,4 0,0.83333 c 0,0.45847 0.37789,0.83334 0.83333,0.83334 4.14214,0 7.5,3.35786 7.5,7.5 0,0.45846 0.37789,0.83333 0.83334,0.83333 L 13,14 13,13.16667 C 13,8.10406 8.89594,4 3.83333,4 L 3,4 z M 3,7.33333 3,8.16667 C 3,8.62513 3.37789,9 3.83333,9 6.13452,9 8,10.86548 8,13.16667 8,13.62513 8.37789,14 8.83333,14 l 0.83334,0 0,-0.83333 C 9.66667,9.945 7.055,7.33333 3.83333,7.33333 L 3,7.33333 z m 1.66667,3.33334 C 3.74619,10.66667 3,11.41286 3,12.33333 3,13.25381 3.74619,14 4.66667,14 c 0.92047,0 1.66666,-0.74619 1.66666,-1.66667 0,-0.92047 -0.74619,-1.66666 -1.66666,-1.66666 z"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69602728000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;opacity:0.3" />
+       id="path4043" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69602728;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="path3871"
        d="m 3,3 0,0.83333 c 0,0.45847 0.37789,0.83334 0.83333,0.83334 4.14214,0 7.5,3.35786 7.5,7.5 0,0.45846 0.37789,0.83333 0.83334,0.83333 L 13,13 13,12.16667 C 13,7.10406 8.89594,3 3.83333,3 L 3,3 z M 3,6.33333 3,7.16667 C 3,7.62513 3.37789,8 3.83333,8 6.13452,8 8,9.86548 8,12.16667 8,12.62513 8.37789,13 8.83333,13 l 0.83334,0 0,-0.83333 C 9.66667,8.945 7.055,6.33333 3.83333,6.33333 L 3,6.33333 z M 4.66667,9.66667 C 3.74619,9.66667 3,10.41286 3,11.33333 3,12.25381 3.74619,13 4.66667,13 c 0.92047,0 1.66666,-0.74619 1.66666,-1.66667 0,-0.92047 -0.74619,-1.66666 -1.66666,-1.66666 z"
-       id="path3871" />
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69602728;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
 </svg>

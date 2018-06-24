@@ -1,29 +1,51 @@
 Faba Icon Theme
 ===============
 
-Faba is a sexy and modern icon theme with Tango influences. All variations and supplementary themes for Faba, require this base theme.
+Faba is a sexy and modern FreeDesktop icon set with Tango and elementary influences. It is specifically designed to be a base icon set for the [Moka icon theme](https://github.com/snwh/moka-icon-theme.)
 
-Faba Icon Theme is distributed under the terms of the GNU LGPL-3.0+ or CC-BY-SA-4.0
+## Copying or Reusing
 
-###Preamble
+This project has mixed licencing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each licence accordingly (unless otherwise specified).
 
-If you find any bugs or issues with Faba or if you have a question, you can visit Faba's issue tracker on [GitHub](https://github.com/moka-project/faba-icon-theme/issues).
+The Faba icon assets are licenced under the terms of the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-###Installing Faba
+Included scripts are free software licenced under the terms of the [GNU General Public License, version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
-You can build and install the theme from source or run the included install script.
+## Installing & Using
 
-	bash autogen.sh
-	make
-	sudo make install
+You can build and install Faba from source using Meson.
 
-Or run the provided interactive installation script which will walk you through installing Faba:
+```bash
+# build
+meson "build" --prefix=/usr
+# install
+sudo ninja -C "build" install
+```
 
-	bash install-icon-theme.sh
+By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
 
-###Supplementary Themes 
+After which you should be able to pick Faba as your icon or cursor theme in GNOME Tweak tool, or you can set either from a terminal with:
 
- * [Faba Mono Icons](https://github.com/moka-project/faba-mono-icons)
+```bash
+# set the icon theme
+gsettings set org.gnome.desktop.interface icon-theme "Faba"
+```
 
+### Uninstalling Faba
 
------------
+To uninstall Faba, simply run the following. (If you installed it without superuser priveleges just omit the  `sudo`.)
+
+```bash
+sudo ninja -C "build" uninstall
+```
+
+Once uninstalled you can reset your icon and cursor theme to the default setting by running the following.
+
+```bash
+# reset icon theme to default
+gsettings reset org.gnome.desktop.interface icon-theme
+```
+
+## Donate & Support
+
+If you would like to support development by making a donation you can do so [here](https://snwh.org/donate) or by becoming a supporter on [Patreon](http://patreon.com/snwh/) or [Liberapay](http://liberapay.com/snwh/). &#x1F60A;

@@ -6,32 +6,32 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         id="stop3823"
+         style="stop-color:#555555;stop-opacity:1;"
          offset="0"
-         style="stop-color:#555555;stop-opacity:1;" />
+         id="stop3823" />
       <stop
-         id="stop3825"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="1"
-         style="stop-color:#666666;stop-opacity:1;" />
+         id="stop3825" />
     </linearGradient>
     <linearGradient
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
-       gradientTransform="translate(8,18)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3821"
        id="linearGradient4000"
-       xlink:href="#linearGradient3821" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8,18)"
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0" />
   </defs>
   <metadata
      id="metadata5405">
@@ -48,28 +48,28 @@
   <g
      id="layer1">
     <use
-       height="16"
-       width="16"
-       transform="translate(-3,0)"
-       id="use4002"
-       xlink:href="#g3843"
+       x="0"
        y="0"
-       x="0" />
+       xlink:href="#g3843"
+       id="use4002"
+       transform="translate(-3,0)"
+       width="16"
+       height="16" />
     <g
-       transform="translate(-8,-18)"
-       id="g3843">
+       id="g3843"
+       transform="translate(-8,-18)">
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:url(#linearGradient4000);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         id="path3053"
          d="m 17.5,20.15625 -0.78125,0.5625 -4.84375,3.375 -0.59375,0.40625 0.59375,0.40625 4.84375,3.375 0.78125,0.5625 0,-0.96875 0,-1.375 1,0 c 0.810396,0 1.520638,0.546229 1.71875,1.15625 0.06954,0.214127 -0.08428,0.916178 -0.375,1.5 -0.290717,0.583822 -0.625,1.0625 -0.625,1.0625 l -0.9375,1.3125 1.53125,-0.5625 c 0,0 0.808734,-0.299792 1.625,-0.9375 0.816266,-0.637708 1.6875,-1.669872 1.6875,-3.09375 0,-1.278038 -0.402386,-2.393091 -1.15625,-3.1875 C 21.214886,22.955591 20.118138,22.5 18.875,22.5 l -1.375,0 0,-1.375 0,-0.96875 z"
-         id="path3053" />
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:url(#linearGradient4000);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <path
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         id="path4400-3-3-2"
          d="M 17,21.125 12.15625,24.5 12.875,25 17,22.125 l 0,-1 z m 0,1.875 0,1 1.875,0 c 2.062756,0 3.494629,1.346794 3.71875,3.375 C 22.615723,27.232864 22.625,27.089844 22.625,26.9375 22.625,24.594859 21.125,23 18.875,23 L 17,23 z m 3.65625,5.46875 C 20.382707,29.438314 19.625,30.5 19.625,30.5 c 0,0 0.336806,-0.149306 0.78125,-0.40625 0.246591,-0.555917 0.420954,-1.163577 0.28125,-1.59375 -0.0041,-0.01275 -0.02682,-0.01859 -0.03125,-0.03125 z"
-         id="path4400-3-3-2" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <path
-         id="path3838"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 17.5,20.15625 -0.78125,0.5625 -4.84375,3.375 -0.59375,0.40625 0.59375,0.40625 4.84375,3.375 0.78125,0.5625 0,-0.96875 0,-1.375 1,0 c 0.810396,0 1.520638,0.546229 1.71875,1.15625 0.06954,0.214127 -0.08428,0.916178 -0.375,1.5 -0.290717,0.583822 -0.625,1.0625 -0.625,1.0625 l -0.9375,1.3125 1.53125,-0.5625 c 0,0 0.808734,-0.299792 1.625,-0.9375 0.816266,-0.637708 1.6875,-1.669872 1.6875,-3.09375 0,-1.278038 -0.402386,-2.393091 -1.15625,-3.1875 C 21.214886,22.955591 20.118138,22.5 18.875,22.5 l -1.375,0 0,-1.375 0,-0.96875 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         id="path3838" />
     </g>
   </g>
 </svg>

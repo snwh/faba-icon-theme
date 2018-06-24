@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         id="stop3823"
+         style="stop-color:#555555;stop-opacity:1;"
          offset="0"
-         style="stop-color:#555555;stop-opacity:1;" />
+         id="stop3823" />
       <stop
-         id="stop3825"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="1"
-         style="stop-color:#666666;stop-opacity:1;" />
+         id="stop3825" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
+       xlink:href="#linearGradient3821"
        id="linearGradient4506"
-       xlink:href="#linearGradient3821" />
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5405">
@@ -47,16 +47,16 @@
   <g
      id="layer1">
     <path
-       id="path4491"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4506);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 1.5 1.5 L 1.5 2 L 1.5 14 L 1.5 14.5 L 2 14.5 L 6 14.5 L 6.5 14.5 L 6.5 14 L 6.5 2 L 6.5 1.5 L 6 1.5 L 2 1.5 L 1.5 1.5 z M 9.5 1.5 L 9.5 2 L 9.5 14 L 9.5 14.5 L 10 14.5 L 14 14.5 L 14.5 14.5 L 14.5 14 L 14.5 2 L 14.5 1.5 L 14 1.5 L 10 1.5 L 9.5 1.5 z "
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4506);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path4491" />
     <path
-       id="path3807-1-1-5-8-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2"
        d="M 2 2 L 2 3 L 6 3 L 6 2 L 2 2 z M 10 2 L 10 3 L 14 3 L 14 2 L 10 2 z "
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.2" />
+       id="path3807-1-1-5-8-6" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.61"
+       id="path4508"
        d="M 1.5 1.5 L 1.5 2 L 1.5 14 L 1.5 14.5 L 2 14.5 L 6 14.5 L 6.5 14.5 L 6.5 14 L 6.5 2 L 6.5 1.5 L 6 1.5 L 2 1.5 L 1.5 1.5 z M 9.5 1.5 L 9.5 2 L 9.5 14 L 9.5 14.5 L 10 14.5 L 14 14.5 L 14.5 14.5 L 14.5 14 L 14.5 2 L 14.5 1.5 L 14 1.5 L 10 1.5 L 9.5 1.5 z "
-       id="path4508" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.61" />
   </g>
 </svg>

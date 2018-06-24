@@ -6,38 +6,38 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         id="stop3823"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3823" />
       <stop
-         id="stop3825"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3825" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
+       xlink:href="#linearGradient3821"
        id="linearGradient4448"
-       xlink:href="#linearGradient3821" />
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
     <clipPath
-       id="clipPath3852"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3852">
       <path
-         id="path3854"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="M 3.5,2 C 3.5,2 3.099493,1.9971285 2.71875,2.1875 2.338007,2.3778715 2,2.6666667 2,3.5 l 0,9 c 0,0 -0.00287,0.400507 0.1875,0.78125 C 2.3778715,13.661993 2.6666667,14 3.5,14 l 9,0 c 0,0 0.400507,0.0029 0.78125,-0.1875 C 13.661993,13.622128 14,13.333333 14,12.5 l 0,-9 c 0,0 0.0029,-0.400507 -0.1875,-0.78125 C 13.622128,2.338007 13.333333,2 12.5,2 l -9,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         id="path3854" />
     </clipPath>
   </defs>
   <metadata
@@ -55,28 +55,28 @@
   <g
      id="layer1">
     <path
-       id="path4436"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4448);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 1.5,3.5 0,9 c 0,2 2,2 2,2 l 9,0 c 2,0 2,-2 2,-2 l 0,-9 c 0,-2 -2,-2 -2,-2 l -9,0 c -2,0 -2,2 -2,2 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4448);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path4436" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.40999999999999998"
+       id="path3832"
        d="m 1.5,12.5 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 l -9,0 c -2,0 -2,-2 -2,-2 z"
-       id="path3832" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.40999999999999998" />
     <path
-       id="path3811"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.10000000000000001"
        d="M 3.5 2 C 3.5 2 3.099493 1.9971285 2.71875 2.1875 C 2.338007 2.3778715 2 2.6666667 2 3.5 L 2 4.5 C 2 3.6666667 2.338007 3.3778715 2.71875 3.1875 C 3.099493 2.99713 3.5 3 3.5 3 L 12.5 3 C 13.333333 3 13.622128 3.338007 13.8125 3.71875 C 14.0029 4.099493 14 4.5 14 4.5 L 14 3.5 C 14 3.5 14.002872 3.099493 13.8125 2.71875 C 13.622128 2.338007 13.333333 2 12.5 2 L 3.5 2 z "
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.10000000000000001" />
+       id="path3811" />
     <path
-       clip-path="url(#clipPath3852)"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.05000000000000000"
+       id="path3850"
        d="M 3.5 2 C 3.5 2 3.099493 1.9971285 2.71875 2.1875 C 2.338007 2.3778715 2 2.6666667 2 3.5 L 2 12.5 C 2 12.5 1.9971285 12.900507 2.1875 13.28125 C 2.3778715 13.661993 2.6666667 14 3.5 14 L 12.5 14 C 12.5 14 12.900507 14.002872 13.28125 13.8125 C 13.661993 13.622128 14 13.333333 14 12.5 L 14 3.5 C 14 3.5 14.002872 3.099493 13.8125 2.71875 C 13.622128 2.338007 13.333333 2 12.5 2 L 3.5 2 z "
-       id="path3850" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.05000000000000000"
+       clip-path="url(#clipPath3852)" />
   </g>
   <g
      id="layer2">
     <path
-       id="path3051"
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 4.5,8.5 2,2 5,-5"
-       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       id="path3051" />
   </g>
 </svg>

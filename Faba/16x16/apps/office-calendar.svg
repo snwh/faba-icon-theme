@@ -6,50 +6,50 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="16px"
-   height="16px"
+   version="1.1"
    id="svg5400"
-   version="1.1">
+   height="16px"
+   width="16px">
   <defs
      id="defs5402">
     <linearGradient
-       xlink:href="#linearGradient3413"
-       id="linearGradient4025"
-       gradientUnits="userSpaceOnUse"
-       x1="8"
-       y1="16"
+       y2="0"
        x2="8"
-       y2="0" />
+       y1="16"
+       x1="8"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4025"
+       xlink:href="#linearGradient3413" />
     <linearGradient
        id="outerBackgroundGradient-6">
       <stop
-         style="stop-color:#c23021;stop-opacity:1;"
+         id="stop3864-8-6-0"
          offset="0"
-         id="stop3864-8-6-0" />
+         style="stop-color:#c23021;stop-opacity:1;" />
       <stop
-         style="stop-color:#e74c3c;stop-opacity:1;"
+         id="stop3866-9-1-7-5"
          offset="1"
-         id="stop3866-9-1-7-5" />
+         style="stop-color:#e74c3c;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3413">
       <stop
-         style="stop-color:#dddddd;stop-opacity:1;"
+         id="stop3415"
          offset="0"
-         id="stop3415" />
+         style="stop-color:#dddddd;stop-opacity:1;" />
       <stop
-         style="stop-color:#f2f2f2;stop-opacity:1;"
+         id="stop3417"
          offset="1"
-         id="stop3417" />
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#outerBackgroundGradient-6"
-       id="linearGradient3883"
-       gradientUnits="userSpaceOnUse"
-       x1="8"
-       y1="16"
+       y2="0"
        x2="8"
-       y2="0" />
+       y1="16"
+       x1="8"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3883"
+       xlink:href="#outerBackgroundGradient-6" />
   </defs>
   <metadata
      id="metadata5405">
@@ -66,45 +66,45 @@
   <g
      id="layer1">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3883);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path3878"
        d="M 3.5 1.5 C 1.5 1.5 1.5 3.5 1.5 3.5 L 1.5 5 L 14.5 5 L 14.5 3.5 C 14.5 1.5 12.5 1.5 12.5 1.5 L 3.5 1.5 z "
-       id="path3878" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3883);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4025);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path4436"
        d="M 1.5 5 L 1.5 12.5 C 1.5 14.5 3.5 14.5 3.5 14.5 L 12.5 14.5 C 14.5 14.5 14.5 12.5 14.5 12.5 L 14.5 5 L 1.5 5 z "
-       id="path4436" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4025);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <rect
-       style="opacity:0.41000001;fill:#ffffff;fill-opacity:1;stroke:none"
+       y="5"
+       x="1.5"
+       height="1"
+       width="13"
        id="rect3888"
-       width="13"
-       height="1"
-       x="1.5"
-       y="5" />
+       style="opacity:0.41000001;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#ad3125;fill-opacity:1;stroke:none"
-       id="rect3853"
-       width="13"
-       height="1"
-       x="1.5"
-       y="4"
+       ry="1"
        rx="0"
-       ry="1" />
+       y="4"
+       x="1.5"
+       height="1"
+       width="13"
+       id="rect3853"
+       style="fill:#ad3125;fill-opacity:1;stroke:none" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path3832"
        d="M 1 5 L 1 12.5 C 1 12.5 1.00287 13.099493 1.3125 13.71875 C 1.6221285 14.338007 2.3333333 15 3.5 15 L 12.5 15 C 12.5 15 13.099493 14.9971 13.71875 14.6875 C 14.338007 14.377872 15 13.666667 15 12.5 L 15 5 L 14 5 L 14 12.5 C 14 13.333333 13.661993 13.622128 13.28125 13.8125 C 12.900507 14.002872 12.5 14 12.5 14 L 3.5 14 C 2.6666667 14 2.3778715 13.661993 2.1875 13.28125 C 1.9971285 12.900507 2 12.5 2 12.5 L 2 5 L 1 5 z "
-       id="path3832" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2"
+       id="path4035"
        d="M 3.5 2 C 3.5 2 3.099493 1.9971285 2.71875 2.1875 C 2.338007 2.3778715 2 2.6666667 2 3.5 L 2 4.5 C 2 3.6666667 2.338007 3.3778715 2.71875 3.1875 C 3.099493 2.99713 3.5 3 3.5 3 L 12.5 3 C 13.333333 3 13.622128 3.338007 13.8125 3.71875 C 14.0029 4.099493 14 4.5 14 4.5 L 14 3.5 C 14 3.5 14.002872 3.099493 13.8125 2.71875 C 13.622128 2.338007 13.333333 2 12.5 2 L 3.5 2 z "
-       id="path4035" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2" />
     <path
-       id="path4051"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 3.4999987,14.999997 c 0,0 -0.400507,0.0029 -0.78125,-0.1875 -0.380743,-0.190372 -0.71875,-0.479167 -0.71875,-1.3125 l 0,-1 c 0,0.833333 0.338007,1.122128 0.71875,1.3125 0.380743,0.19037 0.78125,0.1875 0.78125,0.1875 l 9.0000003,0 c 0.833333,0 1.122128,-0.338007 1.3125,-0.71875 0.1904,-0.380743 0.1875,-0.78125 0.1875,-0.78125 l 0,1 c 0,0 0.0029,0.400507 -0.1875,0.78125 -0.190372,0.380743 -0.479167,0.71875 -1.3125,0.71875 l -9.0000003,0 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path4051" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001000000003;color:#000000;fill:#8f0202;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path3091"
        d="M 3.5 1 C 3.5 1 2.900507 1.0028715 2.28125 1.3125 C 1.661993 1.6221285 1 2.3333333 1 3.5 L 1 5 L 2 5 L 2 3.5 C 2 2.6666667 2.338007 2.3778715 2.71875 2.1875 C 3.099493 1.9971285 3.5 2 3.5 2 L 12.5 2 C 13.333333 2 13.622128 2.338007 13.8125 2.71875 C 14.002872 3.099493 14 3.5 14 3.5 L 14 5 L 15 5 L 15 3.5 C 15 3.5 14.9971 2.900507 14.6875 2.28125 C 14.377872 1.661993 13.666667 1 12.5 1 L 3.5 1 z "
-       id="path3091" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001000000003;color:#000000;fill:#8f0202;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
   <g
      id="layer2" />

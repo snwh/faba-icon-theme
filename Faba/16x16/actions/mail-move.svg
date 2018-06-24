@@ -6,52 +6,52 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3804">
       <stop
-         id="stop3806"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3806" />
       <stop
-         id="stop3808"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         id="stop3808" />
     </linearGradient>
     <linearGradient
        id="outerBackgroundGradient-4">
       <stop
-         id="stop3864-8-6-6"
+         style="stop-color:#f0f0f0;stop-opacity:1;"
          offset="0"
-         style="stop-color:#f0f0f0;stop-opacity:1;" />
+         id="stop3864-8-6-6" />
       <stop
-         id="stop3866-9-1-7"
+         style="stop-color:#f9f9f9;stop-opacity:1;"
          offset="1"
-         style="stop-color:#f9f9f9;stop-opacity:1;" />
+         id="stop3866-9-1-7" />
     </linearGradient>
     <linearGradient
-       y2="40.00005"
-       x2="144"
-       y1="280.00003"
-       x1="144"
-       gradientTransform="matrix(0,-0.05555556,0.05714289,0,-3.1428659,15)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#outerBackgroundGradient-4"
        id="linearGradient3829"
-       xlink:href="#outerBackgroundGradient-4" />
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1,13)"
-       y2="14"
-       x2="5"
-       y1="1"
-       x1="5"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.05555556,0.05714289,0,-3.1428659,15)"
+       x1="144"
+       y1="280.00003"
+       x2="144"
+       y2="40.00005" />
+    <linearGradient
+       xlink:href="#linearGradient3804"
        id="linearGradient3831"
-       xlink:href="#linearGradient3804" />
+       gradientUnits="userSpaceOnUse"
+       x1="5"
+       y1="1"
+       x2="5"
+       y2="14"
+       gradientTransform="matrix(0,-1,1,0,-1,13)" />
   </defs>
   <metadata
      id="metadata5405">
@@ -68,28 +68,28 @@
   <g
      id="layer1">
     <path
-       id="path3870"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001;color:#bebebe;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 0.8125,0 C 0.35409754,0.0874665 -0.00822337,0.5334 0,1 L 0,2 1,2 1,1 2,1 2,0 1,0 C 0.9687729,-0.00146523 0.9374771,-0.00146523 0.90625,0 0.8750229,-0.00146523 0.8437271,-0.00146523 0.8125,0 z M 4,0 4,1 6,1 6,0 z m 4,0 0,1 2,0 0,-1 z m 4,0 0,1 1,0 0,1 1,0 0,-1 C 13.999948,0.4764155 13.523584,5.24e-5 13,0 z M 0,4 0,6 1,6 1,4 z m 13,0 0,2 1,0 0,-2 z M 0,8 0,10 c 5.2350595e-5,0.523584 0.47641553,0.999948 1,1 l 1,0 0,-1 -1,0 0,-2 z m 13,0 0,2 -1,0 0,1 1,0 c 0.523584,-5.2e-5 0.999948,-0.476416 1,-1 l 0,-2 z m -9,2 0,1 2,0 0,-1 z m 4,0 0,1 2,0 0,-1 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.41000001;color:#bebebe;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path3870" />
     <g
-       transform="matrix(0,1,-1,0,16,3)"
-       id="g3812">
+       id="g3812"
+       transform="matrix(0,1,-1,0,16,3)">
       <path
-         id="path3029"
+         style="opacity:0.41000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1,1.000004 11,1 c 0,4 0,8.000001 0,12 L 1,13 z"
-         style="opacity:0.41000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path3029" />
       <path
-         style="color:#bebebe;fill:url(#linearGradient3829);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3373-6"
          d="M 1,1.000004 11,1 c 0,4 0,8.000001 0,12 L 1,13 z"
-         id="rect3373-6" />
+         style="color:#bebebe;fill:url(#linearGradient3829);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         style="color:#bebebe;fill:url(#linearGradient3831);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3799"
          d="M 1,1 1,13 11,13 11,1 1,1 z m 1,1 8,0 0,10 -8,0 0,-10 z"
-         id="path3799" />
+         style="color:#bebebe;fill:url(#linearGradient3831);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <path
-       id="path3886"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 4.15625,5.5625 4,5.75 3.84375,5.9375 7.125,9.0625 l -3.03125,3 -0.03125,0 L 4.25,12.25 4.4375,12.4375 4.6875,12.21875 7.71875,9.5625 8.6875,10.375 8.84375,10.53125 9,10.65625 9.15625,10.53125 9.3125,10.375 10.28125,9.5625 13.3125,12.21875 13.59375,12.4375 13.75,12.25 l 0.1875,-0.1875 -0.03125,0 -3.03125,-3 3.28125,-3.125 L 14,5.75 13.84375,5.5625 9,9.34375 4.15625,5.5625 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path3886" />
   </g>
 </svg>

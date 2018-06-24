@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="16px"
-   height="16px"
+   version="1.1"
    id="svg5400"
-   version="1.1">
+   height="16px"
+   width="16px">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3821">
       <stop
-         style="stop-color:#555555;stop-opacity:1;"
+         id="stop3823"
          offset="0"
-         id="stop3823" />
+         style="stop-color:#555555;stop-opacity:1;" />
       <stop
-         style="stop-color:#666666;stop-opacity:1;"
+         id="stop3825"
          offset="1"
-         id="stop3825" />
+         style="stop-color:#666666;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3821"
-       id="linearGradient3058"
-       gradientUnits="userSpaceOnUse"
-       x1="8"
-       y1="16"
+       y2="0"
        x2="8"
-       y2="0" />
+       y1="16"
+       x1="8"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3058"
+       xlink:href="#linearGradient3821" />
   </defs>
   <metadata
      id="metadata5405">
@@ -47,16 +47,16 @@
   <g
      id="layer1">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:url(#linearGradient3058);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path3812"
        d="m 1.140625,8.578125 0.4375,0.75 3,5 0.4375,0.71875 0.4375,-0.71875 3,-5 0.4375,-0.75 -0.875,0 -1.5,0 0,-2.5 c 0,-1.417147 1.0828529,-2.5 2.5,-2.5 1.417087,0 2.526739,1.094386 2.5,2.5 l 0,5 0,0.5 0.5,0 2,0 0.5,0 0,-0.5 0,-5 c 0,-3.024833 -2.475167,-5.5 -5.5,-5.5 -3.0250186,0 -5.3997099,2.465954 -5.5,5.46875 l 0,0.03125 0,2.5 -1.5,0 -0.875,0 z"
-       id="path3812" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:url(#linearGradient3058);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       id="path3832"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 1.140625,8.578125 0.4375,0.75 3,5 0.4375,0.71875 0.4375,-0.71875 3,-5 0.4375,-0.75 -0.875,0 -1.5,0 0,-2.5 c 0,-1.417147 1.0828529,-2.5 2.5,-2.5 1.417087,0 2.526739,1.094386 2.5,2.5 l 0,5 0,0.5 0.5,0 2,0 0.5,0 0,-0.5 0,-5 c 0,-3.024833 -2.475167,-5.5 -5.5,-5.5 -3.0250186,0 -5.3997099,2.465954 -5.5,5.46875 l 0,0.03125 0,2.5 -1.5,0 -0.875,0 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.61000001;color:#bebebe;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="path3832" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2"
+       id="path3060"
        d="M 9 1.0625 C 6.2467102 1.0625 4.091805 3.3137451 4 6.0625 L 4 7.0625 C 4.091805 4.3137451 6.2467102 2.0625 9 2.0625 C 11.752072 2.0625 14 4.3104277 14 7.0625 L 14 6.0625 C 14 3.3104277 11.752072 1.0625 9 1.0625 z M 2 9.0625 L 2.59375 10.0625 L 3.5 10.0625 L 4 10.0625 L 4 9.5625 L 4 9.0625 L 3.5 9.0625 L 2 9.0625 z M 6 9.0625 L 6 9.5625 L 6 10.0625 L 6.5 10.0625 L 7.4375 10.0625 L 8.03125 9.0625 L 8 9.0625 L 6.5 9.0625 L 6 9.0625 z "
-       id="path3060" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.2" />
   </g>
 </svg>
